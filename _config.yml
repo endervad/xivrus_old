@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+kramdown:
+  line_width: 150
+  transliterated_header_ids: true
+  
