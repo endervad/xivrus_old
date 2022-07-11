@@ -1,3 +1,7 @@
 theme: jekyll-theme-leap-day
 line_width: 150
-transliterated_header_ids: true
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  transliterated_header_ids: true
