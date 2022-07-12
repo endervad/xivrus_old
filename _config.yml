@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
-line_width: 150
+
 
 kramdown:
   input: GFM
