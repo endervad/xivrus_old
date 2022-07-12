@@ -258,9 +258,14 @@ header {
         background-color: #FFE788;
     }
 
+    .menu {
+        float: left;
+        margin-left: 184px;
+    }
+
     .downloads {
         float: right;
-        margin: 0 45px 0 0;
+        margin-right: 45px;
 
         span {
             float: left;
