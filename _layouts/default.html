@@ -28,7 +28,14 @@
     <div id="banner">
         <span id="logo"></span>
 
-        <a href="{{ site.github.url }}" class="button fork">Главная</a>
+        <div class="fork">
+            <ul>
+                <li><a href="{{ site.github.url }}" class="button">Главная</a></li>
+                <li><a href="{{ site.github.url }}" class="button">Инструкции</a></li>
+                <li><a href="{{ site.github.url }}" class="button">Инструменты</a></li>
+            </ul>
+        </div>
+        
         <!--
         <ul>Разметка
             <li><a href="{{ site.github.url }}" class="button">Основной сюжет (MSQ)</a></li>
@@ -36,8 +43,7 @@
             <li><a href="{{ site.github.url }}" class="button">Действия, навыки, статус-эффекты</a></li>
         </ul>
         -->
-        <a href="{{ site.github.url }}" class="button">Инструкции</a>
-        <a href="{{ site.github.url }}" class="button">Инструменты</a>
+        
         {% if site.show_downloads %}
         <div class="downloads">
             <span>Скачать сборку:</span>
