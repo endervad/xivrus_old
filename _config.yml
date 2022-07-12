@@ -2,6 +2,7 @@ theme: jekyll-theme-leap-day
 
 title: XivRUS (alpha)
 description: Проект русской локализации для FINAL FANTASY XIV
+locale: ru-RU
 show_downloads: true
 
 kramdown:
