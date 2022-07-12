@@ -260,7 +260,9 @@ header {
 
     .menu {
         float: left;
-        margin-left: 184px;
+        position: fixed;
+        left: 50%;
+        margin-left: -429px;
     }
 
     .downloads {
