@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Добро пожаловать в GitHub Pages
 
 You can use the [editor on GitHub](index.md) to maintain and preview the content for your website in Markdown files.
