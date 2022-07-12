@@ -21,28 +21,20 @@
 <body>
 
     <header>
-        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h1><a href="{{ site.github.url }}">{{ page.title | default: site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
     </header>
 
     <div id="banner">
         <span id="logo"></span>
 
-        <div class="fork">
-            <ul>
-                <li><a href="{{ site.github.url }}" class="button">Главная</a></li>
-                <li><a href="{{ site.github.url }}" class="button">Инструкции</a></li>
-                <li><a href="{{ site.github.url }}" class="button">Инструменты</a></li>
-            </ul>
-        </div>
+        <a href="{{ site.github.url }}" class="button fork">Главная</a>
         
-        <!--
-        <ul>Разметка
+        <ul>
             <li><a href="{{ site.github.url }}" class="button">Основной сюжет (MSQ)</a></li>
             <li><a href="{{ site.github.url }}" class="button">Задания классов/профессий</a></li>
             <li><a href="{{ site.github.url }}" class="button">Действия, навыки, статус-эффекты</a></li>
         </ul>
-        -->
         
         {% if site.show_downloads %}
         <div class="downloads">
