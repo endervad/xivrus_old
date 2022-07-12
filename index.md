@@ -1,3 +1,5 @@
+# XivRUS
+
 ## Добро пожаловать в GitHub Pages {#welcome-to-github-pages}
 
 You can use the [editor on GitHub](index.md) to maintain and preview the content for your website in Markdown files.
