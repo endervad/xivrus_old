@@ -28,7 +28,10 @@
     <div id="banner">
         <span id="logo"></span>
 
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        <a href="{{ site.github.url }}" class="button">Главная</a>
+        <a href="{{ site.github.url }}" class="button">Разметка</a>
+        <a href="{{ site.github.url }}" class="button">Инструкции</a>
+        <a href="{{ site.github.url }}" class="button">Инструменты</a>
         {% if site.show_downloads %}
         <div class="downloads">
             <span>Скачать сборку:</span>
@@ -42,8 +45,6 @@
 
     <div class="wrapper">
         <nav>
-            <ul>Test 1</ul>
-            <ul>Test 2</ul>
         </nav>
         <section>
             {{ content }}
