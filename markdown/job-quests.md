@@ -5,6 +5,7 @@ title: Задания классов и профессий
 
 ## Боевые классы {#battle-classes}
 **Пояснение для заданий 1-го уровня (искл. разбойника):**
+
 * Квест 1 (краткий) - Содержит копию строк полного задания.
 * Квест 1 (полный) - Это задание видит только новый игрок.
 * Квест 2 - Это задание видит игрок, желающий научиться новому классу, т.е. он уже выполнил задание 10-го уровня на своём другом первом классе.
@@ -70,6 +71,7 @@ title: Задания классов и профессий
 | Драгун    | [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ab836a6a4117d4c2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg601_02910/) | [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3030a6aee6efc7de) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg630_02911/) | [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c5e3efa755145a12) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg650_02912/) | [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=edd182a9e670c9a7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg680_02913/) | [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cfa0d6e0989b7471) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg700_02914/) |
 
 ### Shadowbringers {#jobs-shb}
+
 | Роль                           | Ур. 70           | Ур. 72           | Ур. 74           | Ур. 76           | Ур. 78           | Ур. 80           |
 | ------------------------------ | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | Защитник                       | Название / Квест | Название / Квест | Название / Квест | Название / Квест | Название / Квест | Название / Квест |
@@ -105,6 +107,7 @@ title: Задания классов и профессий
 ## Собиратели {#gatherers}
 
 ### A Realm Reborn {#gatherers-arr}
+
 | Класс   | Ур. 1            | Ур. 5            | Ур. 10           | Ур. 15           | Ур. 20           | Ур. 25           | Ур. 30           |
 | ------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 | Горняк  | Название / Квест | Название / Квест | Название / Квест | Название / Квест | Название / Квест | Название / Квест | Название / Квест |
