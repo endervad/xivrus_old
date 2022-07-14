@@ -263,7 +263,7 @@ header {
         float: left;
         position: fixed;
         left: 50%;
-        margin-left: -429px;
+        margin-left: -480px;
     }
 
     .downloads {
@@ -587,6 +587,7 @@ screen and (max-height: 480px) {
     background-color: #fbfbfb;
     width: fit-content;
     white-space: nowrap;
+    margin-left: 6px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
 }
