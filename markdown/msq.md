@@ -5,30 +5,11 @@ title: Основной сюжет (MSQ)
 
 **Внимание! Эта страница содержит названия всех квестов основного сюжета. Некоторые из них содержат в себе спойлеры.**
 
-### Правила перевода {#rules}
-
-* Названия квестов:
-  * Помним, что в русском языке не принято писать в названиях каждое слово с большой буквы (за исключениями, которые в рамках перевода наверняка не будут применимы)
-  * В глаголах повелительного наклонения обращаемся на «ты»: _«Don't Look Down»_ - _«Не смотри вниз»_
-  * Имеем в виду, что названия квестов могут быть отсылками. Например, _«You Shall Not Trespass»_ - _«You shall not pass!»_ из «Властелина колец». В таких случаях по возможности стараемся сохранять отсылку: находим материал в официальном переводе/дубляже, берём фразу оттуда и с помощью фантазии чуть-чуть её меняем
-  * Вполне допустимо и даже приветствуется вставка авторских отсылок на поп-культуру
-* Записи журнала:
-  * Описываем происходящее в настоящем времени
-  * Говорим об игроке на «вы»: _«Вы соглашаетесь и отправляетесь спасать жизнь очередному случайному человеку»_
-* Цели квеста:
-  * Обращаемся к игроку на «вы»: _«Поговорите с (кем-то)»_
-  * Не игнорируем подсветку глоссариев и используем текущие переводы названий локаций, персонажей и т.д.
-  * Если какое-либо имя собственное (имя NPC, название локации, предмета и т.д.) не переведено, то лучше оставить его пока непереведённым
-  * Для целей квестов, где нужно применить эмоцию, помещайте команду в скобки: _«Отдайте имперскому центуриону честь по-имперски (/imperialsalute)»_
-* Диалоги квеста:
-  * Настоятельно рекомендуется смотреть параллельно на кат-сцену, чтобы точнее передать эмоции говорящих персонажей и вообще иметь контекст происходящего
-  * В ARR есть квесты, которые были переделаны с целью укорочения сюжетной линии. У таких квестов есть два файла: старый и новый. Старый стал содержать в себе строки в духе _«Этот квест был переделан, откажитесь и возьмите его ещё раз»_. Новый является непосредственно переделанным квестом.
-
-# 2.0 - A Realm Reborn {#2-0}
+# 2.0 --- A Realm Reborn {#arr-2-0}
 
 * Субтитры к вступительному ролику + Субтитры видения персонажа – [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-manfst000_00083/)
 
-### Гридания / Gridania {#2-0-gridania}
+### Гридания / Gridania {#arr-2-0-gridania}
 
 * Пролог
   * Новый авантюрист – [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-manfst000_00083/)
@@ -66,7 +47,7 @@ title: Основной сюжет (MSQ)
 * The Gridanian Envoy ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=675e64212edf720f&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst200_00507/))
 * Call of the Sea ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=7966a8c539c8a33b&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-subwil141_00674/))
 
-### Лимса Ломинса / Limsa Lominsa {#2-0-limsa}
+### Лимса Ломинса / Limsa Lominsa {#arr-2-0-limsa}
 
 * Пролог
   * Новый авантюрист – [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-mansea000_00541/)
@@ -102,7 +83,7 @@ title: Основной сюжет (MSQ)
 * The Lominsan Envoy ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=361b0fafcf6141d7&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-mansea200_00546/))
 * Call of the Sea ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=7966a8c539c8a33b&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-subwil141_00674/))
 
-### Уль'да / Ul'dah {#2-0-uldah}
+### Уль'да / Ul'dah {#arr-2-0-uldah}
 
 * Пролог
   * Новый авантюрист – [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil000_00548/)
@@ -140,7 +121,7 @@ title: Основной сюжет (MSQ)
 * The Ul'dahn Envoy ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=aa6af837f243bd4d&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil200_00528/))
 * Call of the Sea ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=7966a8c539c8a33b&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-subfst102_00673/))
 
-### Общие {#2-0-continued-1}
+## Общие {#arr-2-0-continued-1}
 
 * It's Probably Pirates ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=e402f09a73449ff7&sort_by=timestamp) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-manfst203_00675/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-mansea203_00245/))
 * Call of the Forest ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=8f27f833d2b77433&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-subsea150_00676/))
@@ -159,26 +140,26 @@ title: Основной сюжет (MSQ)
 * Lord of the Inferno ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=e365d8397ba02a53&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-manfst209_00343/))
 * A Hero in the Making ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=c76309bdaa8e67ac&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst300_00511/))
 
-### Выбор Великой Компании / Grand Company - Twin Adder {#2-0-twin-adder}
+### Выбор Великой Компании / Grand Company - Twin Adder {#arr-2-0-twin-adder}
 
 * The Company You Keep ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=419c2e52bce16fe&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-manfst302_00680/))
 * Wood's Will Be Done ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=68ef7e3910014f89&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-manfst303_00683/))
 * My Little Chocobo (Twin Adder) ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d2ec465a6a95f96e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-subfst120_00700/))
 
-### Выбор Великой Компании / Grand Company - Maelstrom {#2-0-maelstrom}
+### Выбор Великой Компании / Grand Company - Maelstrom {#arr-2-0-maelstrom}
 
 * The Company You Keep ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=419c2e52bce16fe&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-mansea302_00681/))
 * Till Sea Swallows All ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=a0c4e902c46dd658&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-mansea303_00684/))
 * My Little Chocobo (Maelstrom) ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7df0bcf34e2e3e38) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-subsea910_00701/))
 
-### Выбор Великой Компании / Grand Company - Immortal Flames {#2-0-immortal-flames}
+### Выбор Великой Компании / Grand Company - Immortal Flames {#arr-2-0-immortal-flames}
 
 * The Company You Keep ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=419c2e52bce16fe&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-manwil302_00682/))
 * For Coin and Country ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=f729eef3edaa3875&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-manwil303_00685/))
 * My Little Chocobo (Immortal Flames) ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=50c1776d2dd96351) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-subwil160_00702/))
 
-### Общие {#2-0-continued-2}
-#### Цепочка сильфов {#2-0-sylphs}
+## Общие {#arr-2-0-continued-2}
+### Цепочка сильфов {#arr-2-0-sylphs}
 
 * Sylph-management ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=e0fbc75bc6842066&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst304_00513/))
 * We Come in Peace ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=9577751c64e4e836&sort_by=timestamp) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa002_00708/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxausa002_03856/))
@@ -201,7 +182,7 @@ title: Основной сюжет (MSQ)
 * Believe in Your Sylph ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=5d1c142928496a2a&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa402_00744/))
 * Back from the Wood ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=e1bb5bff6275c5fa&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa404_00746/))
 
-#### Цепочка Лахабреи и Леди Амандины {#2-0-lahabrea}
+### Цепочка Лахабреи и Леди Амандины {#arr-2-0-lahabrea}
 
 * Shadow of Darkness ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=93df556743c171ed&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa405_00747/))
 * Highbridge Times ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=e67b54ef9c0b4998&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa406_00748/))
@@ -226,7 +207,7 @@ title: Основной сюжет (MSQ)
 * Secret of the White Lily ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=b597e98aa8defb37&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-008-gaiusa905_00800/))
 * Skeletons in Her Closet ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=4e7289a1814f2fe4&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-008-gaiusa906_00801/))
 
-#### Цепочка Титана {#2-0-titan}
+### Цепочка Титана {#arr-2-0-titan}
 
 * Wrath of the Titan ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=8f6a47ca1273d068&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst309_00516/))
 * Tales from the Tidus Slayer ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=6aa82401a9321c7e&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-008-gaiusb002_00809/))
@@ -306,7 +287,7 @@ title: Основной сюжет (MSQ)
 * Rock the Castrum ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1ef36e1c3e7147cd) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-manfst502_01136/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxafst502_03873/))
 * The Ultimate Weapon ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ba3cf333d38c1896) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-045-xxcfst503_04522/))
 
-## 2.1 - A Realm Awoken {#2-1}
+## 2.1 --- A Realm Awoken {#arr-2-1}
 
 * The Price of Principles (Название / Квест)
 * Moving On (Название / Квест)
@@ -319,7 +300,7 @@ title: Основной сюжет (MSQ)
 * The Gifted (Название / Квест)
 * Build on the Stone (Название / Квест)
 
-## 2.2 - Through the Maelstrom {#2-2}
+## 2.2 --- Through the Maelstrom {#arr-2-2}
 
 * Still Waters (Название / Квест)
 * A Final Temptation (Название / Квест)
@@ -336,7 +317,7 @@ title: Основной сюжет (MSQ)
 * When Yugiri Met the Fraternity (Название / Квест)
 * Through the Maelstrom (Название / Квест)
 
-## 2.3 - Defenders of Eorzea {#2-3}
+## 2.3 --- Defenders of Eorzea {#arr-2-3}
 
 * The Great Divide (Название / Квест)
 * Desperate Times (Название / Квест)
@@ -353,7 +334,7 @@ title: Основной сюжет (MSQ)
 * When the Cold Sets In (Название / Квест)
 * Brave New Companions (Название / Квест)
 
-## 2.4 - Dreams of Ice {#2-4}
+## 2.4 --- Dreams of Ice {#arr-2-4}
 
 * Traitor in the Midst (Название / Квест)
 * Back and Fourth (Название / Квест)
@@ -374,9 +355,9 @@ title: Основной сюжет (MSQ)
 * The Reason Roaille (Название / Квест)
 * Let Us Cling Together (Название / Квест)
 
-## 2.5 - Before the Fall {#2-5}
+## 2.5 --- Before the Fall {#arr-2-5}
 
-### Часть 1 {#2-5-1}
+### Часть 1 {#arr-2-5-1}
 
 * Good Intentions (Название / Квест)
 * Bait and Switch (Название / Квест)
@@ -387,7 +368,7 @@ title: Основной сюжет (MSQ)
 * An Uninvited Ascian (Название / Квест)
 * In Memory of Moenbryda (Название / Квест)
 
-### Часть 2 {#2-5-2}
+### Часть 2 {#arr-2-5-2}
 
 * Mask of Grief (Название / Квест)
 * Defenders for Ishgard (Название / Квест)
@@ -406,13 +387,13 @@ title: Основной сюжет (MSQ)
 * The Parting Glass (Название / Квест)
 * Before the Dawn (Название / Квест)
 
-# 3.0 - Heavensward {#3-0}
+# 3.0 --- Heavensward {#hw-3-0}
 
 * Coming to Ishgard (Название / Квест)
 * Taking in the Sights (Название / Квест)
 * The Better Half (Название / Квест)
 
-### Цепочка квестов от Artoirel {#3-0-artoirel}
+### Цепочка квестов от Artoirel {#hw-3-0-artoirel}
 
 * Over the Wall (Название / Квест)
 * Work in Progress (Название / Квест)
@@ -422,7 +403,7 @@ title: Основной сюжет (MSQ)
 * At the End of Our Hope (Название / Квест)
 * Knights Be Not Proud (Название / Квест)
 
-### Цепочка квестов от Emmanellain {#3-0-emmanelain}
+### Цепочка квестов от Emmanellain {#hw-3-0-emmanelain}
 
 * Onwards and Upwards (Название / Квест)
 * An Indispensable Ally (Название / Квест)
@@ -432,7 +413,7 @@ title: Основной сюжет (MSQ)
 * A Series of Unfortunate Events (Название / Квест)
 * A Reward Long in Coming (Название / Квест)
 
-### Продолжение {#3-0-continued}
+## Продолжение {#hw-3-0-continued}
 
 * Divine Intervention (Название / Квест)
 * Disclosure (Название / Квест)
@@ -512,7 +493,7 @@ title: Основной сюжет (MSQ)
 * Fetters of Lament (Название / Квест)
 * Heavensward (Название / Квест)
 
-## 3.1 - As Goes Light, So Goes Darkness {#3-1}
+## 3.1 --- As Goes Light, So Goes Darkness {#hw-3-1}
 
 * An Uncertain Future (Название / Квест)
 * Breaking the Cycle (Название / Квест)
@@ -523,7 +504,7 @@ title: Основной сюжет (MSQ)
 * Against the Dying of the Light (Название / Квест)
 * As Goes Light, So Goes Darkness (Название / Квест)
 
-## 3.2 - Gears of the Change {#3-2}
+## 3.2 --- Gears of the Change {#hw-3-2}
 
 * As It Once Was (Название / Квест)
 * The Word of the Mother (Название / Квест)
@@ -537,7 +518,7 @@ title: Основной сюжет (MSQ)
 * For Those We Can Yet Save (Название / Квест)
 * Causes and Costs (Название / Квест)
 
-## 3.3 - Revenge of the Horde {#3-3}
+## 3.3 --- Revenge of the Horde {#hw-3-3}
 
 * The Man Within (Название / Квест)
 * An Ally for Ishgard (Название / Квест)
@@ -546,7 +527,7 @@ title: Основной сюжет (MSQ)
 * Heroes of the Hour (Название / Квест)
 * Litany of Peace (Название / Квест)
 
-## 3.4 - Soul Surrender {#3-4}
+## 3.4 --- Soul Surrender {#hw-3-4}
 
 * Promises Kept (Название / Квест)
 * Shadows of the First (Название / Квест)
@@ -559,9 +540,9 @@ title: Основной сюжет (MSQ)
 * One Life for One World (Название / Квест)
 * An Ending to Mark a New Beginning (Название / Квест)
 
-## 3.5 - The Far Edge of Fate {#3-5}
+## 3.5 --- The Far Edge of Fate {#hw-3-5}
 
-### Часть 1  {#3-5-1}
+### Часть 1  {#hw-3-5-1}
 
 * Tidings from Gyr Abania (Название / Квест)
 * An Envoy for Ishgard (Название / Квест)
@@ -569,14 +550,14 @@ title: Основной сюжет (MSQ)
 * Griffin, Griffin on the Wall (Название / Квест)
 * Louisoix's Finest Student (Название / Квест)
 
-### Часть 2 {#3-5-2}
+### Часть 2 {#hw-3-5-2}
 
 * The Obvious Solution (Название / Квест)
 * The Greater Obeisance (Название / Квест)
 * Fly Free, My Pretty (Название / Квест)
 * The Far Edge of Fate (Название / Квест)
 
-# 4.0 - Stormblood {#4-0}
+# 4.0 - Stormblood {#sb-4-0}
 
 * Beyond the Great Wall (Название / Квест)
 * Lyse Takes the Lead (Название / Квест)
@@ -584,14 +565,14 @@ title: Основной сюжет (MSQ)
 * A Haven for the Bold (Название / Квест)
 * A Bargain Struck (Название / Квест)
 
-### Цепочка квестов от M'naago {#4-0-mnaago}
+### Цепочка квестов от M'naago {#sb-4-0-mnaago}
 
 * A Friend of a Friend in Need (Название / Квест)
 * Signed, Sealed, to Be Delivered (Название / Квест)
 * Best Served with Cold Steel (Название / Квест)
 * Let Fill Your Hearts with Pride (Название / Квест)
 
-### Цепочка квестов от Meffrid {#4-0-meffrid}
+### Цепочка квестов от Meffrid {#sb-4-0-meffrid}
 
 * A Familiar Face Forgotten (Название / Квест)
 * The Prodigal Daughter (Название / Квест)
@@ -602,7 +583,7 @@ title: Основной сюжет (MSQ)
 * The Black Wolf's Pups (Название / Квест)
 * Homeward Bound (Название / Квест)
 
-### Продолжение {#4-0-continued}
+## Продолжение {#sb-4-0-continued}
 
 * Where Men Go as One (Название / Квест)
 * Future Rust, Future Dust (Название / Квест)
@@ -710,7 +691,7 @@ title: Основной сюжет (MSQ)
 * The Measure of His Reach (Название / Квест)
 * Stormblood (Название / Квест)
 
-## 4.1 - The Legend Returns {#4-1}
+## 4.1 --- The Legend Returns {#sb-4-1}
 
 * Arenvald's Adventure (Название / Квест)
 * The Darkness Below (Название / Квест)
@@ -724,7 +705,7 @@ title: Основной сюжет (MSQ)
 * A Blissful Arrival (Название / Квест)
 * Return of the Bull (Название / Квест)
 
-## 4.2 - Rise of a New Sun {#4-2}
+## 4.2 --- Rise of a New Sun {#sb-4-2}
 
 * Tidings from the East (Название / Квест)
 * The Sword in the Store (Название / Квест)
@@ -735,7 +716,7 @@ title: Основной сюжет (MSQ)
 * A Guilty Conscience (Название / Квест)
 * Rise of a New Sun (Название / Квест)
 
-## 4.3 - Under the Moonlight {#4-3}
+## 4.3 --- Under the Moonlight {#sb-4-3}
 
 * Gosetsu and Tsuyu (Название / Квест)
 * Gone Like the Morning Dew (Название / Квест)
@@ -745,7 +726,7 @@ title: Основной сюжет (MSQ)
 * Under the Moonlight (Название / Квест)
 * Emissary of the Dawn (Название / Квест)
 
-## 4.4 - Prelude in Violet {#4-4}
+## 4.4 --- Prelude in Violet {#sb-4-4}
 
 * Sisterly Act (Название / Квест)
 * Feel the Burn (Название / Квест)
@@ -755,9 +736,9 @@ title: Основной сюжет (MSQ)
 * The Call (Название / Квест)
 * Prelude in Violet (Название / Квест)
 
-## 4.5 - A Requiem for Heroes {#4-5}
+## 4.5 --- A Requiem for Heroes {#sb-4-5}
 
-### Часть 1 {#4-5-1}
+### Часть 1 {#sb-4-5-1}
 
 * Soul Searching (Название / Квест)
 * A Defector's Tidings (Название / Квест)
@@ -765,12 +746,12 @@ title: Основной сюжет (MSQ)
 * Parley on the Front Lines (Название / Квест)
 * The Face of War (Название / Квест)
 
-### Часть 2 {#4-5-2}
+### Часть 2 {#sb-4-5-2}
 
 * A Brief Reprieve (Название / Квест)
 * A Requiem for Heroes (Название / Квест)
 
-# 5.0 - Shadowbringers {#5-0}
+# 5.0 --- Shadowbringers {#shb-5-0}
 
 * The Syrcus Trench (Название / Квест)
 * City of the First (Название / Квест)
@@ -778,7 +759,7 @@ title: Основной сюжет (MSQ)
 * In Search of Alphinaud (Название / Квест)
 * In Search of Alisaie (Название / Квест)
 
-### Цепочка квестов Альфино / Alphinaud {#5-0-alphinaud}
+### Цепочка квестов Альфино / Alphinaud {#shb-5-0-alphinaud}
 
 * A Still Tide (Название / Квест)
 * Open Arms, Closed Gate (Название / Квест)
@@ -789,7 +770,7 @@ title: Основной сюжет (MSQ)
 * A Blessed Instrument (Название / Квест)
 * Emergent Splendor (Название / Квест)
 
-### Цепочка квестов Ализе / Alisaie {#5-0-alisaie}
+### Цепочка квестов Ализе / Alisaie {#shb-5-0-alisaie}
 
 * City of the Mord (Название / Квест)
 * Working Off the Meal (Название / Квест)
@@ -800,7 +781,7 @@ title: Основной сюжет (MSQ)
 * The Time Left to Us (Название / Квест)
 * Tears on the Sand (Название / Квест)
 
-### Продолжение {#5-0-continued}
+## Продолжение {#shb-5-0-continued}
 
 * The Lightwardens (Название / Квест)
 * Warrior of Darkness (Название / Квест)
@@ -888,7 +869,7 @@ title: Основной сюжет (MSQ)
 * A Greater Purpose (Название / Квест)
 * Shadowbringers (Название / Квест)
 
-## 5.1 - Vows of Virtue, Deeds of Cruelty {#5-1}
+## 5.1 --- Vows of Virtue, Deeds of Cruelty {#shb-5-1}
 
 * Shaken Resolve (Название / Квест)
 * A Grand Adventure (Название / Квест)
@@ -901,7 +882,7 @@ title: Основной сюжет (MSQ)
 * Moving Forward (Название / Квест)
 * Vows of Virtue, Deeds of Cruelty (Название / Квест)
 
-## 5.2 - Echoes of a Fallen Start {#5-2}
+## 5.2 --- Echoes of a Fallen Start {#shb-5-2}
 
 * Old Enemies, New Threats (Название / Квест)
 * The Way Home (Название / Квест)
@@ -914,7 +895,7 @@ title: Основной сюжет (MSQ)
 * Beneath the Surface (Название / Квест)
 * Echoes of a Fallen Star (Название / Квест)
 
-## 5.3 - Reflections in Crystal {#5-3}
+## 5.3 --- Reflections in Crystal {#shb-5-3}
 
 * In the Name of the Light (Название / Квест)
 * Heroic Dreams (Название / Квест)
@@ -929,7 +910,7 @@ title: Основной сюжет (MSQ)
 * Unto the Morrow (Название / Квест)
 * Reflections in Crystal (Название / Квест)
 
-## 5.4 - Future Rewritten {#5-4}
+## 5.4 --- Future Rewritten {#shb-5-4}
 
 * Alisaie's Quest (Название / Квест)
 * The Wisdom of Allag (Название / Квест)
@@ -942,9 +923,9 @@ title: Основной сюжет (MSQ)
 * The Great Ship Vylbrand (Название / Квест)
 * Futures Rewritten (Название / Квест)
 
-## 5.5 - Death Unto Dawn {#5-5}
+## 5.5 --- Death Unto Dawn {#shb-5-5}
 
-### Часть 1 {#5-5-1}
+### Часть 1 {#shb-5-5-1}
 
 * Unto the Breach 		
 * Here Be Dragons (Название / Квест)
@@ -953,18 +934,18 @@ title: Основной сюжет (MSQ)
 * The Flames of War (Название / Квест)
 * When the Dust Settles (Название / Квест)
 
-### Часть 2 {#5-5-2}
+### Часть 2 {#shb-5-5-2}
 
 * The Company We Keep (Название / Квест)
 * On Official Business (Название / Квест)
 * Death Unto Dawn (Название / Квест)
 
-# 6.0 - Endwalker {#6-0}
+# 6.0 --- Endwalker {#ew-6-0}
 
 * The Next Ship to Sail (Название / Квест)
 * Old Sharlayan, New to You (Название / Квест)
 
-### Цепочка квестов в Шарлаяне / Sharlayan {#6-0-sharlayan}
+### Цепочка квестов в Шарлаяне / Sharlayan {#ew-6-0-sharlayan}
 
 * Hitting the Books (Название / Квест)
 * A Seat at the Last Stand (Название / Квест)
@@ -976,7 +957,7 @@ title: Основной сюжет (MSQ)
 * A Guide of Sorts (Название / Квест)
 * Estate Visitor (Название / Квест)
 
-### Цепочка квестов в Тавнэйре / Thavnair {#6-0-thavnair}
+### Цепочка квестов в Тавнэйре / Thavnair {#ew-6-0-thavnair}
 
 * For Thavnair Bound (Название / Квест)
 * On Low Tide (Название / Квест)
@@ -988,7 +969,7 @@ title: Основной сюжет (MSQ)
 * Tipping the Scale (Название / Квест)
 * The Satrap of Radz-at-Han (Название / Квест)
 
-### Продолжение {#6-0-continued}
+## Продолжение {#ew-6-0-continued}
 
 * In the Dark of the Tower (Название / Квест)
 * The Jewel of Thavnair (Название / Квест)
@@ -1079,7 +1060,7 @@ title: Основной сюжет (MSQ)
 * You’re Not Alone (Название / Квест)
 * Endwalker (Название / Квест)
 
-## 6.1 - Newfound Adventure {#6-1}
+## 6.1 --- Newfound Adventure {#ew-6-1}
 
 * Newfound Adventure (Название / Квест)
 * Bountiful Ruins (Название / Квест)
@@ -1092,6 +1073,6 @@ title: Основной сюжет (MSQ)
 * Void Theory (Название / Квест)
 * A Satrap's Duty (Название / Квест)
 
-## 6.2 - Buried Memory {#6-2}
+## 6.2 --- Buried Memory {#ew-6-2}
 
 To be released...
