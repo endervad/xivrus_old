@@ -29,7 +29,18 @@
         <div class="menu">
             <ul>
                 <li><a href="{{ site.github.url }}" class="button">Главная</a></li>
-                <li><a href="{{ site.github.url }}" class="button">Разметка</a></li>
+                <li>
+                    <div class="dropdown">
+                        <button class="dropbtn">Разметка</button>
+                        <div class="dropdown-content">
+                            <a href="#">Основной сюжет (MSQ)</a>
+                            <a href="#">Задания классов и профессий</a>
+                            <a href="#">Цепочки побочного сюжета</a>
+                            <a href="#">Побочные задания</a>
+                            <a href="#">Действия и навыки</a>
+                        </div>
+                    </div>
+                </li>
                 <li><a href="{{ site.github.url }}" class="button">Инструкции</a></li>
                 <li><a href="{{ site.github.url }}" class="button">Инструменты</a></li>
             </ul>
@@ -44,7 +55,7 @@
             </ul>
         </div>
         {% endif %}
-        
+
         <span id="logo"></span>
     </div><!-- end banner -->
 
