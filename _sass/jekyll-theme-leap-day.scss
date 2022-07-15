@@ -325,10 +325,13 @@ small {
 
 nav {
     width: 230px;
-    position: fixed;
     top: 220px;
+    height: calc(100% - 220px - 155px);
+    position: fixed;
     left: 50%;
-    margin-left: -734px;
+    overflow-y: scroll;
+    margin-left: -718px;
+    padding-right: 7px;
     text-align: right;
 
     ul {
@@ -351,14 +354,13 @@ nav {
                     font-weight: bold;
                     color: #333;
                 }
-
-                +.tag-h2 {}
             }
 
             &.tag-h2 {
+                font-size: 1.2em;
 
-                +.tag-h1 {
-                    margin-top: 10px;
+                a {
+                    color: #333;
                 }
             }
         }
@@ -420,8 +422,6 @@ screen and (max-width: 1060px) {
         .downloads {
             margin-right: 60px;
         }
-
-        .fork {}
 
         #logo {
             margin-right: 15px;
@@ -497,8 +497,6 @@ screen and (max-width: 720px) {
 
 @media print,
 screen and (max-width: 480px) {
-    body {}
-
     header {
         position: relative;
         padding: 5px 0px;
