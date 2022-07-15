@@ -557,7 +557,7 @@ title: Основной сюжет (MSQ)
 * Fly Free, My Pretty (Название / Квест)
 * The Far Edge of Fate (Название / Квест)
 
-# 4.0 - Stormblood {#sb-4-0}
+# 4.0 --- Stormblood {#sb-4-0}
 
 * Beyond the Great Wall (Название / Квест)
 * Lyse Takes the Lead (Название / Квест)
