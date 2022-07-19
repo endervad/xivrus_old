@@ -945,7 +945,7 @@ title: Основной сюжет (MSQ)
 * The Next Ship to Sail (Название / Квест)
 * Old Sharlayan, New to You (Название / Квест)
 
-### Цепочка квестов в Шарлаяне / Sharlayan {#ew-6-0-sharlayan}
+### Цепочка квестов в Шарлеане / Sharlayan {#ew-6-0-sharlayan}
 
 * Hitting the Books (Название / Квест)
 * A Seat at the Last Stand (Название / Квест)
