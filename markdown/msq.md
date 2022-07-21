@@ -230,6 +230,9 @@ title: Основной сюжет (MSQ)
 * In the Company of Heroes ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=2bf6314e72d7e17f&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-008-gaiusb314_00855/))
 * As You Wish ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=bae19ed41c5d65df&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-008-gaiusb315_00856/))
 * Lord of Crags ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=d8f33c0c2c2270f3&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-008-gaiusb401_00857/))
+
+### Цепочка Гаруды {#arr-2-0-garuda}
+
 * All Good Things ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=92f595b827e32f65) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst313_00517/))
 * You Can't Take It with You ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d2e592e9ba673e28) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-008-gaiusb503_00872/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxausb503_03867/))
 * Bringing out the Dead ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7cec4bed77b76736) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-008-gaiusb507_00876/))
@@ -267,6 +270,9 @@ title: Основной сюжет (MSQ)
 * Better Late than Never ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=30de3a1b84aa54ab) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-009-gaiusc308_00975/))
 * Lady of the Vortex ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2420607c86011815) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst404_00519/))
 * Reclamation ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=81b1e8b472067571) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst405_00520/))
+
+### Цепочка Гая ван Бельсара {#arr-2-0-gaius-van-baelsar}
+
 * Casing the Castrum ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4eef5333f60a771f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-009-gaiusc403_00978/))
 * Eyes on the Empire ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6b7b5b603405b0db) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-009-gaiusc405_00980/))
 * Footprints in the Snow ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f73b16f975e54246) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-009-gaiusc406_00981/))
