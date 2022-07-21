@@ -12,16 +12,16 @@ title: Основной сюжет (MSQ)
 ### Гридания / Gridania {#arr-2-0-gridania}
 
 * Пролог
-  * Новый авантюрист – [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-manfst000_00083/)
-  * Авантюрист, переживший 1.0 – [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst050_00540/)
+  * Новый авантюрист --- [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-manfst000_00083/)
+  * Авантюрист, переживший 1.0 --- [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst050_00540/)
   * [Перед первым квестом](https://host6450.hnt.ru/projects/ffxiv-translation/opening-openinggridania/)
   * Coming to Gridania ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=b48d80064ef37b43) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-manfst001_00039/))
 * Close to Home ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=b18c4ba96f14ad9c&sort_by=timestamp)):
-  * Копейщик – [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-manfst002_00085/)
+  * Копейщик --- [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-manfst002_00085/)
     * \+ [Квест класса 1-го ур.](https://github.com/endervad/ffxiv_translation/wiki/Квесты-классов-и-профессий)
-  * Лучник – [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-manfst003_00123/)
+  * Лучник --- [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-manfst003_00123/)
     * \+ [Квест класса 1-го ур.](https://github.com/endervad/ffxiv_translation/wiki/Квесты-классов-и-профессий)
-  * Элементалист – [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-manfst004_00124/)
+  * Элементалист --- [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-manfst004_00124/)
     * \+ [Квест класса 1-го ур.](https://github.com/endervad/ffxiv_translation/wiki/Квесты-классов-и-профессий)
   * A Good Adventurer Is Hard to Find ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=e2de42f9a5d43df1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-subfst010_00001/))
 * To the Bannock ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=d77691d2ea2f1413&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-subfst005_00028/))
@@ -50,14 +50,14 @@ title: Основной сюжет (MSQ)
 ### Лимса Ломинса / Limsa Lominsa {#arr-2-0-limsa}
 
 * Пролог
-  * Новый авантюрист – [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-mansea000_00541/)
-  * Авантюрист, переживший 1.0 – [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-mansea050_00542/)
+  * Новый авантюрист --- [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-mansea000_00541/)
+  * Авантюрист, переживший 1.0 --- [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-mansea050_00542/)
   * [Перед первым квестом](https://host6450.hnt.ru/projects/ffxiv-translation/opening-openinglimsalominsa/)
   * Coming to Limsa Lominsa ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=4cff6c1b9a8cb0e6&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-mansea001_00107/))
 * Close to Home ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=b18c4ba96f14ad9c&sort_by=timestamp)):
-  * Мародёр – [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-mansea002_00108/)
+  * Мародёр --- [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-mansea002_00108/)
     * \+ [Квест класса 1-го ур.](https://github.com/endervad/ffxiv_translation/wiki/Квесты-классов-и-профессий)
-  * Арканист – [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-mansea003_00109/)
+  * Арканист --- [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-mansea003_00109/)
     * \+ [Квест класса 1-го ур.](https://github.com/endervad/ffxiv_translation/wiki/Квесты-классов-и-профессий)
   * Making a Name ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=c594dc980199cbc0&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-subsea001_00111/))
 * On to Summerford ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=7d7db14cc326d98&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-subsea050_00462/))
@@ -86,16 +86,16 @@ title: Основной сюжет (MSQ)
 ### Уль'да / Ul'dah {#arr-2-0-uldah}
 
 * Пролог
-  * Новый авантюрист – [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil000_00548/)
-  * Авантюрист, переживший 1.0 – [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil050_00549/)
+  * Новый авантюрист --- [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil000_00548/)
+  * Авантюрист, переживший 1.0 --- [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil050_00549/)
   * [Перед первым квестом](https://host6450.hnt.ru/projects/ffxiv-translation/opening-openinguldah/)
   * Coming to Ul'dah ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=3d33515ab4b6ef1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil001_00594/))
 * Close to Home ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=b18c4ba96f14ad9c&sort_by=timestamp)):
-  * Гладиатор – [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil002_00568/)
+  * Гладиатор --- [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil002_00568/)
     * \+ [Квест класса 1-го ур.](https://github.com/endervad/ffxiv_translation/wiki/Квесты-классов-и-профессий)
-  * Борец – [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil003_00569/)
+  * Борец --- [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil003_00569/)
     * \+ [Квест класса 1-го ур.](https://github.com/endervad/ffxiv_translation/wiki/Квесты-классов-и-профессий)
-  * Оккультист – [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil004_00570/)
+  * Оккультист --- [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil004_00570/)
     * \+ [Квест класса 1-го ур.](https://github.com/endervad/ffxiv_translation/wiki/Квесты-классов-и-профессий)
 * We Must Rebuild ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=ef45376ae2dfc11b&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-subwil027_00595/))
 * Nothing to See Here ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=d1bcc29dff9536e5&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-subwil025_00671/))
@@ -140,19 +140,19 @@ title: Основной сюжет (MSQ)
 * Lord of the Inferno ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=e365d8397ba02a53&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-manfst209_00343/))
 * A Hero in the Making ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=c76309bdaa8e67ac&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst300_00511/))
 
-### Выбор Великой Компании / Grand Company - Twin Adder {#arr-2-0-twin-adder}
+### Выбор ВК / GC - Twin Adder {#arr-2-0-twin-adder}
 
 * The Company You Keep ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=419c2e52bce16fe&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-manfst302_00680/))
 * Wood's Will Be Done ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=68ef7e3910014f89&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-manfst303_00683/))
 * My Little Chocobo (Twin Adder) ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d2ec465a6a95f96e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-subfst120_00700/))
 
-### Выбор Великой Компании / Grand Company - Maelstrom {#arr-2-0-maelstrom}
+### Выбор ВК / GC - Maelstrom {#arr-2-0-maelstrom}
 
 * The Company You Keep ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=419c2e52bce16fe&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-mansea302_00681/))
 * Till Sea Swallows All ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=a0c4e902c46dd658&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-mansea303_00684/))
 * My Little Chocobo (Maelstrom) ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7df0bcf34e2e3e38) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-subsea910_00701/))
 
-### Выбор Великой Компании / Grand Company - Immortal Flames {#arr-2-0-immortal-flames}
+### Выбор ВК / GC - Immortal Flames {#arr-2-0-immortal-flames}
 
 * The Company You Keep ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=419c2e52bce16fe&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-manwil302_00682/))
 * For Coin and Country ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=f729eef3edaa3875&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-manwil303_00685/))
@@ -176,7 +176,7 @@ title: Основной сюжет (MSQ)
 * Microbrewing ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=a0e94a15e4ef52f1&sort_by=timestamp) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa302_00734/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxausa302_03861/))
 * Like Fine Wine ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=9879e14f3b610e2&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa305_00737/))
 * Sylphish Concerns ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=38b1c149a5e10c8e&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa306_00738/))
-* Nouveau Riche ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=1caaa33860a764e&sort_by=timestamp) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa308_00740/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxausa308_03862/)) - Фрагмент сражения берётся из старого квеста
+* Nouveau Riche ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=1caaa33860a764e&sort_by=timestamp) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa308_00740/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxausa308_03862/)) --- Фрагмент сражения берётся из старого квеста
 * Into the Beast's Maw ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=c2e9b9239aaacd3f&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst306_00514/))
 * A Simple Gift ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=3950b48dbaf6fb0&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa401_00743/))
 * Believe in Your Sylph ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=5d1c142928496a2a&sort_by=timestamp) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa402_00744/))
@@ -286,6 +286,7 @@ title: Основной сюжет (MSQ)
 * Hearts on Fire ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a63e78c43ee850e) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-gaiusc908_01043/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxausc908_03872/))
 * Rock the Castrum ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1ef36e1c3e7147cd) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-manfst502_01136/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxafst502_03873/))
 * The Ultimate Weapon ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ba3cf333d38c1896) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-045-xxcfst503_04522/))
+* Эпилог --- [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst600_00525/)
 
 ## 2.1 --- A Realm Awoken {#arr-2-1}
 
