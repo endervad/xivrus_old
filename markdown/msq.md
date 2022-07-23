@@ -287,25 +287,25 @@ title: Основной сюжет (MSQ)
 * Every Little Thing She Does Is Magitek ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=65f60efe66353bbb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-gaiusc605_01005/))
 * Escape from Castrum Centri ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=29a3f32f4c542de0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst407_00521/))
 * The Black Wolf's Ultimatum ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5a1b59019d3047ad) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst408_00522/))
-* Operation Archon ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=377fea9252840d00) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-gaiusc901_01036/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-045-xxcusc901_04521/))
+* Operation Archon ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=377fea9252840d00) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-gaiusc901_01036/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-045-xxcusc901_04521/)) --- Новый квест содержит строки из старого квеста
 * A Hero in Need ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=44e404f5e55bc55a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-gaiusc902_01037/))
 * Hearts on Fire ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a63e78c43ee850e) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-gaiusc908_01043/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxausc908_03872/))
-* Rock the Castrum ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1ef36e1c3e7147cd) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-manfst502_01136/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxafst502_03873/))
-* The Ultimate Weapon ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ba3cf333d38c1896) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-045-xxcfst503_04522/))
+* Rock the Castrum ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1ef36e1c3e7147cd) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-manfst502_01136/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxafst502_03873/)) --- Новый квест содержит строки из старого квеста
+* The Ultimate Weapon ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ba3cf333d38c1896) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-045-xxcfst503_04522/)) --- Новый квест содержит строки из старого квеста
 * Эпилог --- [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst600_00525/)
 
 ## 2.1 --- A Realm Awoken {#arr-2-1}
 
-* The Price of Principles (Название / Квест)
-* Moving On (Название / Квест)
-* All Things in Time (Название / Квест)
-* Laying the Foundation (Название / Квест)
-* It's Possibly a Primal (Название / Квест)
-* Hail to the King, Kupo (Название / Квест)
-* You Have Selected Regicide (Название / Квест)
-* On the Properties of Primals (Название / Квест)
-* The Gifted (Название / Квест)
-* Build on the Stone (Название / Квест)
+* The Price of Principles ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=122f4979bdea0f45) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse101_01175/))
+* Moving On ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d47dca88edcf3bf7) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse102_01176/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause103_03874/))
+* All Things in Time ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=29fd28dd3a51d74d) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse104_01178/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause104_03875/))
+* Laying the Foundation ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3b5ad5727d654b4f) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse106_01180/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause106_03876/))
+* It's Possibly a Primal ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c09c9c5d7631d127) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse114_01188/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause114_03877/))
+* Hail to the King, Kupo ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=db341bfcc5fbbf89) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse115_01189/))
+* You Have Selected Regicide ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b63d1f9166ffc14c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse116_01190/))
+* On the Properties of Primals ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5b63cf7f932e3427) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse117_01191/))
+* The Gifted ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dc902fc6ba3c0410) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse118_01192/))
+* Build on the Stone ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4ab905f716f9a983) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse119_01193/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause119_03878/))
 
 ## 2.2 --- Through the Maelstrom {#arr-2-2}
 
