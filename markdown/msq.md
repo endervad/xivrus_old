@@ -309,20 +309,22 @@ title: Основной сюжет (MSQ)
 
 ## 2.2 --- Through the Maelstrom {#arr-2-2}
 
-* Still Waters (Название / Квест)
-* A Final Temptation (Название / Квест)
-* The Mother of Exiles (Название / Квест)
-* Promises to Keep (Название / Квест)
-* Yugiri's Game (Название / Квест)
-* Why We Adventure (Название / Квест)
-* All Due Respect (Название / Квест)
-* The Sea Rises (Название / Квест)
-* Scouts in Distress (Название / Квест)
-* The Gift of Eternity (Название / Квест)
-* Into the Heart of the Whorl (Название / Квест)
-* Lord of the Whorl (Название / Квест)
-* When Yugiri Met the Fraternity (Название / Квест)
-* Through the Maelstrom (Название / Квест)
+Строки с озвучкой этого патча: [Файл](https://host6450.hnt.ru/projects/ffxiv-translation/cut_scene-022-voiceman_02200/)
+
+* Still Waters ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1f3e37f587760d73) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse201_01345/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause201_03879/))
+* A Final Temptation ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2f37b1112af60a06) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse202_01346/))
+* The Mother of Exiles ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4ad46f9d7056b3e4) / [Квест]())
+* Promises to Keep ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=320c4b5e735d8936) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse204_01348/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause204_03880/))
+* Yugiri's Game ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c0cc0d70a0c77b25) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse206_01350/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause206_03881/))
+* Why We Adventure ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f2b0807e247d2dd0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse208_01352/))
+* All Due Respect ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3e60c3a6884b5f49) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse209_01353/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause211_03882/))
+* The Sea Rises ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cc4a1002b7668bac) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse212_01356/))
+* Scouts in Distress ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5a763c54cf84498a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse214_01358/))
+* The Gift of Eternity ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9445b368712f7cbb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse215_01359/))
+* Into the Heart of the Whorl ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=16f79f60ac47c425) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse216_01360/))
+* Lord of the Whorl ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c0945e4be018959d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse217_01361/))
+* When Yugiri Met the Fraternity ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=410076dcb017d337) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse218_01362/))
+* Through the Maelstrom ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e70d52ff972805b5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse219_01363/))
 
 ## 2.3 --- Defenders of Eorzea {#arr-2-3}
 
