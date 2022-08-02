@@ -4,6 +4,7 @@ title: Побочные задания
 ---
 
 ## Задания Хильдибранда (A Realm Reborn) {#hildi-arr}
+
 * The Rise and Fall of Gentlemen ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=68af168e885d9c35) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-012-chrhdb101_01204/))
 * Back in the Saddle ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=6a7e5fbe5ff8defa) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-012-chrhdb102_01205/))
 * After Her Own Heart ([Название](https://host6450.hnt.ru/translate/ffxiv-translation/quests/ru/?checksum=8e007c788fc3b2c1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-012-chrhdb103_01206/))
