@@ -91,9 +91,16 @@ strong {
     color: #333;
 }
 
-details > p {
-    padding-left: 10px;
-    margin-bottom: 0
+details {
+    summary {
+        p {
+            margin-bottom: 0
+        }
+    }
+    p {
+        padding-left: 15px;
+        margin-bottom: 0
+    }
 }
 
 summary {
