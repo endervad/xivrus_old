@@ -78,7 +78,12 @@ a small {
 }
 
 ul {
+    margin-bottom: 15px;
     list-style-image: url('../images/bullet.png');
+}
+
+ul > li > ul {
+    margin-bottom: 0
 }
 
 strong {
@@ -86,14 +91,15 @@ strong {
     color: #333;
 }
 
+details > p {
+    padding-left: 10px;
+    margin-bottom: 0
+}
+
 summary {
     cursor: pointer;
     font-style: italic;
     text-decoration: underline;
-}
-
-summary > p {
-    margin: 0
 }
 
 .wrapper {
