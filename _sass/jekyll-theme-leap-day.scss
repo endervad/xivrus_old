@@ -85,6 +85,12 @@ strong {
     color: #333;
 }
 
+summary {
+    cursor: pointer;
+    font-style: italic;
+    text-decoration: underline;
+}
+
 .wrapper {
     width: 950px;
     margin: 0 auto;

@@ -9,6 +9,7 @@ kramdown:
   input: GFM
   auto_ids: true
   transliterated_header_ids: true
+  parse_block_html: true
 
 github:
   rus_url: https://github.com/endervad/ffxiv_translation/releases/download/v0.5.1/RUS-0.5.1-2022-07-27.ttmp2
