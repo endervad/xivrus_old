@@ -30,17 +30,17 @@ title: Основной сюжет (MSQ)
       <summary>NPC, предметы и т.д.
       </summary>
 
-      NPC: [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63), [(без названия)](), [Джиллиан](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f6cd848b963f0d1), [Парсмонтре] (https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Нисия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=438303d7943a405e)
+      NPC: [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63), [(без названия)](), [Джиллиан](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f6cd848b963f0d1), [Парсмонтре](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Нисия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=438303d7943a405e)
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c4de3eb2e00736d2) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c4de3eb2e00736d2))
     </details>
     * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests#dow-dom)
-  * Лучник --- --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4c7e90b156c5a1cb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-manfst003_00123/)
+  * Лучник --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4c7e90b156c5a1cb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-manfst003_00123/)
     <details>
       <summary>NPC, предметы и т.д.
       </summary>
       
-      NPC: [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63), [(без названия)](), [Афелина](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e9b35421c684823e), [Парсмонтре]  (https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Нисия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=438303d7943a405e)
+      NPC: [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63), [(без названия)](), [Афелина](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e9b35421c684823e), [Парсмонтре](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Нисия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=438303d7943a405e)
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f0527ccaab28019b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f0527ccaab28019b))
     </details>
@@ -1148,7 +1148,7 @@ title: Основной сюжет (MSQ)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=48c112e753aa45c9), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f327a02175b1a19c), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7d965c909bfcbb19), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=480761a0c2f0ab1a), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8e236c7413920971)
   </details>
-* Nouveau Riche --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=585cedebe2ca927a) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa308_00740/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxausa308_03862/)
+* Nouveau Riche --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=585cedebe2ca927a) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa308_00740/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxausa308_03862/) --- Фрагмент сражения берётся из старого квеста
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
