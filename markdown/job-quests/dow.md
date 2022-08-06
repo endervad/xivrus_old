@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Адепты Войны
+title: Адепты Битвы
 ---
 
 ## Гладиатор {#gladiator}
