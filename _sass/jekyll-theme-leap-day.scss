@@ -619,6 +619,11 @@ screen and (max-height: 480px) {
     z-index: 1;
 }
 
+.dropdown-content-sub {
+    top: 0;
+    left: 100%
+}
+
 /* Links inside the dropdown */
 .dropdown-content a {
     color: #333;
