@@ -620,7 +620,7 @@ screen and (max-height: 480px) {
     display: none;
     position: absolute;
     top: 0;
-    left: 100%;
+    left: calc(100% - 10px);
     background-color: #fbfbfb;
     width: fit-content;
     white-space: nowrap;
@@ -658,6 +658,6 @@ screen and (max-height: 480px) {
     display: block;
 }
 
-.dropdown:hover .dropdown-content-sub {
+.dropdown-sub:hover .dropdown-content-sub {
     display: block;
 }
