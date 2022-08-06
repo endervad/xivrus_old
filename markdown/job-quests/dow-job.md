@@ -7,7 +7,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий паладина - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/38/38681e6e6cdc04eaa56a82a8eab843486238e484.png)
 
-* Paladin's Pledge --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=176a804fd00a9b5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld300_01055/)
+* Ур. 30 --- Paladin's Pledge --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=176a804fd00a9b5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld300_01055/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -20,7 +20,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Железная жаровня](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1adb4a11af56080f), [Железная жаровня](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e883876ec546840)
   </details>
-* Honor Lost --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=92346b23789bfac6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld350_01056/)
+* Ур. 35 --- Honor Lost --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=92346b23789bfac6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld350_01056/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -31,7 +31,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Железная жаровня](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b29d4735e59ade62)
   </details>
-* Power Struggles --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7a03087f12f36e3d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld400_01057/)
+* Ур. 40 --- Power Struggles --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7a03087f12f36e3d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld400_01057/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -42,7 +42,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Железная жаровня](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d8195888462408a7)
   </details>
-* Poisoned Hearts --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3dae2672bb56afd2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld450_01058/)
+* Ур. 45 --- Poisoned Hearts --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3dae2672bb56afd2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld450_01058/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -53,7 +53,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Sultansworn coffer](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c880772425d09d61), [Sultansworn coffer](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dfb72e40a940a23d), [Sultansworn coffer](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=43a697d290049d76), [Sultansworn coffer](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=da8d5dda7341af6b)
   </details>
-* Parley in the Sagolii --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2af8a7467bd76e74) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld451_01059/)
+* Ур. 45 --- Parley in the Sagolii --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2af8a7467bd76e74) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld451_01059/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -62,7 +62,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e01f1f0efd8c2140), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9898c006315d100c)
   </details>
-* Keeping the Oath --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9ae8e0d392fa1f22) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld500_01060/)
+* Ур. 50 --- Keeping the Oath --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9ae8e0d392fa1f22) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobpld500_01060/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -74,7 +74,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий паладина - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0d5187676392c7705077a51aafb117154a77f08a.png)
 
-* An Exemplary Example --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=28392251e1f3ea0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld501_02032/)
+* Ур. 50 --- An Exemplary Example --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=28392251e1f3ea0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld501_02032/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -85,7 +85,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f7609bf0a8bf49d), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=78c37d005d492721)
   </details>
-* The Paladin Who Cried Wolf --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f3e4b26712329a09) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld520_02033/)
+* Ур. 52 --- The Paladin Who Cried Wolf --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f3e4b26712329a09) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld520_02033/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -96,7 +96,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ebdcc9d263b07813)
   </details>
-* Big Sollerets to Fill --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9afada00404e4892) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld540_02034/)
+* Ур. 54 --- Big Sollerets to Fill --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9afada00404e4892) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld540_02034/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -109,7 +109,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [gallant coronet](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a62f4ed2c67056f4), [Замёрзшая кровь](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c573f1727bf040b7), [Замёрзшая кровь](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5e0eb70d80e83a34), [Замёрзшая кровь](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c8617ada75556824), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=60d10c6abe27026a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1ad5b5557e53369f)
   </details>
-* Hey Soul Crystal --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2a79be913c6b3b3b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld560_02035/)
+* Ур. 56 --- Hey Soul Crystal --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2a79be913c6b3b3b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld560_02035/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -118,7 +118,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [mysterious box](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6fe09494f0f35643), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e24f8f477e3ffacf)
   </details>
-* All According to Plan --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=14db465590cfd1e8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld580_02036/)
+* Ур. 58 --- All According to Plan --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=14db465590cfd1e8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld580_02036/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -131,7 +131,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6149145eaa216f27), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8ea3f183925b3a3e)
   </details>
-* This Little Sword of Mine --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e46ffc4809acb309) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld600_02037/)
+* Ур. 60 --- This Little Sword of Mine --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e46ffc4809acb309) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld600_02037/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -143,7 +143,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий паладина - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/45/45dbee97e655c4c0f44f6c4cbe09d87cc0181fe0.png)
 
-* Tournament of the Century --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1c6ec625c5f5d326) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobpld601_02571/)
+* Ур. 60 --- Tournament of the Century --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1c6ec625c5f5d326) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobpld601_02571/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -152,7 +152,7 @@ title: Адепты Войны — Профессии
     <br>
     Предметы: [Ul Cup Invitation](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b5d8acd4c8da19c0) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b5d8acd4c8da19c0))
   </details>
-* In Thal's Name --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=72a864f14db0daf4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobpld630_02572/)
+* Ур. 63 --- In Thal's Name --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=72a864f14db0daf4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobpld630_02572/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -161,7 +161,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2711d06302445a6c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4f8e7357238284d9)
   </details>
-* In Nald's Name --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cc95f73b709f892e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobpld650_02573/)
+* Ур. 65 --- In Nald's Name --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cc95f73b709f892e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobpld650_02573/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -170,7 +170,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b27a4c35dd40e702)
   </details>
-* Fade to Black Lotus --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9565bb144030acf4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobpld680_02574/)
+* Ур. 68 --- Fade to Black Lotus --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9565bb144030acf4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobpld680_02574/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -179,7 +179,7 @@ title: Адепты Войны — Профессии
     <br>
     Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
   </details>
-* Raising the Sword --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cf6f8403149f1dd9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobpld700_02575/)
+* Ур. 70 --- Raising the Sword --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cf6f8403149f1dd9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobpld700_02575/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -191,7 +191,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение задания паладина - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c7/c74893282317a09ef8e24056120e7422bc1c39f8.png)
 
-* Worth Fighting For --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48cd98dcb8ca3f87) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc001_03210/)
+* Ур. 80 --- Worth Fighting For --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48cd98dcb8ca3f87) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc001_03210/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -203,7 +203,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий монаха - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/5788cd4c7369e5c8a3863b6552b261399ace41fc.png)
 
-* Brother from Another Mother --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=79ed74d6ee609b9a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk300_01061/)
+* Ур. 30 --- Brother from Another Mother --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=79ed74d6ee609b9a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk300_01061/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -214,11 +214,10 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=46c40a1759bd209e), [Эфирометр](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d96798f68af63533)
   </details>
-* Insulted Intelligence --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=572fe5eea6eae1fd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk350_01062/)
+* Ур. 35 --- Insulted Intelligence --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=572fe5eea6eae1fd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk350_01062/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
-
     NPC: [Erik](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39f8d9083da2a497)
     <br>
     Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
@@ -227,7 +226,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ee726df2b03a26a4), [Эфирометр](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2098c8b1b7b105f8)
   </details>
-* A Slave to the Aether --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cb0650efd5cc5386) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk400_01063/)
+* Ур. 40 --- A Slave to the Aether --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cb0650efd5cc5386) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk400_01063/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -240,7 +239,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3344c785a984d1aa), [Эфирометр](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b66104ef076c7bb4)
   </details>
-* The Pursuit of Power --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6c5b5fa24f567d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk450_01064/)
+* Ур. 45 --- The Pursuit of Power --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6c5b5fa24f567d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk450_01064/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -253,7 +252,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=30c4c941525dc605), [Эфирометр](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cd8be050aad33bb7)
   </details>
-* Good Vibrations --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cbe0b1aaca30c956) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk451_01065/)
+* Ур. 45 --- Good Vibrations --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cbe0b1aaca30c956) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk451_01065/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -264,7 +263,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [stolen box](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=15facde15b400fca), [stolen box](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=767a0eca74e078b2), [stolen box](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8b854ae082145e6c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=effc455518bc5790)
   </details>
-* Five Easy Pieces --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4f521303daa39933) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk500_01066/)
+* Ур. 50 --- Five Easy Pieces --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4f521303daa39933) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobmnk500_01066/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -276,7 +275,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий монаха - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/35/358cd5644fcfba01da572ed03f706793edb462ce.png)
 
-* The Legend Continues --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d06258b4dde98101) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk501_02026/)
+* Ур. 50 --- The Legend Continues --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d06258b4dde98101) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk501_02026/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -285,7 +284,7 @@ title: Адепты Войны — Профессии
     <br>
     Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
   </details>
-* Let's Talk about Sects --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=500a02a2e876bc9d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk520_02027/)
+* Ур. 52 --- Let's Talk about Sects --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=500a02a2e876bc9d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk520_02027/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -296,7 +295,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2df356dfa47ff8cb), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3a2c4e5771e0dcd0), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=28d6a18b3e852ee8)
   </details>
-* Against the Shadow --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cc2a30c9af42777f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk540_02028/)
+* Ур. 54 --- Against the Shadow --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cc2a30c9af42777f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk540_02028/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -305,7 +304,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bbb5237248809629)
   </details>
-* Fight the Battle to Win --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3eb047ecb8c95a2f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk560_02029/)
+* Ур. 56 --- Fight the Battle to Win --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3eb047ecb8c95a2f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk560_02029/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -316,7 +315,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c10db28018eec12c)
   </details>
-* Stop the Senseless Killing --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f03328ce57f44b73) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk580_02030/)
+* Ур. 58 --- Stop the Senseless Killing --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f03328ce57f44b73) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk580_02030/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -327,7 +326,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=698398a91464a767)
   </details>
-* Appetite for Destruction --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=915ac1e7fba36da4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk600_02031/)
+* Ур. 60 --- Appetite for Destruction --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=915ac1e7fba36da4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk600_02031/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -339,14 +338,14 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий монаха - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/00/00562297e6679cf801f62811ebd513683c64877a.png)
 
-* A Fistful of Resolve --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ddaf9250a29e6ca1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobmnk601_02426/)
+* Ур. 60 --- A Fistful of Resolve --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ddaf9250a29e6ca1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobmnk601_02426/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Erik](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39f8d9083da2a497), [Widargelt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13b114b84568ded4), [D'zentsa](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a96e7648abc6e997), [O'tchakha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5766f8a5edbd65e5), [Widargelt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e187fd2b75d667e7), [Widargelt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cc7a93d886fe365c), [Gundobald](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2755b9c937677270), [D'zentsa](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0d677222444e4eb), [O'tchakha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1710de835098faf0), [Erik](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ebd38d4ea2db5d49)
   </details>
-* Return of the Monk --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5b7a14ff24c9df1c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobmnk630_02427/)
+* Ур. 63 --- Return of the Monk --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5b7a14ff24c9df1c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobmnk630_02427/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -355,7 +354,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Тренировочный манекен](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dafd35b154b15f60), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=538e05ca03dc2bd3)
   </details>
-* Cross-fist Training --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=55726a1656f2a390) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobmnk650_02428/)
+* Ур. 65 --- Cross-fist Training --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=55726a1656f2a390) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobmnk650_02428/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -366,7 +365,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Тренировочный манекен](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=83f21e7363ed4e09), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3d8a6f7c7398a21a)
   </details>
-* Choices and Paths --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=463dbd00c635adff) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobmnk680_02429/)
+* Ур. 68 --- Choices and Paths --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=463dbd00c635adff) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobmnk680_02429/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -375,7 +374,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6a9f1a53fcf78e88)
   </details>
-* The Power to Protect --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f329a7563ef62a38) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobmnk700_02430/)
+* Ур. 70 --- The Power to Protect --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f329a7563ef62a38) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobmnk700_02430/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -389,7 +388,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение задания монаха - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c307fd0dd35bddefaa13384e37a6060968213a9.png)
 
-* A Monk's Legacy --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9cad386ec0786ac3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc002_03211/)
+* Ур. 80 --- A Monk's Legacy --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9cad386ec0786ac3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc002_03211/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -403,7 +402,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий воина - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/81/81f6d85be522a3e93f840b0008d2d78d8109b232.png)
 
-* Pride and Duty (Will Take You from the Mountain) --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=61119fd3319bd6a0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar300_01049/)
+* Ур. 30 --- Pride and Duty (Will Take You from the Mountain) --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=61119fd3319bd6a0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar300_01049/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -412,7 +411,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=57eeff45ca36bfdd)
   </details>
-* Embracing the Beast --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=47e0267653689eb9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar350_01050/)
+* Ур. 35 --- Embracing the Beast --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=47e0267653689eb9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar350_01050/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -423,7 +422,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5b43668a7ad95638), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9d80655188b3aad2), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e15b8e10448c83af), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d72832193a45d4ba), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=58ff48d2dfec1345), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=48b07c3ed085f93d)
   </details>
-* Curious Gorge Goes to Wineport --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=89802a27f740c9c7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar400_01051/)
+* Ур. 40 --- Curious Gorge Goes to Wineport --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=89802a27f740c9c7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar400_01051/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -434,7 +433,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=499ca78f087b2f58)
   </details>
-* Looking the Part --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=44cf210582910758) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar450_01052/)
+* Ур. 45 --- Looking the Part --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=44cf210582910758) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar450_01052/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -445,7 +444,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [old wooden chest](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8d7c55ec550fad45), [old wooden chest](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ad2f5d4a491adda9), [old wooden chest](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=285e83959d49f8f9), [weathered crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=504d6dc5af2292b0), [weathered crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=50e3fecf28bbaa2a), [weathered crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=271b6afe95692979), [old wooden chest](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dc785cd39c2ddc03)
   </details>
-* Proof Is the Pudding --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2c45d051dbd797f0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar451_01053/)
+* Ур. 45 --- Proof Is the Pudding --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2c45d051dbd797f0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar451_01053/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -456,7 +455,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [old wooden chest](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e6bca876ffaf6126), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6fff0bfc1e6dfc20)
   </details>
-* How to Quit You --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d5a5fe500e78b65f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar500_01054/)
+* Ур. 50 --- How to Quit You --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d5a5fe500e78b65f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobwar500_01054/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -468,7 +467,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий воина - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be9708892cd544f10a1e7ca634e3279d5968c4ff.png)
 
-* Better Axe Around --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e3e2933ef6249113) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-jobwar501_00585/)
+* Ур. 50 --- Better Axe Around --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e3e2933ef6249113) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-jobwar501_00585/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -479,7 +478,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [dig site](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b3e301f832b16049), [dig site](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=737663553b111fe0), [dig site](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b670194eb45d578b), [dig site](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1ab3f58e60a44c05)
   </details>
-* Duty and the Beast --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6695d0009b7cedb3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-jobwar520_00586/)
+* Ур. 52 --- Duty and the Beast --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6695d0009b7cedb3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-jobwar520_00586/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -488,7 +487,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5fd5dc73407294f5)
   </details>
-* The Bear Necessity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1ef9f092a3c4fb48) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-jobwar540_00588/)
+* Ур. 54 --- The Bear Necessity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1ef9f092a3c4fb48) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-jobwar540_00588/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -501,7 +500,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Whilom salmon](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cac0cbc232d9735f), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=318a058676e3c8fa)
   </details>
-* Pirates of Shallow Water --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6feead5b0834adad) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-jobwar560_00596/)
+* Ур. 56 --- Pirates of Shallow Water --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6feead5b0834adad) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-jobwar560_00596/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -510,14 +509,14 @@ title: Адепты Войны — Профессии
     <br>
     Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
   </details>
-* How to Train Your Warrior --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6b34a6f513843567) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobwar561_01677/)
+* Ур. 56 --- How to Train Your Warrior --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6b34a6f513843567) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobwar561_01677/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [storm captain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46f328f7cf6a756a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eed4fa0968346c78), [former Company hero](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=595c56736f276f4d), [Broken Mountain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b2cc30bf4f346dd), [Curious Gorge](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9690b38ee6683263), [Wheiskaet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e7f7d9a97e6599c), [Curious Gorge](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=87f6f44b7cfb661b), [Wheiskaet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2c0f6905376bb934)
   </details>
-* Slap an' Chop --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6db52f3e540e8fbf) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-jobwar580_00598/)
+* Ур. 58 --- Slap an' Chop --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6db52f3e540e8fbf) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-jobwar580_00598/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -526,7 +525,7 @@ title: Адепты Войны — Профессии
     <br>
     Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
   </details>
-* And My Axe --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8756addb8231e62f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-jobwar600_00601/)
+* Ур. 60 --- And My Axe --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8756addb8231e62f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-jobwar600_00601/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -538,7 +537,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий воина - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4d/4d8720b5c60dc18ff20d6b53742a721b9b74a040.png)
 
-* Curious Gorge Meets His Match --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b35e61f0e56f8e8c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobwar601_02900/)
+* Ур. 60 --- Curious Gorge Meets His Match --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b35e61f0e56f8e8c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobwar601_02900/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -547,7 +546,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c768b46122c49786)
   </details>
-* Field Training --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e5956501e544c08f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobwar630_02901/)
+* Ур. 63 --- Field Training --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e5956501e544c08f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobwar630_02901/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -558,7 +557,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2a2d3f148a5008cf), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8b4adcda50b86088)
   </details>
-* When Push Comes to Shove --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=790df319620940cf) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobwar650_02902/)
+* Ур. 65 --- When Push Comes to Shove --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=790df319620940cf) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobwar650_02902/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -569,7 +568,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b31afbd2923813f8), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b4a77e530653b21d), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=26d2dab960352d40)
   </details>
-* Going the Distance --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e1251d201ec46fd4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobwar680_02903/)
+* Ур. 68 --- Going the Distance --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e1251d201ec46fd4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobwar680_02903/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -580,7 +579,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3ff8e31226d38c53)
   </details>
-* The Heart of the Problem --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d79820bfd402a0a6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobwar700_02904/)
+* Ур. 70 --- The Heart of the Problem --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d79820bfd402a0a6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobwar700_02904/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -592,7 +591,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение задания воина - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4d/4d6a1e4b19aedd5713d8d4cf949e1df7d9786e29.png)
 
-* Once, Twice, Three Times a Warrior --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2ff9ba03eb39b488) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc003_03212/)
+* Ур. 80 --- Once, Twice, Three Times a Warrior --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2ff9ba03eb39b488) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc003_03212/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -608,7 +607,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий драгуна - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33d5b1fb9906ba9d0594a24168b2788881d4bef2.png)
 
-* Eye of the Dragon --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cafd6dc6ab781568) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg300_01067/)
+* Ур. 30 --- Eye of the Dragon --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cafd6dc6ab781568) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg300_01067/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -619,7 +618,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8f6a4eb35dc008ce), [campfire](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1d7992e5667a32), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=520dd3a594115c27)
   </details>
-* Lance of Fury --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f7394d0db13e3ef4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg350_01068/)
+* Ур. 35 --- Lance of Fury --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f7394d0db13e3ef4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg350_01068/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -628,7 +627,7 @@ title: Адепты Войны — Профессии
     <br>
     Вражеские NPC: [(без названия)]()
   </details>
-* Unfading Skies --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e345a5bb3811bf25) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg400_01069/)
+* Ур. 40 --- Unfading Skies --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e345a5bb3811bf25) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg400_01069/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -637,7 +636,7 @@ title: Адепты Войны — Профессии
     <br>
     Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
   </details>
-* Double Dragoon --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9ea83d426f9197e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg450_01070/)
+* Ур. 45 --- Double Dragoon --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9ea83d426f9197e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg450_01070/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -650,7 +649,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=86dc3490246a0f64), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=decfecef4b6ded8d)
   </details>
-* Fatal Seduction --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8a53e2f7ee257cfe) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg451_01071/)
+* Ур. 45 --- Fatal Seduction --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8a53e2f7ee257cfe) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg451_01071/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -663,7 +662,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=21e415145e43868c)
   </details>
-* Into the Dragon's Maw --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7858d4c68e67738b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg500_01072/)
+* Ур. 50 --- Into the Dragon's Maw --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7858d4c68e67738b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobdrg500_01072/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -675,7 +674,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий драгуна - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/61/61d0f5e5a2a17ea945b114ee121385f133e80ed2.png)
 
-* Sky's the Limit --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=35d249ec67bdff7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg501_01689/)
+* Ур. 50 --- Sky's the Limit --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=35d249ec67bdff7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg501_01689/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -686,7 +685,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=eee8a4417a47d4de)
   </details>
-* Days of Azure --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=94f8b7ae7ec7a8ec) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg520_01690/)
+* Ур. 52 --- Days of Azure --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=94f8b7ae7ec7a8ec) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg520_01690/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -697,14 +696,14 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d1c9d83e93dce3a7)
   </details>
-* Heart of Justice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bdb42fcd841f1d44) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg521_01691/)
+* Ур. 52 --- Heart of Justice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bdb42fcd841f1d44) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg521_01691/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Юстиния](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ebd25a89906a2a3), [Юстиния](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4adf1e67e61357a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa35b5c8a9ae0ff5), [Альберик](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a82912271cb55160)
   </details>
-* Sworn Upon a Lance --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f0c5607c1ccd9546) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg540_01692/)
+* Ур. 54 --- Sworn Upon a Lance --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f0c5607c1ccd9546) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg540_01692/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -715,7 +714,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1d65571d346e523f)
   </details>
-* Dragoon's Errand --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=69b0ec41f363a8f3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg560_01693/)
+* Ур. 56 --- Dragoon's Errand --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=69b0ec41f363a8f3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg560_01693/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -726,7 +725,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=387e3e683cdc726c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d5a87d71ca4603f0)
   </details>
-* Sanguine Dragoon --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ea162437072c2d7b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg580_01694/)
+* Ур. 58 --- Sanguine Dragoon --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ea162437072c2d7b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg580_01694/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -737,7 +736,7 @@ title: Адепты Войны — Профессии
     <br>
     Предметы: [Parchment Sliver](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=4967bb187327beca) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=4967bb187327beca))
   </details>
-* Dragoon's Fate --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3dadbb217dc5bf20) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg600_01695/)
+* Ур. 60 --- Dragoon's Fate --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3dadbb217dc5bf20) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobdrg600_01695/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -749,7 +748,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий драгуна - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9a/9a5c3696caf5ee652d9ac907fcfaa484a15f67dc.png)
 
-* Friends through Eternity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ab836a6a4117d4c2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg601_02910/)
+* Ур. 60 --- Friends through Eternity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ab836a6a4117d4c2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg601_02910/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -758,7 +757,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=707d4ccc800f50f5)
   </details>
-* Drowsy Dragons --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3030a6aee6efc7de) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg630_02911/)
+* Ур. 63 --- Drowsy Dragons --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3030a6aee6efc7de) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg630_02911/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -771,7 +770,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bc5715cbfbd3309b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5ea2a773a7526397)
   </details>
-* Serpent and the Sea of Rubies --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c5e3efa755145a12) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg650_02912/)
+* Ур. 65 --- Serpent and the Sea of Rubies --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c5e3efa755145a12) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg650_02912/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -782,7 +781,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ce82f1b54ef1b9ec), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1ff1245a696f7a98)
   </details>
-* Dark as the Night Sky --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6501ae8e32c0237d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg680_02913/)
+* Ур. 68 --- Dark as the Night Sky --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6501ae8e32c0237d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg680_02913/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -791,7 +790,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e281f67cf1891096), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ceda88bf8cb32119)
   </details>
-* Dragon Sound --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b55724441fe77298) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg700_02914/)
+* Ур. 70 --- Dragon Sound --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b55724441fe77298) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrg700_02914/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -803,7 +802,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение задания драгуна - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/54/541a2e809bb81794f99fd049598f996de90640b3.png)
 
-* Gone but Not Forgiven --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=42b785e299e982fe) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc004_03213/)
+* Ур. 80 --- Gone but Not Forgiven --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=42b785e299e982fe) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc004_03213/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -819,7 +818,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий барда - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d5/d5cf8a34a3dd03a8ae8672f2373dbd9322db1750.png)
 
-* A Song of Bards and Bowmen --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3be43731e4e67c26) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd300_01085/)
+* Ур. 30 --- A Song of Bards and Bowmen --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3be43731e4e67c26) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd300_01085/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -830,7 +829,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [stolen crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=613904cf66010774)
   </details>
-* The Archer's Anthem --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=90217c877892ca19) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd350_01086/)
+* Ур. 35 --- The Archer's Anthem --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=90217c877892ca19) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd350_01086/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -841,7 +840,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ef32ce442f22b9a3)
   </details>
-* Bard's-eye View --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f6f3483e4de3e3e7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd400_01087/)
+* Ур. 40 --- Bard's-eye View --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f6f3483e4de3e3e7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd400_01087/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -852,7 +851,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d4b9b747abf31272)
   </details>
-* Doing It the Bard Way --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fea73cb2f97495ba) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd450_01088/)
+* Ур. 45 --- Doing It the Bard Way --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fea73cb2f97495ba) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd450_01088/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -863,7 +862,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=268aa6174579afed), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7474a0c13c79fe84)
   </details>
-* Pieces of the Past --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9966595d96b32e5a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd451_01089/)
+* Ур. 45 --- Pieces of the Past --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9966595d96b32e5a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd451_01089/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -872,7 +871,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [frayed sack](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9d3192b7338b17ae), [frayed sack](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c6c15e5aa6dbfc44), [frayed sack](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=998e52776f40ad8f), [frayed sack](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=48325d0ac87df736)
   </details>
-* Requiem for the Fallen --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=34a7a09f3cbec5d9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd500_01090/)
+* Ур. 50 --- Requiem for the Fallen --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=34a7a09f3cbec5d9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobbrd500_01090/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -886,7 +885,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий барда - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ea/ea1006bc1d59db6eac6fc208f194819e15d0548b.png)
 
-* On the Road Again --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=844550605d74368a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd501_01713/)
+* Ур. 50 --- On the Road Again --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=844550605d74368a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd501_01713/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -895,7 +894,7 @@ title: Адепты Войны — Профессии
     <br>
     Вражеские NPC: [(без названия)](), [(без названия)]()
   </details>
-* The Stiff and the Spent --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c2d881fda54d2e2e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd520_01714/)
+* Ур. 52 --- The Stiff and the Spent --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c2d881fda54d2e2e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd520_01714/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -906,7 +905,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=61f2366f95e5f78a)
   </details>
-* Requiem on Ice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=733584c28f97aed3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd540_01715/)
+* Ур. 54 --- Requiem on Ice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=733584c28f97aed3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd540_01715/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -917,7 +916,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=376b060601a833e2)
   </details>
-* When Gnaths Cry --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=911ac986669ba494) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd560_01716/)
+* Ур. 56 --- When Gnaths Cry --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=911ac986669ba494) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd560_01716/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -926,7 +925,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=883ab16349e0b638)
   </details>
-* A Saint of Song --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b57975aa421de445) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd580_01717/)
+* Ур. 58 --- A Saint of Song --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b57975aa421de445) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd580_01717/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -937,7 +936,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8432057ae371d779), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8b061bd429e5e54), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=edcb648b5ebac228), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=19daf9c262d40254)
   </details>
-* The Ballad of Oblivion --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b84a6d8261c1db8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd600_01718/)
+* Ур. 60 --- The Ballad of Oblivion --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b84a6d8261c1db8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd600_01718/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -951,14 +950,14 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий барда - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/81/81cc8bf7d61ac35f7c20fa56d00db78c3ba398f0.png)
 
-* Three's a Company --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c8afd6d72b4b57ae) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-jobbrd601_02890/)
+* Ур. 60 --- Three's a Company --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c8afd6d72b4b57ae) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-jobbrd601_02890/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Jehantel](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33194c544164354a), [Sanson](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e83ec7b4fd15fade), [Jehantel](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18650c77693bf7f0), [Ворсель Хелокс](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68), [simpering youth](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1a2eb033e85fb540), [Sanson](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=41003ba3c1f914a0), [Guydelot](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=976e606a76dba2e5), [Nourval](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a50f786ed64c76fb), [Sanson](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a61d4c9a32345e5), [Guydelot](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=14ffe540360151f4)
   </details>
-* Masked Motives --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1867b848bd2c291a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-jobbrd630_02891/)
+* Ур. 63 --- Masked Motives --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1867b848bd2c291a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-jobbrd630_02891/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -969,7 +968,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=23a0a4da99c8384e)
   </details>
-* One Autumn's Secret --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=319c22392ce080d4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-jobbrd650_02892/)
+* Ур. 65 --- One Autumn's Secret --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=319c22392ce080d4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-jobbrd650_02892/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -978,7 +977,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a5d73a3044f17f0b)
   </details>
-* Sleeping Truths Lie --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fbd878898e10911) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-jobbrd680_02893/)
+* Ур. 68 --- Sleeping Truths Lie --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fbd878898e10911) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-jobbrd680_02893/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -989,7 +988,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=645b3a7533860f26)
   </details>
-* Sweet Dreams Are Made of Peace --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f6eeaba4aaedda57) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-jobbrd700_02894/)
+* Ур. 70 --- Sweet Dreams Are Made of Peace --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f6eeaba4aaedda57) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-jobbrd700_02894/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1001,7 +1000,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение задания барда - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c2/c213f5f981035e37f55c6a23cdd82fdbfc11f272.png)
 
-* A Harmony from the Heavens --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a20b2563bee2cd7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc005_03214/)
+* Ур. 80 --- A Harmony from the Heavens --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a20b2563bee2cd7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc005_03214/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1015,7 +1014,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий ниндзи - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a95ca08682640c54ff1ca7dcbeeca3ed33a7a628.png)
 
-* Peasants by Day, Ninjas by Night --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2542a35c03f4bfb9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin300_00212/)
+* Ур. 30 --- Peasants by Day, Ninjas by Night --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2542a35c03f4bfb9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin300_00212/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1024,7 +1023,7 @@ title: Адепты Войны — Профессии
     <br>
     Предметы: [Soiled Sack](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=974ab1f99c69d99d) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=974ab1f99c69d99d))
   </details>
-* My First Mudra --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f3fcd09a56057a68) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin301_00213/)
+* Ур. 30 --- My First Mudra --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f3fcd09a56057a68) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin301_00213/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1033,14 +1032,14 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [mokujin](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=10b90a7c86fc1fb7), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3866c5a7b65b0c86), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=de14a2a938a3cb5a)
   </details>
-* Killer Combinations --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=997eaa5adb605648) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin350_00214/)
+* Ур. 35 --- Killer Combinations --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=997eaa5adb605648) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin350_00214/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Tsubame](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bdda0db27663ea11), [Oboro](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=beed3c47a42a9ae)
   </details>
-* Once Upon a Time in Doma --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=acd27b19a3c77cf9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin351_00215/)
+* Ур. 35 --- Once Upon a Time in Doma --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=acd27b19a3c77cf9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin351_00215/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1049,14 +1048,14 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [mokujin](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f9f0226b1e9cf7d2), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c4b3cff4cad2a437), [mokujin](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ff91a5b012dc8e73), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4b06456b9e6c2903)
   </details>
-* Pirates versus Ninjas --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=201cb772ddbfc959) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin400_00216/)
+* Ур. 40 --- Pirates versus Ninjas --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=201cb772ddbfc959) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin400_00216/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Oboro](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=beed3c47a42a9ae), [Tsubame](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bdda0db27663ea11), [Oboro](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d64d185fa22fb170), [Tsubame](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=533def70150f1c73)
   </details>
-* Ninja Bathin' --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=436a0ad5c24c8d64) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin401_00217/)
+* Ур. 40 --- Ninja Bathin' --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=436a0ad5c24c8d64) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin401_00217/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1067,7 +1066,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=310f5a9d4d28a550), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2ae016f4beb78e8d)
   </details>
-* Tough Guys --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=94fee7be9fb69cc3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin450_00232/)
+* Ур. 45 --- Tough Guys --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=94fee7be9fb69cc3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin450_00232/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1078,7 +1077,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [weathered crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b9e77b74f64c330c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d45378c8218ab2c0), [weathered crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=895d1b5679b372b1), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5ae12176efbd8ef2), [weathered crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cc26b9ff7a8403aa), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c27b4ea4a6300fe0), [weathered crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=30600c2cfa142dbd), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f50af296062a39f0), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=14e43f0ec226a873)
   </details>
-* The Crow Knows --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a22909613dbaf4cd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin451_00233/)
+* Ур. 45 --- The Crow Knows --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a22909613dbaf4cd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin451_00233/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1087,7 +1086,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cdaca3eeea71b85e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2f951d51009e3ce9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e6e732c8a381b002)
   </details>
-* Master and Student --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c05cb906f7e91fe4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin500_00234/)
+* Ур. 50 --- Master and Student --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c05cb906f7e91fe4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin500_00234/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1099,7 +1098,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий ниндзи - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1e/1e6cb3eb6753eeb00473d1900d76fd63fe32dc9f.png)
 
-* Strangers in a Strange Land --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ca44c7539f96cb0f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin501_00235/)
+* Ур. 50 --- Strangers in a Strange Land --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ca44c7539f96cb0f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin501_00235/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1108,7 +1107,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d9b7f7f11ec6a169), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=27d712da6968a79f), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=94cd85f0f641189a)
   </details>
-* The Impossible Girl --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=18f349d4981046f1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin520_01684/)
+* Ур. 52 --- The Impossible Girl --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=18f349d4981046f1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin520_01684/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1121,7 +1120,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e1a3f28817a84586), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d30b9f6d41288451), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a344201bd3f7a6f)
   </details>
-* Ninja Assassin --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=280aa65e21be6a0e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin540_01685/)
+* Ур. 54 --- Ninja Assassin --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=280aa65e21be6a0e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin540_01685/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1130,7 +1129,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=17d8e0466c241571), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bdd74dcf46c51be7), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b1f0d39f7abfc287), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=15145835aac34017)
   </details>
-* Medieval Espionage --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b43167786bed7b72) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin560_01686/)
+* Ур. 56 --- Medieval Espionage --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b43167786bed7b72) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin560_01686/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1143,7 +1142,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=98973990d6f9772d), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f0477f7d3fd9e803)
   </details>
-* Staying Alive --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b9a7070c68f294c9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin580_01687/)
+* Ур. 58 --- Staying Alive --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b9a7070c68f294c9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin580_01687/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1156,7 +1155,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=df854f07e97966cf), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a40bd34a1ad95cec), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e4a80a3fe475cc3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3f424523d35aed38), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=497b622e7cb4a33a), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=28773a2d52bef648)
   </details>
-* In Her Defense --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8a1d4409c0225bbb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin600_01688/)
+* Ур. 60 --- In Her Defense --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8a1d4409c0225bbb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin600_01688/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1169,7 +1168,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий ниндзи - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1bea50feecfc908145f45eaf8269268420ffdae4.png)
 
-* Search for the Stolen Scroll --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=566c7879eb7ff6fb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin601_02948/)
+* Ур. 60 --- Search for the Stolen Scroll --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=566c7879eb7ff6fb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin601_02948/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1180,7 +1179,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8e37107d9965678), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ea02db64258cf572)
   </details>
-* Ninja Bathin' Redux --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8baa107391f23cc6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin630_02949/)
+* Ур. 63 --- Ninja Bathin' Redux --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8baa107391f23cc6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin630_02949/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1191,7 +1190,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cc00ab6ab34ae765), [bathhouse basket](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9204640a690548fa), [bathhouse basket](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2cf1f61a6e4c52be), [bathhouse basket](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=aa844eae7f193dd5), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6597482116154538)
   </details>
-* A Game of Life and Death --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=488cbb60379a8f26) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin650_02950/)
+* Ур. 65 --- A Game of Life and Death --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=488cbb60379a8f26) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin650_02950/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1200,7 +1199,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=57d34580ab416fd2)
   </details>
-* True Enlightenment --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=10324546be400372) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin680_02951/)
+* Ур. 68 --- True Enlightenment --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=10324546be400372) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin680_02951/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1211,7 +1210,7 @@ title: Адепты Войны — Профессии
     <br>
     Предметы: [Doman Weasel Claw](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d2eef9fb2d471e3d) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d2eef9fb2d471e3d))
   </details>
-* When Clans Collide --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6b0d89b96a112efd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin700_02952/)
+* Ур. 70 --- When Clans Collide --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6b0d89b96a112efd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin700_02952/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1222,7 +1221,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение задания ниндзи - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c3/c3db46ef0267b729004a7fcc7833080268f7913c.png)
 
-* Oboro's Big Idea --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c6acd05b27ef6a7b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc010_03219/)
+* Ур. 80 --- Oboro's Big Idea --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c6acd05b27ef6a7b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc010_03219/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1238,14 +1237,14 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий тёмного рыцаря - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b797aeaeaf497c8c966be63e12091dda5da849f9.png)
 
-* Our End --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a576d7ffc690f3bb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk300_02053/)
+* Ур. 50 --- Our End --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a576d7ffc690f3bb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk300_02053/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Ishgardian citizen](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db75a99dd4f93b59), [punctilious Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=568082b89e763027), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b930d0ab25ef44ac), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=105982229d8d280f), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a182bb949c0b669c)
   </details>
-* Ishgardian Justice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2f1658074e6a5e9e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk301_02054/)
+* Ур. 30 --- Ishgardian Justice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2f1658074e6a5e9e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk301_02054/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1254,7 +1253,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dc43ca0d98d6eaa2)
   </details>
-* The Voice in the Abyss --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=888eef482cc800e1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk350_02055/)
+* Ур. 35 --- The Voice in the Abyss --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=888eef482cc800e1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk350_02055/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1267,7 +1266,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1bb33118aa51c0f5), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=46373ec06643c6d9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f25a42869736267e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cb4766220ff7aba9)
   </details>
-* Heroic Reprise --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=75576f09c11e7227) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk400_02056/)
+* Ур. 40 --- Heroic Reprise --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=75576f09c11e7227) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk400_02056/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1278,7 +1277,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c07b8b054ad7e2cf), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=75ca88684a70e99e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f51817083558c4bc)
   </details>
-* Declaration of Blood --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7c8f9564454248ff) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk450_02057/)
+* Ур. 45 --- Declaration of Blood --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7c8f9564454248ff) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk450_02057/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1289,7 +1288,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3c14dd73c536aefd), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=27da81de3db0fa09), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=722d46332b526968)
   </details>
-* Our Answer --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f496702ca2287fc5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk500_02058/)
+* Ур. 50 --- Our Answer --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f496702ca2287fc5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk500_02058/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1303,7 +1302,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий тёмного рыцаря - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c92e58d29a1baa3252436b4d08ef3c420b3d5306.png)
 
-* The Wages of Mercy --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b281120f7a397a95) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk501_02059/)
+* Ур. 50 --- The Wages of Mercy --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b281120f7a397a95) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk501_02059/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1311,7 +1310,7 @@ title: Адепты Войны — Профессии
     <br>
     Вражеские NPC: [(без названия)](), [(без названия)]()
   </details>
-* The Knight and the Maiden Fair --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=39aa96fdc7732a42) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk520_02060/)
+* Ур. 52 --- The Knight and the Maiden Fair --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=39aa96fdc7732a42) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk520_02060/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1324,7 +1323,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e9fb424eae7270f9)
   </details>
-* Kindred Spirits --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3b2f1b50d6664086) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk540_02061/)
+* Ур. 54 --- Kindred Spirits --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3b2f1b50d6664086) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk540_02061/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1333,7 +1332,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=296299fa054c57bf)
   </details>
-* Original Sins --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=55e3d98218c3dcc7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk560_02062/)
+* Ур. 56 --- Original Sins --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=55e3d98218c3dcc7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk560_02062/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1346,7 +1345,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [gron ahlm](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5e8a93890f90dea4), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1c3fffe81b750e05)
   </details>
-* The Flame in the Abyss --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1d378f1acaa4ac02) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk580_02063/)
+* Ур. 58 --- The Flame in the Abyss --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1d378f1acaa4ac02) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk580_02063/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1359,7 +1358,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [tussock](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=66d7ca77a7e46e70), [tussock](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7a75925dca4d6f91), [tussock](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6cd070c8718224ab), [tussock](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=48ec8b2f125c4e0d), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=402e20e0c17d280d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c6217602719109d3)
   </details>
-* Absolution --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1aaab50cda8709a2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk600_02064/)
+* Ур. 60 --- Absolution --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1aaab50cda8709a2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk600_02064/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1371,7 +1370,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий тёмного рыцаря - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c3/c35a7a09a9ce70899b41e5e4209fd207332417a6.png)
 
-* In Memories We Walked --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fa95c86a8c40d765) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk601_02915/)
+* Ур. 60 --- In Memories We Walked --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fa95c86a8c40d765) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk601_02915/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1380,7 +1379,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1e8cdb1df034be1d), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ca6183423438d62e), [swirling abyss](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=be5f089ee6be677e)
   </details>
-* The Widow and Her Love --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=59f15e2d8d142a6f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk630_02916/)
+* Ур. 63 --- The Widow and Her Love --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=59f15e2d8d142a6f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk630_02916/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1391,7 +1390,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ffc4ce333000fb0e), [swirling abyss](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ea92148a7623de31)
   </details>
-* The Orphans and the Broken Blade --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2b613a8e30290448) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk650_02917/)
+* Ур. 65 --- The Orphans and the Broken Blade --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2b613a8e30290448) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk650_02917/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1400,7 +1399,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cd1e4960e351763c), [swirling abyss](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8252d4a7dc9709d4)
   </details>
-* We Can Never Go Home --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ff762fecf16eabaf) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk680_02918/)
+* Ур. 68 --- We Can Never Go Home --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ff762fecf16eabaf) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk680_02918/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1411,7 +1410,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b45ac65233b850a), [swirling abyss](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=49e8c62f8e0dcedd), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bf071bd703cdec83)
   </details>
-* Our Compromise --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ba1d31018fa0e18b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk700_02919/)
+* Ур. 70 --- Our Compromise --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ba1d31018fa0e18b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk700_02919/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1423,7 +1422,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение задания тёмного рыцаря - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d1cd85e5e8441b5995613b213430c6432cf86f93.png)
 
-* Our Closure --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e3a02cf87117c8e7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc012_03221/)
+* Ур. 80 --- Our Closure --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e3a02cf87117c8e7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc012_03221/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1439,14 +1438,14 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий механика - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/45/45b9e6d07e9c9f782f44178892d14e1829af25df.png)
 
-* Savior of Skysteel --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a67a13fc8cb4f4d4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobmch300_01696/)
+* Ур. 50 --- Savior of Skysteel --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a67a13fc8cb4f4d4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobmch300_01696/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Стефанивьян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd7722ab1eaa19c8), [Стефанивьян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b93a2e21bee89f84), [Joye](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bae5680395550aa2), [Joye](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=444298dbba4d3772), [grinning private](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4de9d70f716bf885), [scowling private](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31c613f19725547), [scrutinizing private](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6a05db3e075aea2), [Стефанивьян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd975427b6361d9f), [Rostnsthal](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b0718573da30eac), [Joye](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59adb31ca84f94c)
   </details>
-* Master of Marksmanship --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=412f4803f1e54b84) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobmch301_01697/)
+* Ур. 30 --- Master of Marksmanship --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=412f4803f1e54b84) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobmch301_01697/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1455,7 +1454,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=32830f5286f67ff)
   </details>
-* Always the Last Place You Look --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ceeef9f6587cee4c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobmch350_01698/)
+* Ур. 35 --- Always the Last Place You Look --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ceeef9f6587cee4c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobmch350_01698/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1466,14 +1465,14 @@ title: Адепты Войны — Профессии
     <br>
     Предметы: [Magitek Gyroscope #41](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ad031f2b8116c68f) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ad031f2b8116c68f))
   </details>
-* Rook Before You Reap --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48ea0ea0aafc41d2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobmch400_01699/)
+* Ур. 40 --- Rook Before You Reap --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48ea0ea0aafc41d2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobmch400_01699/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Стефанивьян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd7722ab1eaa19c8)
   </details>
-* Securing the Locks --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=52ee79039dbe0a2f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch401_01700/)
+* Ур. 40 --- Securing the Locks --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=52ee79039dbe0a2f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch401_01700/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1482,14 +1481,14 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a0033375bfe90146)
   </details>
-* A Suppressive Strategy --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=351cb51f5ff19bdf) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch450_01701/)
+* Ур. 45 --- A Suppressive Strategy --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=351cb51f5ff19bdf) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch450_01701/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Стефанивьян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd7722ab1eaa19c8)
   </details>
-* Blood on the Sands --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b34947489d864ff2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch451_01702/)
+* Ур. 45 --- Blood on the Sands --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b34947489d864ff2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch451_01702/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1500,7 +1499,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [×荷物](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=112deec77e502cd7), [heavy sack](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d0827b46951bbda7), [rank box](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b218142d9cedb78d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=56dd8e7fb9a6955b)
   </details>
-* Rage against the Machinists --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5982d1d452bb0f49) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch500_01703/)
+* Ур. 50 --- Rage against the Machinists --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5982d1d452bb0f49) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch500_01703/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1509,7 +1508,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9ce4974ccd9b022a)
   </details>
-* The Power of a Tourney --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b94b42ace10a2377) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch501_01704/)
+* Ур. 50 --- The Power of a Tourney --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b94b42ace10a2377) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch501_01704/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1520,14 +1519,14 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий механика - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d67660f0caff44f6f9aa6b3d390a60b57b3a4b6a.png)
 
-* A Joye-less Celebration --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a4b0c125607c8866) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch502_01705/)
+* Ур. 50 --- A Joye-less Celebration --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a4b0c125607c8866) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch502_01705/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Стефанивьян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd7722ab1eaa19c8), [Rostnsthal](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=512b41a943a3bba8), [Celestaux](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15b4b6fd7835d815), [Count Baurendouin de Haillenarte](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b37e691bddf9b0d), [Count Baurendouin de Haillenarte](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=27810c46dc5f3c62), [Rostnsthal](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4e51f97f85592c9), [Celestaux](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5de9fa673a78ddd7)
   </details>
-* Pushing the Brume --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f044423b77c03d3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch520_01706/)
+* Ур. 52 --- Pushing the Brume --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f044423b77c03d3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch520_01706/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1540,7 +1539,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [imperial crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3d397281811e64b5), [imperial crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=709788536b98afe2), [imperial crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a56ff93f76e7bde5), [×](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9d54273dc2f77d1c), [×](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=40f7182d868d5a20), [×](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=79563d1850350579), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9e017e3eee371187)
   </details>
-* A Joye-ful Reunion --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=943508bc56789507) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch540_01707/)
+* Ур. 54 --- A Joye-ful Reunion --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=943508bc56789507) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch540_01707/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1549,7 +1548,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e15933b559516650)
   </details>
-* Wheels of Justice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=459116c6a9434b35) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch560_01708/)
+* Ур. 56 --- Wheels of Justice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=459116c6a9434b35) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch560_01708/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1560,7 +1559,7 @@ title: Адепты Войны — Профессии
     <br>
     Предметы: [House Dzemael Seal](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2a7c360337a4951b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2a7c360337a4951b))
   </details>
-* Taking the Fall --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d0c46f92f71d337d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch580_01710/)
+* Ур. 58 --- Taking the Fall --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d0c46f92f71d337d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch580_01710/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1573,7 +1572,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [locked basket](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=14d2969945d57a35), [locked basket](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=856d9f5f92c6be7c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4cb797c6d19196e5), [×](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b826078066aed659), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8e47bde402767ab4), [×](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2632661f3ab4b4d1)
   </details>
-* Rusted Steel --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4777950ab57385a8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch581_01711/)
+* Ур. 58 --- Rusted Steel --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4777950ab57385a8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch581_01711/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1582,7 +1581,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=223b0a778ccf7208), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=39af75d4c6acd59)
   </details>
-* Rise of the Machinists --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b820f403a6efd98b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch600_01712/)
+* Ур. 60 --- Rise of the Machinists --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b820f403a6efd98b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobmch600_01712/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1594,14 +1593,14 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий механика - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/4327d933a8b0a6300a5f69fe31cd0f000b0a8120.png)
 
-* The Machinists' Choice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7d360480f6035a42) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch601_02905/)
+* Ур. 60 --- The Machinists' Choice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7d360480f6035a42) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch601_02905/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Стефанивьян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd7722ab1eaa19c8), [Стефанивьян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=946850361d8e57e2), [walking atlas](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a3941fc8ab8e75e6), [Yloise](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=545b0f6adeb6ec51), [Midnight Dew](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=154489f7be63be52), [Стефанивьян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c40c4367a979398a), [Rostnsthal](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=49298a4141452ca7), [Hilda](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d015e8e6bd2eab14), [Symme](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd9b39326f7a3314), [Eudestand](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab7ba6774bf974df), [cold-eyed knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5fc3571396c1f65)
   </details>
-* The Hrunting Heist --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2bcfb661cb662d98) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch630_02906/)
+* Ур. 63 --- The Hrunting Heist --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2bcfb661cb662d98) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch630_02906/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1614,7 +1613,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=577d428c60b90611)
   </details>
-* Release the Hounds --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7b8fd317f88d9d12) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch650_02907/)
+* Ур. 65 --- Release the Hounds --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7b8fd317f88d9d12) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch650_02907/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1623,7 +1622,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5b0549b2c4ef6ade)
   </details>
-* Snouts Down, Tails Up --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=98f0187595e89a04) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch680_02908/)
+* Ур. 68 --- Snouts Down, Tails Up --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=98f0187595e89a04) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch680_02908/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1634,7 +1633,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=67eef0d7dc287d9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5aa95724418315f9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a3425718104ac693), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5afb80cb8a1c0169)
   </details>
-* The Mongrel and the Knight --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8ea71b0a627e4261) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch700_02909/)
+* Ур. 70 --- The Mongrel and the Knight --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8ea71b0a627e4261) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch700_02909/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1646,7 +1645,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение задания механика - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d7/d75aed51fabe34601953f11a6463e310326d312c.png)
 
-* Machinists for the Morrow --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b0ea985886e1b872) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc011_03220/)
+* Ур. 80 --- Machinists for the Morrow --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b0ea985886e1b872) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc011_03220/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1662,14 +1661,14 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий самурая - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0c/0c145a79f4c1d1e4d91f6ed5fdb84a66db3bc6c8.png)
 
-* The Way of the Samurai --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2db764ed060de773) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam500_02559/)
+* Ур. 50 --- The Way of the Samurai --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2db764ed060de773) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam500_02559/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Ul'dahn citizen](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c9e2e39c7aa64ed4), [silver-tongued showmaster](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a3aecb2cecf5a54), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58d1ccfd1b9c1cdc), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=525593ff2a45ce48), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=830a408365dcb4f8), [Far Eastern elder](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3460d0bc93f18d3f)
   </details>
-* Master Musosai --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=567da22d5c907273) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam501_02560/)
+* Ур. 50 --- Master Musosai --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=567da22d5c907273) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam501_02560/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1678,7 +1677,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2eae8c01f968acf9)
   </details>
-* The Sands of Debt --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1cd47963e85af002) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam520_02561/)
+* Ур. 52 --- The Sands of Debt --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1cd47963e85af002) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam520_02561/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1689,7 +1688,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c0bd83fd81c71ad1)
   </details>
-* Blood on the Deck --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3bcb90b2bcc70d36) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam540_02562/)
+* Ур. 54 --- Blood on the Deck --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3bcb90b2bcc70d36) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam540_02562/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1700,7 +1699,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8dbdfbb7d08803ae), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f3667873073396a6)
   </details>
-* A Fraudster in the Forest --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f95c09fcae7dfc24) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam560_02563/)
+* Ур. 56 --- A Fraudster in the Forest --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f95c09fcae7dfc24) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam560_02563/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1711,7 +1710,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dd4b635567cf4b98)
   </details>
-* Tears in the Snow --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5ece422c70229cc1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam580_02564/)
+* Ур. 58 --- Tears in the Snow --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5ece422c70229cc1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam580_02564/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1722,7 +1721,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=700d044f6c01573e)
   </details>
-* The Face of True Evil --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5e60857df57a679a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam600_02565/)
+* Ур. 60 --- The Face of True Evil --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5e60857df57a679a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam600_02565/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1734,7 +1733,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий самурая - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/73/73a7fb3f4ba130dc86bcbc31b69fea2db0efb08c.png)
 
-* A Dignified Visitor --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3f243b193dfcccca) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam601_02566/)
+* Ур. 60 --- A Dignified Visitor --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3f243b193dfcccca) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam601_02566/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1745,7 +1744,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=381d8f260b56c8c3)
   </details>
-* Trials of the Sekiseigumi --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7c637844bd2d1b98) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam630_02567/)
+* Ур. 63 --- Trials of the Sekiseigumi --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7c637844bd2d1b98) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam630_02567/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1756,7 +1755,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d3911e51e6c15833)
   </details>
-* Matsuba Mayhem --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fba03a40355fcd9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam650_02568/)
+* Ур. 65 --- Matsuba Mayhem --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fba03a40355fcd9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam650_02568/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1767,7 +1766,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3b981c1ae588d093), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=869fcb2e0ed43ebc), [quaint charm](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=68eec4654c4163fa), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=44590269d7217a2f)
   </details>
-* The Hunt for Ugetsu --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2c1544a928eea82f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam680_02569/)
+* Ур. 68 --- The Hunt for Ugetsu --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2c1544a928eea82f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam680_02569/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1778,7 +1777,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=827d7dfe1efa0f63), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=eef509b67535b9e4), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2c477e890fe8b93c)
   </details>
-* The Battle on Bekko --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=70f86443ffe5a768) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam700_02570/)
+* Ур. 70 --- The Battle on Bekko --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=70f86443ffe5a768) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam700_02570/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1790,7 +1789,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение задания самурая - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f9/f9fbccaaee518a8351660f446b4fdeea17fbd9bf.png)
 
-* The Legend of Musosai --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6eb471322b69070a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc014_03223/)
+* Ур. 80 --- The Legend of Musosai --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6eb471322b69070a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc014_03223/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1802,7 +1801,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий ганбрейкера - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3f5086b6fbc5745879b582e3d713bc073f0a3b76.png)
 
-* The Makings of a Gunbreaker --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8e146bb2c08431be) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb101_03261/)
+* Ур. 60 --- The Makings of a Gunbreaker --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8e146bb2c08431be) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb101_03261/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1813,7 +1812,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a0fcd32bfaf0538d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6c8e8c0b17589341)
   </details>
-* Hired Gunblades --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6e56d7863a4ace90) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb102_03262/)
+* Ур. 60 --- Hired Gunblades --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6e56d7863a4ace90) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb102_03262/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1822,7 +1821,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=272aacdd73175799)
   </details>
-* For Better or Worse --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ad84881636063a5f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb111_03263/)
+* Ур. 63 --- For Better or Worse --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ad84881636063a5f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb111_03263/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1833,7 +1832,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9eb290d5f0667a50)
   </details>
-* Confessions of a Flaming Mongrel --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=35f6fce163e2947b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb121_03264/)
+* Ур. 65 --- Confessions of a Flaming Mongrel --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=35f6fce163e2947b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb121_03264/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1844,7 +1843,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fb9aa56e57d59ba6), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e01730f5a511e9e3), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a27c27d87e6ff4e6)
   </details>
-* Of Defectors and Defenders --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e2e995fe6688914f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb131_03265/)
+* Ур. 68 --- Of Defectors and Defenders --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e2e995fe6688914f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb131_03265/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1855,7 +1854,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3b07f6c23d14f7b8), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b26f9673ddb4d7e6), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2bca39c854b4550e), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f599161a22a11739), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=308005029c014575), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=78824a04590daec3)
   </details>
-* Steel against Steel --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d5c3f6006069fca9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb141_03266/)
+* Ур. 70 --- Steel against Steel --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d5c3f6006069fca9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb141_03266/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1867,7 +1866,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение зхадания ганбрейкера - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ab/ab855129de35fd2143294b21252cfe7c6fb67461.png)
 
-* Gunblades of the Patriots --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=52e51b233516e0b4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc016_03225/)
+* Ур. 80 --- Gunblades of the Patriots --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=52e51b233516e0b4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc016_03225/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1879,7 +1878,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий танцора - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/52/528ab24bd7ea67ed6ce126cf62a71811a08c3dd6.png)
 
-* Shall We Dance --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=671c740733841e04) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb201_03249/)
+* Ур. 60 --- Shall We Dance --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=671c740733841e04) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb201_03249/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1888,7 +1887,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2b1399e90878e0a2)
   </details>
-* Gamboling for Gil --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5bc15b94b2d1b907) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb202_03250/)
+* Ур. 60 --- Gamboling for Gil --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5bc15b94b2d1b907) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb202_03250/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1897,7 +1896,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=97d7f511b1e1dc78)
   </details>
-* A Soirée in the Sultanate --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=de8b6df40703535b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb211_03251/)
+* Ур. 63 --- A Soirée in the Sultanate --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=de8b6df40703535b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb211_03251/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1908,7 +1907,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d957c6952cb0741d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1843ece4b4513193)
   </details>
-* Dances with Duskwights --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f3dcb5ac3c9655d5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb221_03252/)
+* Ур. 65 --- Dances with Duskwights --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f3dcb5ac3c9655d5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb221_03252/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1919,7 +1918,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f965b5d339b25eda), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a73d27dd06c514b7)
   </details>
-* High-steppin' in the Holy See --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ef1279b7c5aa7e71) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb231_03253/)
+* Ур. 68 --- High-steppin' in the Holy See --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ef1279b7c5aa7e71) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb231_03253/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1930,7 +1929,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9fd656ef8ff20076)
   </details>
-* Save the Last Dance for Me --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=23a4037994d91cfa) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb241_03254/)
+* Ур. 70 --- Save the Last Dance for Me --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=23a4037994d91cfa) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb241_03254/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1942,7 +1941,7 @@ title: Адепты Войны — Профессии
 
 ![Изображение задания танцора - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/854dca83ebbd85a02079f60177414351cd5fea0b.png)
 
-* Rising to the Occasion --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=815cb7b2cdfa1bcd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc017_03226/)
+* Ур. 80 --- Rising to the Occasion --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=815cb7b2cdfa1bcd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc017_03226/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1954,23 +1953,22 @@ title: Адепты Войны — Профессии
 
 ![Изображение заданий жнеца - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6a/6a240be64529f8a7e28160963c343e2764e143e1.png)
 
-* The Killer Instinct --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=be7eaa399876b959) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb201_04073/)
+* Ур. 70 --- The Killer Instinct --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=be7eaa399876b959) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb201_04073/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [flustered attendant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9cb048cb312b779c), [Jijilyo](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a23b9924f99f7ed), [flustered attendant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd84635dd56c0830), [loyal Lemure](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3aff64680f8018ff), [Drusilla](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=70bcb65425887f54)
   </details>
-* The Harvest Begins --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6253eaeacb01ffb5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb202_04074/)
+* Ур. 70 --- The Harvest Begins --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6253eaeacb01ffb5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb202_04074/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
-
     NPC: [Drusilla](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=70bcb65425887f54), [Arnegis](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a94c15a59f719061), [Drusilla](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=35b3fcbb64003dbb), [Drusilla](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=552c0c7b68228343)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e686bbd7878898b4)
   </details>
-* On the Hunt --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c224e54e562cbe8a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb211_04075/)
+* Ур. 73 --- On the Hunt --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c224e54e562cbe8a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb211_04075/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1983,14 +1981,14 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=65f46f2648fe4c9e), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=46d0333fa8f1ddf6), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d1e35b5b9b27e853)
   </details>
-* Dark Days --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3307a45f611533b1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb221_04076/)
+* Ур. 75 --- Dark Days --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3307a45f611533b1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb221_04076/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Drusilla](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=552c0c7b68228343), [Hermin](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=34941bb94119e096), [Drusilla](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f10d03c09bbf44e), [loyal Lemure](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3aff64680f8018ff), [Drusilla](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84a28ebf05d25b96), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7838afbe06258bb1), [Order of Nald'thal priest](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c6601bc27a43d644), [Drusilla](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee81c5b05fa11406), [Arnegis's wife](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5388ba14f690a0ca), [Drusilla](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=697b5b7ccd1df994)
   </details>
-* Thicker than Blood --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=aac65026f56bb26d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb231_04077/)
+* Ур. 78 --- Thicker than Blood --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=aac65026f56bb26d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb231_04077/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -2001,7 +1999,7 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=553106eb9a253054)
   </details>
-* The Killing Art --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=295a3735281a8029) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb241_04078/)
+* Ур. 80 --- The Killing Art --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=295a3735281a8029) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb241_04078/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
