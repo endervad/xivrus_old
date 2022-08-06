@@ -648,6 +648,10 @@ screen and (max-height: 480px) {
 }
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content .dropdown-content-sub {
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropdown-content-sub {
     display: block;
 }
