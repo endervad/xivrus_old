@@ -72,22 +72,6 @@ title: Адепты Войны — Профессии
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=eaf6e0c0515b7d1c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5058c5a3f2062222)
   </details>
 
-![Изображение задания реликта ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/ceca335c9e33abef8d39bbb4b95d8d1f4b609fe6.png)
-
-* A Relic Reborn (Curtana) --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7fe6521ce49a149f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-jobpld001_01120/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
-
-    NPC: [Gerolt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), [(без названия)](), [Rowena](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [portly moogle](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Fafajoni](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
-    <br>
-    Вражеские NPC: [earth homunculus](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=449c036a44e7bee), [lightning homunculus](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=602e101ad6c1ca82), [Lewein](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=f4af9fe439f4e172)
-    <br>
-    Предметы: [Timeworn Curtana](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=253978112957abf6) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=253978112957abf6)), [Alumina Salts](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3efdbcd9b004391b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3efdbcd9b004391b)), [Amdapor Glyph](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=369c9baa999b5cc6) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=369c9baa999b5cc6)), [The Song of Tristram](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cebbde8ea0e88495) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=cebbde8ea0e88495)), [White-hot Ember](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a5d88581cbf564f7) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a5d88581cbf564f7)), [Howling Gale](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d6882504782b3901) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d6882504782b3901)), [Hyperfused Ore](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=facd12943087de59) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=facd12943087de59))
-    <br>
-    Надписи на земле: [Сундук с сокровищами](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d494272fc3c3b09d)
-  </details>
-
 ![Изображение заданий паладина - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0d5187676392c7705077a51aafb117154a77f08a.png)
 
 * An Exemplary Example --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=28392251e1f3ea0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobpld501_02032/)
@@ -290,22 +274,6 @@ title: Адепты Войны — Профессии
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1b31412bc0062708), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a5c2d37fb6d745ae)
   </details>
 
-![Изображение задания реликта ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/ceca335c9e33abef8d39bbb4b95d8d1f4b609fe6.png)
-
-* A Relic Reborn (Sphairai) --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9a373e421662ceea) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-jobmnk001_01121/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
-
-    NPC: [Gerolt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), [(без названия)](), [Rowena](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [portly moogle](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Fafajoni](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
-    <br>
-    Вражеские NPC: [earth homunculus](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=449c036a44e7bee), [lightning homunculus](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=602e101ad6c1ca82), [water homunculus](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a0d75e0477c5f9e5)
-    <br>
-    Предметы: [Timeworn Sphairai](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8613ab9947554cfc) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8613ab9947554cfc)), [Alumina Salts](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6198fcd876fae0bd) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6198fcd876fae0bd)), [Amdapor Glyph](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=68baff1fe6bbb682) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=68baff1fe6bbb682)), [Enter the Coeurl](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5333533f7a41731a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5333533f7a41731a)), [White-hot Ember](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7b7bcc1b2f004458) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7b7bcc1b2f004458)), [Howling Gale](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7c97a33887d811fa) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7c97a33887d811fa)), [Hyperfused Ore](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=53fab87cc42a3b39) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=53fab87cc42a3b39))
-    <br>
-    Надписи на земле: [Сундук с сокровищами](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=de933387a426c48c)
-  </details>
-
 ![Изображение заданий монаха - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/35/358cd5644fcfba01da572ed03f706793edb462ce.png)
 
 * The Legend Continues --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d06258b4dde98101) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobmnk501_02026/)
@@ -496,22 +464,6 @@ title: Адепты Войны — Профессии
     NPC: [Curious Gorge](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9690b38ee6683263), [Wineport militia captain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3dff6b6778f8ac71), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f6d7b89c2138402), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a01306b3c8127182), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32d590311d8f3bbd), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8c902055da3b9fa9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb3618eee26f34a6), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f54d8aadad3062cf), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d75ae4e05ac7c73), [Wineport militia captain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=178294fa2b7a94ef), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ef1ee1f4be49a7f), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d4fccd6ac0e69583)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=48334749aa8a6a7c)
-  </details>
-
-![Изображение задания реликта ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/ceca335c9e33abef8d39bbb4b95d8d1f4b609fe6.png)
-
-* A Relic Reborn (Bravura) --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2dd98df85c6337e9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-jobwar001_01119/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
-
-    NPC: [Gerolt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), [(без названия)](), [Rowena](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [portly moogle](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Fafajoni](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
-    <br>
-    Вражеские NPC: [Temperance of the Alacran](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=55b10e990c24c21e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e5dc66e9a2852ba7), [Kindness of the Alacran](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=1f82dfc4c5314b7)
-    <br>
-    Предметы: [Timeworn Bravura](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=34ec06399f2b4993) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=34ec06399f2b4993)), [Alumina Salts](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3a2987bc3a29d4da) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3a2987bc3a29d4da)), [Amdapor Glyph](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c088bfa925c0dabc) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c088bfa925c0dabc)), [The Warrior Within](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5671ed7bb6a4c498) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5671ed7bb6a4c498)), [White-hot Ember](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c7aac1fe745a0a1d) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c7aac1fe745a0a1d)), [Howling Gale](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f95e9d75dba0775e) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f95e9d75dba0775e)), [Hyperfused Ore](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8c11377dcb6f2762) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8c11377dcb6f2762))
-    <br>
-    Надписи на земле: [Сундук с сокровищами](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9a7f1079598ec43b)
   </details>
 
 ![Изображение заданий воина - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be9708892cd544f10a1e7ca634e3279d5968c4ff.png)
@@ -719,22 +671,6 @@ title: Адепты Войны — Профессии
     NPC: [Альберик](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a82912271cb55160)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=97815c7293b02dc8)
-  </details>
-
-![Изображение задания реликта ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/ceca335c9e33abef8d39bbb4b95d8d1f4b609fe6.png)
-
-* A Relic Reborn (Gae Bolg) --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9d1c64163cb59cec) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-jobdrg001_01122/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
-
-    NPC: [Gerolt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), [(без названия)](), [Rowena](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [portly moogle](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Fafajoni](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
-    <br>
-    Вражеские NPC: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8306d34ce95b9642), [???](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=82455e958ebc8d0f), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=cb29f07448832d03)
-    <br>
-    Предметы: [Timeworn Gae Bolg](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9a989e5176e25618) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9a989e5176e25618)), [Alumina Salts](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2da387843929dc18) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2da387843929dc18)), [Amdapor Glyph](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=38a6efa7fd0ff4e9) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=38a6efa7fd0ff4e9)), [The Book of Reinette](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e145c9d75350c86d) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e145c9d75350c86d)), [White-hot Ember](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7b218f61ca21fff3) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7b218f61ca21fff3)), [Howling Gale](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=90d820547c84b326) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=90d820547c84b326)), [Hyperfused Ore](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=eca060a98e4aa191) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=eca060a98e4aa191))
-    <br>
-    Надписи на земле: [Сундук с сокровищами](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5224bfde60ab8882)
   </details>
 
 ![Изображение заданий драгуна - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/61/61d0f5e5a2a17ea945b114ee121385f133e80ed2.png)
@@ -948,22 +884,6 @@ title: Адепты Войны — Профессии
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=378cd70c1b96721e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e4c53623d13aecb0)
   </details>
 
-![Изображение задания реликта ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/ceca335c9e33abef8d39bbb4b95d8d1f4b609fe6.png)
-
-* A Relic Reborn (Artemis Bow) --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=680ece051e5d4a82) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-jobbrd001_01125/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
-
-    NPC: [Gerolt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), [(без названия)](), [Rowena](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [portly moogle](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Fafajoni](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
-    <br>
-    Вражеские NPC: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=8306d34ce95b9642), [???](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=82455e958ebc8d0f), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=d1aacfcc68dcbc86)
-    <br>
-    Предметы: [Timeworn Artemis Bow](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3618b1adf5d2741d) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3618b1adf5d2741d)), [Alumina Salts](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=aa1edb73befb14a0) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=aa1edb73befb14a0)), [Amdapor Glyph](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b824f56781e6cdab) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b824f56781e6cdab)), [Bow of the Gods](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a4206f8536fa5085) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a4206f8536fa5085)), [White-hot Ember](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6ddcda8e10f0a5fd) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6ddcda8e10f0a5fd)), [Howling Gale](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=20c3a95a89b0426f) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=20c3a95a89b0426f)), [Hyperfused Ore](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=87f54db2616e2969) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=87f54db2616e2969))
-    <br>
-    Надписи на земле: [Сундук с сокровищами](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1efb875535933ab5)
-  </details>
-
 ![Изображение заданий барда - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ea/ea1006bc1d59db6eac6fc208f194819e15d0548b.png)
 
 * On the Road Again --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=844550605d74368a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-017-jobbrd501_01713/)
@@ -1096,7 +1016,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий ниндзи - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a95ca08682640c54ff1ca7dcbeeca3ed33a7a628.png)
 
 * Peasants by Day, Ninjas by Night --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2542a35c03f4bfb9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin300_00212/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1178,25 +1097,9 @@ title: Адепты Войны — Профессии
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=458d3afe07403f91)
   </details>
 
-![Изображение задания реликта ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/ceca335c9e33abef8d39bbb4b95d8d1f4b609fe6.png)
-
-* A Relic Reborn (Yoshimitsu) --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=77a64633e7b6f3be) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-015-jobnin001_01579/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
-    NPC: [Gerolt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4232878b33d4a101), [(без названия)](), [Rowena](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96195572aeed6a73), [portly moogle](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=874ed06470d9bfee), [Fafajoni](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5370aae410f9f23c)
-    <br>
-    Вражеские NPC: [stalwart swordsman](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=89ab0a735e02c6fd), [seemingly ordinary imp](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=2a759b44e02e4db8), [Галфрид Храбрый](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=19d369fbc7da05bf)
-    <br>
-    Предметы: [Timeworn Yoshimitsu](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6c2eff55d2bb1508) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6c2eff55d2bb1508)), [Alumina Salts](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5196364791f9f35b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5196364791f9f35b)), [Amdapor Glyph](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f0eeef2893c3dd67) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f0eeef2893c3dd67)), [Shonin-ki](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2385a9b2fa4d02f2) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2385a9b2fa4d02f2)), [White-hot Ember](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b717c70694ba53e0) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b717c70694ba53e0)), [Howling Gale](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=603e2e8abf431c4) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=603e2e8abf431c4)), [Hyperfused Ore](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b257eb33faddd2aa) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b257eb33faddd2aa))
-    <br>
-    Надписи на земле: [banded chest](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=db81f540b1075a8f)
-  </details>
-
 ![Изображение заданий ниндзи - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1e/1e6cb3eb6753eeb00473d1900d76fd63fe32dc9f.png)
 
 * Strangers in a Strange Land --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ca44c7539f96cb0f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-jobnin501_00235/)
-  
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1205,7 +1108,6 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d9b7f7f11ec6a169), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=27d712da6968a79f), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=94cd85f0f641189a)
   </details>
-  
 * The Impossible Girl --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=18f349d4981046f1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin520_01684/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1219,7 +1121,6 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e1a3f28817a84586), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d30b9f6d41288451), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a344201bd3f7a6f)
   </details>
-  
 * Ninja Assassin --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=280aa65e21be6a0e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin540_01685/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1229,7 +1130,6 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=17d8e0466c241571), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bdd74dcf46c51be7), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b1f0d39f7abfc287), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=15145835aac34017)
   </details>
-  
 * Medieval Espionage --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b43167786bed7b72) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin560_01686/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1243,7 +1143,6 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=98973990d6f9772d), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f0477f7d3fd9e803)
   </details>
-  
 * Staying Alive --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b9a7070c68f294c9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin580_01687/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1257,7 +1156,6 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=df854f07e97966cf), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a40bd34a1ad95cec), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e4a80a3fe475cc3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3f424523d35aed38), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=497b622e7cb4a33a), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=28773a2d52bef648)
   </details>
-  
 * In Her Defense --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8a1d4409c0225bbb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobnin600_01688/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1272,7 +1170,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий ниндзи - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1bea50feecfc908145f45eaf8269268420ffdae4.png)
 
 * Search for the Stolen Scroll --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=566c7879eb7ff6fb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin601_02948/)
-  
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1283,7 +1180,6 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8e37107d9965678), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ea02db64258cf572)
   </details>
-  
 * Ninja Bathin' Redux --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8baa107391f23cc6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin630_02949/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1295,7 +1191,6 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cc00ab6ab34ae765), [bathhouse basket](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9204640a690548fa), [bathhouse basket](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2cf1f61a6e4c52be), [bathhouse basket](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=aa844eae7f193dd5), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6597482116154538)
   </details>
-  
 * A Game of Life and Death --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=488cbb60379a8f26) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin650_02950/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1305,7 +1200,6 @@ title: Адепты Войны — Профессии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=57d34580ab416fd2)
   </details>
-  
 * True Enlightenment --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=10324546be400372) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin680_02951/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1317,7 +1211,6 @@ title: Адепты Войны — Профессии
     <br>
     Предметы: [Doman Weasel Claw](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d2eef9fb2d471e3d) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d2eef9fb2d471e3d))
   </details>
-  
 * When Clans Collide --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6b0d89b96a112efd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobnin700_02952/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -1330,7 +1223,6 @@ title: Адепты Войны — Профессии
 ![Изображение задания ниндзи - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c3/c3db46ef0267b729004a7fcc7833080268f7913c.png)
 
 * Oboro's Big Idea --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c6acd05b27ef6a7b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc010_03219/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1412,7 +1304,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий тёмного рыцаря - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c92e58d29a1baa3252436b4d08ef3c420b3d5306.png)
 
 * The Wages of Mercy --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b281120f7a397a95) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk501_02059/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1420,9 +1311,7 @@ title: Адепты Войны — Профессии
     <br>
     Вражеские NPC: [(без названия)](), [(без названия)]()
   </details>
-
 * The Knight and the Maiden Fair --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=39aa96fdc7732a42) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk520_02060/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1483,7 +1372,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий тёмного рыцаря - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c3/c35a7a09a9ce70899b41e5e4209fd207332417a6.png)
 
 * In Memories We Walked --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fa95c86a8c40d765) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobdrk601_02915/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1536,7 +1424,6 @@ title: Адепты Войны — Профессии
 ![Изображение задания тёмного рыцаря - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d1cd85e5e8441b5995613b213430c6432cf86f93.png)
 
 * Our Closure --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e3a02cf87117c8e7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc012_03221/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1553,7 +1440,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий механика - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/45/45b9e6d07e9c9f782f44178892d14e1829af25df.png)
 
 * Savior of Skysteel --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a67a13fc8cb4f4d4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobmch300_01696/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1709,7 +1595,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий механика - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/4327d933a8b0a6300a5f69fe31cd0f000b0a8120.png)
 
 * The Machinists' Choice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7d360480f6035a42) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-029-jobmch601_02905/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1762,7 +1647,6 @@ title: Адепты Войны — Профессии
 ![Изображение задания механика - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d7/d75aed51fabe34601953f11a6463e310326d312c.png)
 
 * Machinists for the Morrow --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b0ea985886e1b872) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc011_03220/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1779,7 +1663,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий самурая - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0c/0c145a79f4c1d1e4d91f6ed5fdb84a66db3bc6c8.png)
 
 * The Way of the Samurai --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2db764ed060de773) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam500_02559/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1852,7 +1735,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий самурая - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/73/73a7fb3f4ba130dc86bcbc31b69fea2db0efb08c.png)
 
 * A Dignified Visitor --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3f243b193dfcccca) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-jobsam601_02566/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1909,7 +1791,6 @@ title: Адепты Войны — Профессии
 ![Изображение задания самурая - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f9/f9fbccaaee518a8351660f446b4fdeea17fbd9bf.png)
 
 * The Legend of Musosai --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6eb471322b69070a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc014_03223/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1922,7 +1803,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий ганбрейкера - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3f5086b6fbc5745879b582e3d713bc073f0a3b76.png)
 
 * The Makings of a Gunbreaker --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8e146bb2c08431be) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb101_03261/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -1988,7 +1868,6 @@ title: Адепты Войны — Профессии
 ![Изображение зхадания ганбрейкера - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ab/ab855129de35fd2143294b21252cfe7c6fb67461.png)
 
 * Gunblades of the Patriots --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=52e51b233516e0b4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc016_03225/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -2001,7 +1880,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий танцора - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/52/528ab24bd7ea67ed6ce126cf62a71811a08c3dd6.png)
 
 * Shall We Dance --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=671c740733841e04) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbb201_03249/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -2065,7 +1943,6 @@ title: Адепты Войны — Профессии
 ![Изображение задания танцора - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/854dca83ebbd85a02079f60177414351cd5fea0b.png)
 
 * Rising to the Occasion --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=815cb7b2cdfa1bcd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-032-luckbc017_03226/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -2078,7 +1955,6 @@ title: Адепты Войны — Профессии
 ![Изображение заданий жнеца - ShB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6a/6a240be64529f8a7e28160963c343e2764e143e1.png)
 
 * The Killer Instinct --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=be7eaa399876b959) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-040-aktkbb201_04073/)
-
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
