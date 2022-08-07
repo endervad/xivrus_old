@@ -173,4 +173,4 @@ title: Основной сюжет — Heavensward
 * Fly Free, My Pretty
 * The Far Edge of Fate
 
-_Продолжение следует в [Stormblood](/xivrus/msq/sb)..._
+_Продолжение следует в [Stormblood](/xivrus/markdown/msq/sb)..._
