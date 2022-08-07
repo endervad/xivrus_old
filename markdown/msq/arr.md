@@ -32,7 +32,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c4de3eb2e00736d2) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c4de3eb2e00736d2))
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests#dow-dom)
+    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dow#lancer)
   * Лучник --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4c7e90b156c5a1cb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-manfst003_00123/)
     <details>
       <summary>NPC, предметы и т.д.
@@ -42,7 +42,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f0527ccaab28019b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f0527ccaab28019b))
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests#dow-dom)
+    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dow#archer)
   * Элементалист --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bf44353f9988f04d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-manfst004_00124/)
     <details>
       <summary>NPC, предметы и т.д.
@@ -52,7 +52,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=530ef6f448a231fa) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=530ef6f448a231fa))
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests#dow-dom)
+    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dom#conjurer)
   * A Good Adventurer Is Hard to Find --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bdc58f1b5b53a966) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-subfst010_00001/)
     <details>
       <summary>NPC, предметы и т.д.
@@ -288,36 +288,36 @@ title: Основной сюжет — A Realm Reborn
     </details>
 * Close to Home:
   * Мародёр --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=be71b3e54f55b5bc) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-mansea002_00108/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
+    <details>
+      <summary>NPC, предметы и т.д.
+      </summary>
 
-    NPC: [Бадерон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f830ba8158ba473c), [Свозбуль](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd0789db2da8d7cc), [Блайтота](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=235143022d43ab89), [Бадерон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbc2b5f8b2b0f5b1)
-    <br>
-    Предметы: [Ржавый октант](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=92cddad5dc1fb9e7) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=92cddad5dc1fb9e7))
-  </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests#dow-dom)
+      NPC: [Бадерон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f830ba8158ba473c), [Свозбуль](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd0789db2da8d7cc), [Блайтота](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=235143022d43ab89), [Бадерон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbc2b5f8b2b0f5b1)
+      <br>
+      Предметы: [Ржавый октант](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=92cddad5dc1fb9e7) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=92cddad5dc1fb9e7))
+    </details>
+    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dow#marauder)
   * Арканист --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a59b8fb5ebb824c0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-mansea003_00109/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
+    <details>
+      <summary>NPC, предметы и т.д.
+      </summary>
 
-    NPC: [Бадерон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f830ba8158ba473c), [Свозбуль](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd0789db2da8d7cc), [Муриэ](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ec089c1e66392e38), [Бадерон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbc2b5f8b2b0f5b1)
-    <br>
-    Предметы: [Ржавый октант](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=de6655a062e12dea) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=de6655a062e12dea))
-  </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests#dow-dom)
+      NPC: [Бадерон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f830ba8158ba473c), [Свозбуль](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd0789db2da8d7cc), [Муриэ](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ec089c1e66392e38), [Бадерон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbc2b5f8b2b0f5b1)
+      <br>
+      Предметы: [Ржавый октант](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=de6655a062e12dea) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=de6655a062e12dea))
+    </details>
+    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dom#arcanist)
   * Making a Name --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b56377e193fce438) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-subsea001_00111/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
+    <details>
+      <summary>NPC, предметы и т.д.
+      </summary>
 
-    NPC: [Нинья](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=451f60b54fecbe35), [Сканраэль](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb62c219ab56d635), [Альдскиф](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=47c2d188de9ec139)
-    <br>
-    Предметы: [Странные растения](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=791b08a8112f0b54) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=791b08a8112f0b54))
-    <br>
-    Надписи на земле: [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=583022ac6be74878), [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a3ebbf7c4461e608), [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6e8a7b8c54d7f2d0), [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ca6bb4773e11259e), [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fb4eedb57e92abbc), [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9ea4282018fea9af)
-  </details>
+      NPC: [Нинья](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=451f60b54fecbe35), [Сканраэль](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb62c219ab56d635), [Альдскиф](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=47c2d188de9ec139)
+      <br>
+      Предметы: [Странные растения](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=791b08a8112f0b54) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=791b08a8112f0b54))
+      <br>
+      Надписи на земле: [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=583022ac6be74878), [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a3ebbf7c4461e608), [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6e8a7b8c54d7f2d0), [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ca6bb4773e11259e), [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fb4eedb57e92abbc), [Странное растение](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9ea4282018fea9af)
+    </details>
 * On to Summerford --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4852fb6338089da8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-subsea050_00462/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -536,45 +536,45 @@ title: Основной сюжет — A Realm Reborn
   * Авантюрист, переживший 1.0 --- [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil050_00549/)
   * [Перед первым квестом](https://host6450.hnt.ru/projects/ffxiv-translation/opening-openinguldah/)
   * Coming to Ul'dah --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4d3d7023185a4c4b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil001_00594/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
+    <details>
+      <summary>NPC, предметы и т.д.
+      </summary>
 
-    NPC: [Вимонд](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d7d39df63cb1e5e9), [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12358533287f7014), [Вимонд](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8c8ac3604bf9f4f)
-    <br>
-    Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2ddbb71dbf444d41), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ab702134d1237e9a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5960b9c732a36858), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8e14694e51daf131)
-  </details>
+      NPC: [Вимонд](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d7d39df63cb1e5e9), [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12358533287f7014), [Вимонд](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8c8ac3604bf9f4f)
+      <br>
+      Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2ddbb71dbf444d41), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ab702134d1237e9a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5960b9c732a36858), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8e14694e51daf131)
+    </details>
 * Close to Home:
   * Гладиатор --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c7e912816bb0e6b6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil002_00568/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
+    <details>
+      <summary>NPC, предметы и т.д.
+      </summary>
 
-    NPC: [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12358533287f7014), [Лулуцу](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=206b83d25fdda5e0), [Seseroga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f806530f022ee78b), [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7744087ade37a3e5), [Nenebaru](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c723a71b8c82c0b7)
-    <br>
-    Предметы: [Letter of Introduction](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=fdf739d88ba5a459) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=fdf739d88ba5a459))
-  </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests#dow-dom)
+      NPC: [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12358533287f7014), [Лулуцу](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=206b83d25fdda5e0), [Seseroga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f806530f022ee78b), [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7744087ade37a3e5), [Nenebaru](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c723a71b8c82c0b7)
+      <br>
+      Предметы: [Letter of Introduction](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=fdf739d88ba5a459) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=fdf739d88ba5a459))
+    </details>
+    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dow#gladiator)
   * Борец --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3350e5604c6bb115) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil003_00569/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
+    <details>
+      <summary>NPC, предметы и т.д.
+      </summary>
 
-    NPC: [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12358533287f7014), [Гагаруна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=edd994819c849e36), [Seseroga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f806530f022ee78b), [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7744087ade37a3e5), [Nenebaru](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c723a71b8c82c0b7)
-    <br>
-    Предметы: [Letter of Introduction](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=639fc0063058343a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=639fc0063058343a))
-  </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests#dow-dom)
+      NPC: [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12358533287f7014), [Гагаруна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=edd994819c849e36), [Seseroga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f806530f022ee78b), [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7744087ade37a3e5), [Nenebaru](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c723a71b8c82c0b7)
+      <br>
+      Предметы: [Letter of Introduction](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=639fc0063058343a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=639fc0063058343a))
+    </details>
+    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dow#pugilist)
   * Оккультист --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=99e8025b2bfba948) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil004_00570/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
+    <details>
+      <summary>NPC, предметы и т.д.
+      </summary>
 
-    NPC: [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12358533287f7014), [Яякэ](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de48f00e6fd469c8), [Seseroga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f806530f022ee78b), [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7744087ade37a3e5), [Nenebaru](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c723a71b8c82c0b7)
-    <br>
-    Предметы: [Letter of Introduction](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9df914b7831f227b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9df914b7831f227b))
-  </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests#dow-dom)
+      NPC: [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12358533287f7014), [Яякэ](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de48f00e6fd469c8), [Seseroga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f806530f022ee78b), [Момоди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7744087ade37a3e5), [Nenebaru](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c723a71b8c82c0b7)
+      <br>
+      Предметы: [Letter of Introduction](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9df914b7831f227b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9df914b7831f227b))
+    </details>
+    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dom#thaumaturge)
 * We Must Rebuild --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6c56c3919f92b8c3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-subwil027_00595/)
   <details>
     <summary>NPC, предметы и т.д.
