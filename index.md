@@ -45,4 +45,5 @@ title: XivRUS (alpha)
 > (Сюда больше различных скриншотов)
 
 
-<div style="text-align: right"><i>@EnderVAD#4551</i></div>
+<div style="text-align: right"><i>@EnderVAD#4551</i>
+</div>
