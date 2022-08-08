@@ -39,7 +39,7 @@ title: Адепты Магии
 
     NPC: [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e744b16d9cbfc), [Nolanel](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ecafd2e3eefd034)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [corrupted soil](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c688469eb9722e46)
   </details>
@@ -50,7 +50,7 @@ title: Адепты Магии
 
     NPC: [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e744b16d9cbfc), [Wulfiue](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4087f5749474a0d)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e2a75dcb80ace512), [corrupted air](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c27c31a5c0138e93)
   </details>
@@ -61,7 +61,7 @@ title: Адепты Магии
 
     NPC: [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e744b16d9cbfc), [Wulfiue](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4087f5749474a0d)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f1dee949b5a5b5f0), [corrupted air](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=51d7c7920584f4c1)
   </details>
@@ -72,7 +72,7 @@ title: Адепты Магии
 
     NPC: [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e744b16d9cbfc), [Жоасан](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fdb63e41fad4792d), [Aniud](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de392ce20f9df1bb), [Раненая Лесная Тень](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b9a3387bee897fca), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9b2e4aa0981669cb), [harried healer](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c39bf0be0b5f5ce0), [Лучник Божьих Колчанов](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a84bcfa1af7efd4), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10fe2d9d5cd2f671), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf94b28807da73b1), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b9bdc6f7dcd2e449), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=98509e5b54a9cd88), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58c98c9cdf279174), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=57e1538ac0beecfa), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55a513cbaaef11b0), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbde8b2e4133d691), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=91590803c01893ba), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d92868e49faebb2), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f781af67e6cbc0bb), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=12a368282e819b2b)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Pristine Water](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=55db9209b7ec299c) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=55db9209b7ec299c))
     <br>
@@ -85,7 +85,7 @@ title: Адепты Магии
 
     NPC: [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e744b16d9cbfc), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46866bfaf0492579), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30b539df39c03bab), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e913664f0d0207f)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [corrupted soil](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=27d226851271706e), [corrupted air](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bbcd6ddc5492cd98), [corrupted water](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=aa94fa97e1cb9037)
   </details>
@@ -105,7 +105,7 @@ title: Адепты Магии
 
     NPC: [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e744b16d9cbfc), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=852aea6cb18e0a5), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ea3940e1e3f0cf1d), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f139063782c864), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=536bd73dbf5fa40)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [corrupted soil](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bf41f6029edbf925), [corrupted soil](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=138eb735b0b0f8ae), [corrupted soil](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dc74fddf438d8f02), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=99605d0e75938392)
   </details>
@@ -146,7 +146,7 @@ title: Адепты Магии
 
     NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8a2e8422b5e507e), [Fafafono](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f203ace01c907927), [Cocobusi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d7e79fb8dc60d44)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Dried Fish](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=840beec5f49aa4af) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=840beec5f49aa4af)), [Vulture Breast](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5ae8c9359b1122d9) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5ae8c9359b1122d9))
     <br>
@@ -159,7 +159,7 @@ title: Адепты Магии
 
     NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Cocobani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e449859d9ec4370), [Cocobusi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d7e79fb8dc60d44), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a)
     <br>
-    Вражеские NPC: [Sylphlands buzzard](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47d254a97cce0a1), [(без названия)](), [(без названия)]()
+    Вражеские NPC: [Sylphlands buzzard](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47d254a97cce0a1), (без названия), (без названия)
     <br>
     Предметы: [Amalj'aa Blood](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7626783e4157b9c8) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7626783e4157b9c8)), [Ether Crate](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9fac8e936e06a40) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9fac8e936e06a40))
     <br>
@@ -172,7 +172,7 @@ title: Адепты Магии
 
     NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Cocobani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e449859d9ec4370), [Cocobusi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d7e79fb8dc60d44), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a)
     <br>
-    Вражеские NPC: [Sylphlands buzzard](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47d254a97cce0a1), [(без названия)](), [(без названия)]()
+    Вражеские NPC: [Sylphlands buzzard](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47d254a97cce0a1), (без названия), (без названия)
     <br>
     Предметы: [Amalj'aa Blood](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=519a7ce70ae4f17) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=519a7ce70ae4f17)), [Ether Crate](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=485de7f47b521c8a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=485de7f47b521c8a))
     <br>
@@ -216,7 +216,7 @@ title: Адепты Магии
 
     NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Gebhard](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=325f45becbd5ffd7), [Folclind](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a9ae329f11eed0b), [Bashful Geyser](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b18edced9d522bf), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd5e5732f8d0f972), [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a1309879016360bc), [Cocobani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3bf086efcd31e493), [Cocobezi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf7f230813af04f3), [Cocoboha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb5d6e17cb47dd26), [maimed marauder](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26467d0767a97077), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2eece72dfb574ff8), [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be09748dbecbd232), [Cocobani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58bbaabad78f9920), [Cocobezi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d121cc5aea487513), [Cocoboha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7064f0bf0df13892)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Cocobusi Report](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=a8ade17fa2691b0a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=a8ade17fa2691b0a))
     <br>
@@ -259,7 +259,7 @@ title: Адепты Магии
 
     NPC: [Тубиргейм](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1f6e2aafe1dc78)
     <br>
-    Вражеские NPC: [tempered orator](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e95d99ebc1162b49), [Стая мошек](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5a2e6eda95baab38), [(без названия)](), [(без названия)]()
+    Вражеские NPC: [tempered orator](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=e95d99ebc1162b49), [Стая мошек](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=5a2e6eda95baab38), (без названия), (без названия)
     <br>
     Предметы: [Practice Crate](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=16c602cdfa620524) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=16c602cdfa620524))
     <br>
@@ -301,7 +301,7 @@ title: Адепты Магии
 
     NPC: [Тубиргейм](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1f6e2aafe1dc78), [K'lyhia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a953d2391980cd9c), [Geissfryn](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e16d69d3ef0f7a3), [Aersthota](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a0d5745badf08ff), [steersman](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee41668f0608746d), [Geissfryn](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a84ba776426ee9a0), [Aersthota](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d676c512025e86f8), [K'lyhia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26ac64b066dfcd5f)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cf1d357507528459), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3a5d6ba03dcda6cb)
   </details>
@@ -321,7 +321,7 @@ title: Адепты Магии
 
     NPC: [Тубиргейм](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1f6e2aafe1dc78), [witness](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=814062767baf8baa), [Tanga Tonga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7da4534985cb809a), [Memeroon](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97019cc8777c3309), [K'lyhia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ea17143b0cbbaa2)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [Torn Parchment Slip](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c688469eb9722e46) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c688469eb9722e46)), [New Grimoire](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6f8e669526619f8a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6f8e669526619f8a))
     <br>

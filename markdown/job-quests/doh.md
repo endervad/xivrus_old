@@ -469,7 +469,7 @@ title: Адепты Ремесла
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Blanstyr](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=871c58ba2a96daf9), [Benathaire](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65f23c019bedbe2f), [Barberella](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a2ed5ba74521b073), [Sasapiku](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=420a6cea85aab416), [Wannmaga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=78182454c6830629), [(без названия)]()
+    NPC: [Blanstyr](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=871c58ba2a96daf9), [Benathaire](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65f23c019bedbe2f), [Barberella](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a2ed5ba74521b073), [Sasapiku](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=420a6cea85aab416), [Wannmaga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=78182454c6830629), (без названия)
   </details>
 * Ур. 60 --- The Pride of Vymelli --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1801118cda88443d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsarm600_02042/)
   <details>

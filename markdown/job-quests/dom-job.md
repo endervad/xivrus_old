@@ -25,7 +25,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Райа-О-Сенна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=973a57f772a3959e)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=345976b08479bd57), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f0d6ddc493b6d3f1)
   </details>
@@ -36,7 +36,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Райа-О-Сенна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=973a57f772a3959e), [А-Ран-Сенна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54066b1bf49f1839)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=32df9d2bdaf4f214), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f7f2323a1bc34901)
   </details>
@@ -58,7 +58,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Райа-О-Сенна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=973a57f772a3959e), [Kupcha Kupa](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3b9b698077d191e3), [Pukno Poki](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=78951a7511fed241)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [A-Towa-Cant's Ashes](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=72e473d33b9fea73) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=72e473d33b9fea73))
     <br>
@@ -83,7 +83,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Райа-О-Сенна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=973a57f772a3959e), [Райа-О-Сенна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d021ba425ddc0b7), [А-Ран-Сенна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=67a17866e1e8626f), [Somerhild](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3dd8e95f3a70ccdd), [Thierrand](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f577f752ff703ca4), [Aeluuin](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=600aa61295b03541), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=72b7135120d435a8), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bfc45c61db2e914f), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5f33913b95963a6a)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Предметы: [Padjali Missive](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b304109a4053fc93) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b304109a4053fc93))
     <br>
@@ -105,7 +105,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15d507857337fb6c), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e71736beb8343504), [Tourcenet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5082f7eb1007a6ad), [Forchetaix](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3bf1ce68e75a38e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=91f716a208d10d77), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45c3aea37347d8f0), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15b0025cd0ad374), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ff76c977c9d0f939), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10904e2d9109c37e), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a3ec959df58950eb)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [foul taint](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8d4b7413bd45e7bf), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f6b01b7749ccddb)
   </details>
@@ -115,7 +115,7 @@ title: Адепты Магии — Профессии
     </summary>
     NPC: [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15b0025cd0ad374), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f66870909bbf3de9), [wounded knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e15d348c7ade6653), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8855cad881fff18d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc9ccf681b8a37f6), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=47a8608c8e1fb13)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [foul taint](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=79aefc05e45de938), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8a229377f98e24de)
   </details>
@@ -126,7 +126,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=47a8608c8e1fb13), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf27ab5fa26ad4c), [Eschiva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a642e3954237ae6), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7c027fc85d3eb923)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Предметы: [Tainted Flesh](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=68db6af81e8a752) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=68db6af81e8a752))
     <br>
@@ -169,7 +169,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=813cff6e5ff2db18), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cff22773fc163d5c), [strange child](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8178b22ce2dbbc35), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=964f4fca3cfa0df3), [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e744b16d9cbfc), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf1f06b68522d89d)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b16aacbc5abc0b50), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ad9542c39c196420)
   </details>
@@ -189,7 +189,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=813cff6e5ff2db18), [Gatty](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fe1c4131d8e78d39), [Sanche](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b13ef1a9ab9beab), [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4c48d9b23a7d5bca), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be62c13700f4ce8b), [Gatty](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16d71278dbbd3e34), [Sanche](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ce053104fba0719), [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d87d596496c7e232), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f86f524ab434474), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=160c447fb66a457f)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5ab23e6747d91b5d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=19ba5af7f66e9637)
   </details>
@@ -200,7 +200,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=160c447fb66a457f), [Gatty](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce6554be4b7a5908), [Sanche](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=37f0195371146a24), [independent sutler](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2d9db200ba927ca4), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f86f524ab434474), [Sanche](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=14024eb521c01f01), [Gatty](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=593f59c351e9029), [Gatty](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=57a14cb2b206abe3), [Sylphie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1b2a46abbf6b78b), [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ffa2d5b2cc558a38)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Предметы: [Herbal Remedy](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d7384a2396975db3) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d7384a2396975db3))
     <br>
@@ -230,7 +230,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Яякэ](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de48f00e6fd469c8), [Лалай](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0f413b012b692f0)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [Voidsent Blood](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7edf88e2d3a5975d) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7edf88e2d3a5975d)), [Gem of Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7dbd06cfa307b4a7) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7dbd06cfa307b4a7))
     <br>
@@ -243,7 +243,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Лалай](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0f413b012b692f0)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [Voidsent Blood](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8e326ca5608a13b3) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8e326ca5608a13b3))
     <br>
@@ -256,7 +256,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Лалай](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0f413b012b692f0), [Kazagg Chah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30e7bd0e2eb028ea), [Dozol Meloc](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e97246e9fbfa13a), [Kazagg Chah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2ec08072ad627e), [269th Order Mendicant Da Za](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3f2194ddbba76018)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Предметы: [Voidsent Blood](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=db371e7f695e252a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=db371e7f695e252a)), [Voidsent Blood](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5f706b3b86cbdc0e) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5f706b3b86cbdc0e))
     <br>
@@ -278,7 +278,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Kazagg Chah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30e7bd0e2eb028ea), [269th Order Mendicant Da Za](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=daa32610cc4ab872), [Dozol Meloc](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=74bd761d73912fca)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Предметы: [Kazagg Chah's Blood](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=4670188a7bbc2c3) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=4670188a7bbc2c3)), [Dozol Meloc's Blood](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e88c5dd8a08ef300) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e88c5dd8a08ef300)), [Da Za's Blood](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=373adc0d52a83a25) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=373adc0d52a83a25)), [Spoken Blood](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=63f28cc54093a351) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=63f28cc54093a351))
     <br>
@@ -319,7 +319,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Лалай](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0f413b012b692f0), [269th Order Mendicant Da Za](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2cdce9b48217ab88), [269th Order Mendicant Da Za](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbe68cdcffc9a21d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3641986525dc1de8), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=832c5e850d5e76a0), [Zhai'a Nelhah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=72a2570f86f510c4)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7e67a36406b9bf43), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ec196ec12a93f86a)
   </details>
@@ -330,7 +330,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Лалай](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0f413b012b692f0), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b0f9b099c16927e3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ebbcff6b329750c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4447063b7b5570a2), [Dozol Meloc](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=986df74b4ccecab6)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=692a9e1a0de56c73)
   </details>
@@ -371,7 +371,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Лалай](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0f413b012b692f0), [Alphene](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=98205fc525835d40), [Zhai'a Nelhah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8fd075dd6fae60b9), [Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc73f5374bd12b04), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3ed47ee0c9e6b65a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=886d79d886c29093), [Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=851715889de00327), [Zhai'a Nelhah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18c23ea48d519b41), [Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f503cf2706973a63), [Zhai'a Nelhah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba3024347065268d)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [suspicious stone](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3d60324bdf7785ee), [suspicious stone](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=508ca4eae75249cb), [suspicious stone](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=9b4949173e13faae)
   </details>
@@ -382,7 +382,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Лалай](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0f413b012b692f0), [269th Order Mendicant Da Za](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=48e06404cc4bdfcd), [Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a8874452629da785), [Zhai'a Nelhah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e678e7f64a79673c), [Zhai'a Nelhah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd5e8f606982a26b), [Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bc5de486c950761a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b9e9305e6036357), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a3247777a46279d6), [Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=597805f51209c425)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=57591903fc29f6d3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1c7fcdd3c7568b9)
   </details>
@@ -393,7 +393,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Лалай](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0f413b012b692f0), [Лалай](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7c77a2ad801798fb), [Kazagg Chah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30e7bd0e2eb028ea), [Dozol Meloc](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fe21d750c4b71e4), [269th Order Mendicant Da Za](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5361e4329032b990), [Zhai'a Nelhah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=baa261b5f778a818), [Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ebe2ffdc5845162c), [Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e4a7d242452725), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db3af0016ffd7f9b), [Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=253aff68c5ee1e5b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a89750d1ee69709c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c2bdd6be12fe7721), [Dozol Meloc](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=90e1d8f26988f58e), [269th Order Mendicant Da Za](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3bfb790f21a0e68b), [Shatotto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10c4ff4db1f10829), [Zhai'a Nelhah](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=80b3af884412a495)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f3e4c5f10c6ef1f4)
   </details>
@@ -444,7 +444,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2fe8752316a27f0), [former Immortal Flame](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55b1316e727229ee)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
   </details>
 * Ур. 45 --- Allagan Attire --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a52ec93324913c0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobsmn450_01094/)
   <details>
@@ -453,7 +453,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2fe8752316a27f0), [Rammbroes](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e), [muddled researcher](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e6613fd90ea9233), [unmanned researcher](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=77c4a6e708055162), [seemingly unmoved researcher](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4a8438adc891846)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
   </details>
 * Ур. 45 --- Austerities of Wind --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e0b52d245d32805b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-010-jobsmn451_01095/)
   <details>
@@ -490,7 +490,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2fe8752316a27f0), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de3b7f0a7774819f), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=770b1d6e9030c217), [Tutusi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d42e6386fbf7f3a6), [Адельстан](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d727364d6955ae05), [Эрмигарда](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e3e95d8b5e748970), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fbc69f9371f2038), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c9a256c8cdd8520b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3b276591506888fb), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf154f1de058adb8), [assaulted importer](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=74cf677814b0208b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=827b26f0e6a53b5a), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a97c712e2a488ad9), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db1bea1ccaf5edd8)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7dc762068fa2701d)
   </details>
@@ -501,7 +501,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a97c712e2a488ad9), [assaulted miner](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd75d6aa5c8be01e), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=42c8323f7579fae1), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2fe8752316a27f0), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a9845579745388f6), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db1bea1ccaf5edd8)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Предметы: [Fire Silver](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=646d423e8889fe32) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=646d423e8889fe32))
     <br>
@@ -514,7 +514,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a97c712e2a488ad9), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8c117fc04af9220), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fecbb578bde99d8), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2fe8752316a27f0), [courier decoy](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cb5a4d9d046574b1), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5d9803715cbb118), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=848094c1ab4bb624), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97f148208e41615a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3fb0479dfae20308), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=52d54539855884b3), [Образ Ифрита](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ac6d75015e8a04e1), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db1bea1ccaf5edd8)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d4d2dbf11519a912), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6844c54cd146ce45), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=65b49e7b0d0e04d2)
   </details>
@@ -546,7 +546,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2fe8752316a27f0), [Rammbroes](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f53781452bc80d2e), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f22a2f294d13e617), [Principia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5fd20733357c896e), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=452d1805ed39fa4f), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10611b1e8775dc3f), [Principia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=81b7391e8a53a2e7)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Allagan Tome](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6374b124c63e47fc) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6374b124c63e47fc))
     <br>
@@ -559,7 +559,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2fe8752316a27f0), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10611b1e8775dc3f), [Principia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=81b7391e8a53a2e7), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=341154d521500b93), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=561705a40e7ebd3), [Crispin](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=27845f4da90dec78), [Denise](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96e0f5f3c09e590c), [Jajasamu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de5e83bfa498d452), [Principia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8ec48616fa501fd1), [Crispin](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab912cb85ae80e30), [Denise](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cdbfba28139b1b0e), [Jajasamu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8ae8ed740e8dca07), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c6d7e1e3f2b31ae9), [Principia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=35ff90a36ad294eb), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2e7df53c645e8444)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3c8797b718cff71), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=30e8771a626e86a2)
   </details>
@@ -590,7 +590,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2fe8752316a27f0), [Principia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=81b7391e8a53a2e7), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=434e17f7a1c9dbcb), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb1614f9599a3ca2), [Crispin](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd13e00d7cc083cc), [Denise](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f2c4ec8d81e84396), [Jajasamu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=43db42b03a41fd04), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59d057924cac8dc4), [Y'mhitra](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=adf1f67f9fde5b01), [Crispin](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ad0d7e0de27d3de), [Denise](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f84ce82f8d45328f), [Jajasamu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2fedbb3456a76b62), [Principia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=76ec86540c0ba91b), [Dancing Wolf](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10611b1e8775dc3f)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c6d381712d8a5bd6), [facility terminal](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=64eadddd8b5a2575), [facility terminal](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=efdff6a56ec0a01f), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=36ff4fc7144a00f7), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f47e1697c392a9d5)
   </details>
@@ -645,7 +645,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c39266289fbead63), [Redolent Rose](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=62c6af16368f4ed2), [Serendipity](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d70d857ad38fef69), [Geva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b444e04fabe34fd0), [Beli](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1e528a98e38997c)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [Well-learned and Well-dressed](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=97ed9e46c34b1067) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=97ed9e46c34b1067)), [Direwort Leaves](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=80c434810adeb76e) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=80c434810adeb76e)), [Incomplete Scholar's Garb](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=24db93ea5e2bcae0) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=24db93ea5e2bcae0))
     <br>
@@ -658,7 +658,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c39266289fbead63), [Rukusa Farusa](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ecdff89a198fb9ec), [wine-soaked invalid](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a380417e8b86f585), [short-breathed invalid](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6367390e2b2d74b), [dark-spirited invalid](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=735c91ea7989a7e4), [heavy-eyed invalid](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ee8c29bf36f288b), [wan-faced invalid](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4918e1013c0c376)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
   </details>
 * Ур. 50 --- The Beast Within --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=137ee9672f19cf2d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-jobsch500_01102/)
   <details>
@@ -679,7 +679,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c39266289fbead63), [Surito Carito](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0cafae296d88b), [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b692ad5805d42a52)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Outer Keystone](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=54915fe100c69fb2) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=54915fe100c69fb2))
     <br>
@@ -703,7 +703,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Surito Carito](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0cafae296d88b), [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5fc09343992d6b6)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия)
     <br>
     Предметы: [Empty Amphora](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=514980f02dd1b920) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=514980f02dd1b920))
     <br>
@@ -716,7 +716,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Surito Carito](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0cafae296d88b), [Halga Tolga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=358a8d2a30798b64), [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0bb5bae13c7fe8d), [Mamool Ja mercenary leader](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c57fb7a8501764e9)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
   </details>
 * Ур. 58 --- Unseen --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a2958a3fca1ed3c4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-016-jobsch580_01675/)
   <details>
@@ -725,7 +725,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Surito Carito](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0cafae296d88b), [Яякэ](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de48f00e6fd469c8), [Halga Tolga](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b48e2af42aa4b4c), [soft marauder](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d1c0e687361016d), [hardened marauder](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ed8435281f95493), [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99afbdaa2c3588ff), [Redwald](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4a0e2b6839fc4d95), [Soubinie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba456b474e0a4ee9)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Void Scholar's Effects](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=4bebbc29bbb4f03b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=4bebbc29bbb4f03b))
     <br>
@@ -757,7 +757,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Surito Carito](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0cafae296d88b), [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c39266289fbead63), [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=597d8168df47b0ff), [Setoto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8a1921f99fe2e09), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a9aec70ccdbf66eb), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc64860444f194c9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7acd2c7bede71a98), [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7683934a945e077b), [Setoto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c39c6af1196ecb75)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c3c3217d5bb0fe91), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=943f77699962b610), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d952fbef0d5061d4), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4da43128b3caf1a0)
   </details>
@@ -777,7 +777,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7683934a945e077b), [Landenel](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=137350e6f09c49fe), [Surito Carito](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0cafae296d88b)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5dcd1edf990e750a), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ef6b0681848506fa), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=783adc09942032a)
   </details>
@@ -800,7 +800,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c39266289fbead63), [Surito Carito](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0cafae296d88b), [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4b21fb333142206), [Setoto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a592806361dbeb5f), [Setoto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dba9f7f6efb61ae5), [Alka Zolka](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=37bc74905612b95b), [Setoto](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=afd40bc5a7e4444a)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Revival Root](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=71af1121fccebfd4) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=71af1121fccebfd4))
     <br>
@@ -900,7 +900,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Жаннкинар](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a87fb576cb2c504), [Жаннкинар](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3bb3d0b2841eb1e4), [Leveva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd5c3e459d7a14fc), [Quimperain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9cd696a6bff99971), [Falcon's Nest elder](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f7506193909fc62f), [wounded knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f02c625423fd05), [slow-footed knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=48f425f13d23c363), [wounded knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6cf2ae9a94b1b16d), [wounded knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=620d022bbcf9f32d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d7c2614b6962ce78), [Leveva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0b553e049e7c7f9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e2ec963299fed01a)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fbdedefd16f090d5)
   </details>
@@ -927,7 +927,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Жаннкинар](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a87fb576cb2c504), [knight captain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4a8e8c1c7e4a2c2), [Quimperain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16a8e4f6308e9f53), [Жаннкинар](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf7640c437c8b812), [Leveva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c2f90f5dc3320cc), [House Durendaire knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6724c37140626f40), [wounded knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6782d364d1c5bacc), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=40c0f85ce9544faf), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d4999a2a9249e8dd), [wounded knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=41daea8921f61b79), [wounded knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a71a1080d7a72720), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b8a72469b6052eca), [Leveva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8b3c4c2a4680f1c0), [Жаннкинар](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32201cd4f1491a12), [Жаннкинар](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=afdaa021c50af1d1), [Leveva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1af7d187c5e00a0), [Leveva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f4a07e81d8a06b7), [House Durendaire knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8e6e6c89ac9a2c5a)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [overwhelmed companions](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=16328ef5cdca7a28), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=28c81bf35323fc87), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f8d8fde5129c00d)
   </details>
@@ -957,7 +957,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Leveva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13b9361ecbcfc96a), [Жаннкинар](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a87fb576cb2c504), [Kyokuho](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=568bd5943474eb9f), [Leveva](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=685470a6824e0045), [Kyokuho](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be375a39134c3750)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=517a1eb6fd6901c7)
   </details>
@@ -977,7 +977,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Kyokuho](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bc408a04f0523bc7), [Murakumo](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=70916ad47dabf6ff), [Kyokuho](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab0b1ebc282f3a1e), [Kyokuho](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4eaf59739912314f), [Kyokuho](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba2f50b97491c140), [Murakumo](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=81efdab967f8155e)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
   </details>
 * Ур. 70 --- Foxfire --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cab428cb0ef5648c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-024-jobast700_02413/)
   <details>
@@ -1026,7 +1026,7 @@ title: Адепты Магии — Профессии
 
     NPC: [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e1b50959751b6a4), [Iliud](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e2342b2cbb7bee7), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de0d1dfd6ada1c04), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39b315671f1d412d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8610fe4161e333ce), [Wilkin](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30b80a7d59e12ebc), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3add946bcc4388ac), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96795d7f2e023182), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1bef4802dc53a9), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c34df06fd074f25c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1603ed7fc3eb3d9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=daed1d1e7aa17cd0), [Wilkin](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=579ee9d2cfd58bb5), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b6c1356a1c6e8e63)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Предметы: [Wilkin's Gift](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=161b912b7fe3892b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=161b912b7fe3892b))
     <br>
@@ -1039,7 +1039,7 @@ title: Адепты Магии — Профессии
 
     NPC: [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b6c1356a1c6e8e63), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=24bd376099da2fbc), [modest merchant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=76e59ee2e02029f6), [dallying deckhand](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58d3b8846177d5e5), [nervous navigator](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3a248397bd609647), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3790424c379dfee), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=865914ee066b167), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d637492b2765ce4), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f3080cfd7b17fd77), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=101cc6cf98d12fd7), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4214896fc2f295e5)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Предметы: [Bulky Key](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e2c8e5e3ce3e4a85) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e2c8e5e3ce3e4a85))
     <br>
@@ -1061,7 +1061,7 @@ title: Адепты Магии — Профессии
 
     NPC: [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7163d2cd3c99b0c9), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7b98261bb4c0883c), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7809dbdfb04270a3), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e8fc5b1110ac6168), [Риол](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b3cff01d97f3428a), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9b15b49198fb63d4), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85d4a64601eeb9c), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4fa1ad92eec10dcf), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ffe93beac4c37edb), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1a6eb5ea91e1a1a), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10d3619915c227f4)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=df95ebaa4cad268)
   </details>
@@ -1072,7 +1072,7 @@ title: Адепты Магии — Профессии
 
     NPC: [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1a6eb5ea91e1a1a), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10d3619915c227f4), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65fdb21aed4b7f10), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=105c621b36692858), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20b9f4691ad8f70f), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4818a9aad2eeb520), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e1933b819c191a), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bae362a0a9902ca6), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20d5390055d4412b), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=574e15eb2d9095a9), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2558d6aa42c7aeb0), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d69a8dbd3a0c413c)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1efbafff54208c8b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c75ba6379d952b6e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8dd25ab3227ce782), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a5e32bf5b18bf289), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1652a0d46c3e3b85), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=973a7693c01a1d6a)
   </details>
@@ -1086,7 +1086,7 @@ title: Адепты Магии — Профессии
 
     NPC: [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2558d6aa42c7aeb0), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5254d6a6a94cac94), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a86a6e8144fdcaa), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=325bedabdd246c2c), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a12f27aeff59fa4), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9cb363efa3332ca9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5315e5b7c70a41ec), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f9fbaa6772d9d46), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa488be867cdbd64)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ff6d25297d3484d2)
   </details>
@@ -1097,7 +1097,7 @@ title: Адепты Магии — Профессии
 
     NPC: [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa488be867cdbd64), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f9fbaa6772d9d46), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab9c7cfe4f34b19e), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=207cc3585bc15b62), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5fd20f5bccc9e1f)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Charred Tablet](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=719af1fb918a7003) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=719af1fb918a7003)), [Chipped Tablet](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2a0fe553a9a39295) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2a0fe553a9a39295)), [Cracked Tablet](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=dec07d9a037bd1eb) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=dec07d9a037bd1eb)), [Massive Urolith Core](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f86aa094778684cf) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f86aa094778684cf))
     <br>
@@ -1121,7 +1121,7 @@ title: Адепты Магии — Профессии
 
     NPC: [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa488be867cdbd64), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0fbab8769ca1b0e), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fde362e2d9019a60), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af5e4bd081c55c2e), [sour-faced priest](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b14e1cfa2d9e09a), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=22f055b7e160de03), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dfb0036b750de384), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1644bffc0014de35), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f4522db3fb15d742), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ad46342e76f4041), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c04b74d9d1dfeb7), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b686545309e8423), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b76ecfddf9f78fa)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a18734c910c1a5a2), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=736daf8004d61b25), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=487d0608f47965fa), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=100462270ec65e6a), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=198096b1ac919e79)
   </details>
@@ -1144,7 +1144,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cf936cd03b161ebd), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=207bb0f729162841), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32c505e612de38cc), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=51879d47ef84b8c0), [graverobber](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9ef4299b67c95c08), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f7341927062293c1), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a6de923fd7d77030), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3bb4574e7f848214), [graverobber](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cbbeae4defbdbea9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de45a9e996323ce4), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=67de778f3efd47f9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cc284d5af23dd88e), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8ca7c4d6c6dc95e0), [X'rhun Tia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85a320ac98c4b99d), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4919706d0e13457e), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=39c3340af31beeb2), [Arya](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9569e765f8e1b0dd)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5c8830c65ae066bb)
   </details>
@@ -1176,7 +1176,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Lalah Jinjahl](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ec62a5f4f34e724), [Lalah Jinjahl](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7c8061f8669e7275), [Lalah Jinjahl](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=942a1e0848beb1ba), [tattooed apothecary](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3777e781392b48ed), [Lalah Jinjahl](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6956901b6415d5a0), [Faldrinet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8f6e27ff91921fb), [tattooed apothecary](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b716d184fcf72aaa), [Loifa](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1e9f115db326e44), [Mahaud](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a383ec4e5c863964), [Ancel](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb66e35876bb7d78), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae3bf926c8384825), [Faldrinet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9679fa40c2a48af9), [Lalah Jinjahl](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fbb81adad6c5d7ef), [Faldrinet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55937a02a7a0d198), [tattooed apothecary](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e7d8956e4842802)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5df4831493b592b5)
   </details>
@@ -1194,7 +1194,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Lalah Jinjahl](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ec62a5f4f34e724), [Loifa](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dd0b737b5b1b8bd3), [Midnight Dew](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=154489f7be63be52), [Loifa](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4df10a35167eb03), [wounded treasure hunter](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8efb1cf8e7fd6d0b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d28530aeefdc5fc), [Loifa](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ea65804f36f447fc), [wounded treasure hunter](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9de7f20b94c27ac), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bbc43136aac9413e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc515b1556e7abe2)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ece085e2a879934b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ab3b0f4c0fc7dc03)
   </details>
@@ -1233,7 +1233,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18833565855f4e73), [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=573b8782b377e425), [Сентиментальный Латул Джа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e13228aa2aff6b3), [local trader](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9aaa7ac74cddaf4e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d06370c5b0656ea9)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7455821866783632)
   </details>
@@ -1244,7 +1244,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18833565855f4e73), [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2d4f2788b3edaac), [Сентиментальный Латул Джа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e13228aa2aff6b3), [heartless moneylender](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8b85204179b29a91), [ruthless moneylender](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f3ff7df48f124a27), [burly thug](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cdeef60c2da39b81)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d87ff2adeaf2cb44)
   </details>
@@ -1255,7 +1255,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18833565855f4e73), [Royse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5182c6f5ed94123d), [Сентиментальный Латул Джа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e13228aa2aff6b3), [Royse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0331df8e3400353), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5b8c4c89786abae5), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3defada0f1a18536), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32741ae41f56c118), [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f2b5eccfad6f134)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5e19d03be8c6fda5)
   </details>
@@ -1266,7 +1266,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Сентиментальный Латул Джа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e13228aa2aff6b3), [Вастрах](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3c68d09a63b4c6f6), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e8a86d56530d2f5), [Вастрах](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f0bba0898b885e90)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
   </details>
 * Ур. 50 --- The Real Folk Blues --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=89a627642942b784) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-031-jobaoz500_03198/)
   <details>
@@ -1299,7 +1299,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18833565855f4e73), [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2bc9678cd2e08652), [Nutiba Buntiba](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=63ef5e669ddbff53), [Пи'янди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6496050605822c50), [Сентиментальный Латул Джа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e13228aa2aff6b3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=166884347699ac42)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
   </details>
 * Ур. 55 --- Bolt from the Blue --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bf619ce5d400ecb8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-037-jobaoz550_03734/)
   <details>
@@ -1315,7 +1315,7 @@ title: Адепты Магии — Профессии
 
     NPC: [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18833565855f4e73), [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6228a2ab2f3f739a), [Сентиментальный Латул Джа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e13228aa2aff6b3), [Мартин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4c24a8d80b6477e3), [Nutiba Buntiba](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2830a34242f5e41c), [Пи'янди](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c335d46c5274561c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c70a28267311d27f), [Royse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=973e083698b803ad), [Fyrgeiss](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ca0965ba0f5af6f), [Zirnberk](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=69e1081b3ad88ccf), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3d39b9be8de7e241)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ba021f3e8e6ae720)
   </details>

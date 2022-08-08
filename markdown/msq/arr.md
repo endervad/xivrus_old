@@ -20,7 +20,7 @@ title: Основной сюжет — A Realm Reborn
 
       NPC: [Бертеннант](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16f4d49dd9e7808f), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63)
       <br>
-      Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c5b1d51b1fdcc1dd), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=18ada224979620c2), [(без названия)]()
+      Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c5b1d51b1fdcc1dd), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=18ada224979620c2), (без названия)
     </details>
 * Close to Home:
   * Копейщик --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=209ce5a401a270d8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-manfst002_00085/)
@@ -28,7 +28,7 @@ title: Основной сюжет — A Realm Reborn
       <summary>NPC, предметы и т.д.
       </summary>
 
-      NPC: [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63), [(без названия)](), [Джиллиан](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f6cd848b963f0d1), [Парсмонтре](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Нисия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=438303d7943a405e)
+      NPC: [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63), (без названия), [Джиллиан](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f6cd848b963f0d1), [Парсмонтре](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Нисия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=438303d7943a405e)
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c4de3eb2e00736d2) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c4de3eb2e00736d2))
     </details>
@@ -38,7 +38,7 @@ title: Основной сюжет — A Realm Reborn
       <summary>NPC, предметы и т.д.
       </summary>
       
-      NPC: [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63), [(без названия)](), [Афелина](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e9b35421c684823e), [Парсмонтре](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Нисия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=438303d7943a405e)
+      NPC: [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63), (без названия), [Афелина](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e9b35421c684823e), [Парсмонтре](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Нисия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=438303d7943a405e)
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f0527ccaab28019b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f0527ccaab28019b))
     </details>
@@ -48,7 +48,7 @@ title: Основной сюжет — A Realm Reborn
       <summary>NPC, предметы и т.д.
       </summary>
       
-      NPC: [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63), [(без названия)](), [Маделль](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5d447a058068a29), [Парсмонтре](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Нисия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=438303d7943a405e)
+      NPC: [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa91f1d393841f63), (без названия), [Маделль](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5d447a058068a29), [Парсмонтре](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1a101f02ab56740), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Нисия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=438303d7943a405e)
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=530ef6f448a231fa) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=530ef6f448a231fa))
     </details>
@@ -127,7 +127,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Галфрид](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30f62ef07e2fd850), [Алестан](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5634e5e797fbff79), [Тревожная Лесная Тень](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f0228a143b3f425c), [Травмированная Лесная Тень](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d28e977a6368ad16), [Напуганная Лесная Тень](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d7674f5be8a9af04), [Невозмутимый элементалист](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a9c3e548a1532de8), [Сбитый с толку элементалист](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7d9c3b58350f71f0), [Раненый Слышащий](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=75f83610627bef67), [Матушка Миунна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e4b34818d9a1f53b), [Антуано](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=28f38a256617437), [Гонтре](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79d454277e4a5a97)
     <br>
-    Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=78c2bd5aa571ac8b), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=78c2bd5aa571ac8b), (без названия), (без названия), (без названия), (без названия), (без названия)
   </details>
 * On to Bentbranch --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b24710f73d139dc3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-subfst027_00176/)
   <details>
@@ -181,7 +181,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Юлгар](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=52de4056bb4354ee), [Лофар](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b97dda58b04aad71)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [Яйцо стервятника](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c088bfa925c0dabc)
   </details>
@@ -199,7 +199,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Армеллия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d10f8f79e765d2fb), [Кейха](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1a707cb2586792c)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Ящик с грузом](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2030cab8e648d069) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2030cab8e648d069))
     <br>
@@ -357,7 +357,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Стаельвирн](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7244cd9d3dfbe131), [Севрин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7046ee4fd4548b97), [Олмер](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4cd74240c41ae1e), [Эримхус](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=89d838482f961267), [Содзай Рардзай](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9ca5a42ef11f539a), [Оссин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=319b744befb6c8ee)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Предметы: [Мешок с апельсинами](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9d8c19bffbd4e30a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9d8c19bffbd4e30a)), [Мешочек гилов](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=df1fbcea164e5f65) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=df1fbcea164e5f65))
     <br>
@@ -408,7 +408,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Вилкрит](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1c8a5c802f65f1b3), [Ллульф](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=29398ce35cb6b385)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Предметы: [Миллионный кукурузник](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=87802f4060fc5ecc) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=87802f4060fc5ecc))
     <br>
@@ -421,7 +421,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Фролоф](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f92893e885cd330), [Кансвис](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b4ac62bb4607297), [Х'наанза](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c417a864b24b547b)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Железная жаровня](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6ad25fdf3856e540) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6ad25fdf3856e540)), [Палец светоча](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e5a81d4fd1298de4) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e5a81d4fd1298de4))
     <br>
@@ -450,7 +450,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Халброда](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c1680cf4ad81dadf), [Ферилсмид](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b704e5155ef6a052), [Агбирм](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e02c24821fb36f2)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [Сложенная парусина](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cb22b8d46484abbc) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=cb22b8d46484abbc)), [Латунный штурвал](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=22bec1b3a67a2c60) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=22bec1b3a67a2c60)), [Узел запутанного такелажа](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=26f9a4c435b4ba4f) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=26f9a4c435b4ba4f))
     <br>
@@ -623,7 +623,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Варин](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=919c6f10caae2f27)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [Silver Ore Cluster](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e77b8f058d2fb2b4) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e77b8f058d2fb2b4))
     <br>
@@ -663,7 +663,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Пьяный Олень](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86e35beeb8a48b06)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [Необработанный нашахит](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=67f8004da9e6ef6c) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=67f8004da9e6ef6c))
     <br>
@@ -694,7 +694,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Леофрик](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=67b96a714510d7e7)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=98366da2b406a007)
   </details>
@@ -845,7 +845,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Айзембард](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3ccc81c5daf8b712), [Гниющий труп](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=88725338ee3733e9), [Гниющий труп](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1a131e061a2684ef), [Гниющий труп](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=78a8ff52e4e60227)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Предметы: [Гниющий труп](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2a603a19634d8dbf) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2a603a19634d8dbf))
     <br>
@@ -878,7 +878,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Айзембард](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3ccc81c5daf8b712), [Непричёсанная сирота](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d424ef8e7ed0a98), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc94cb0703b8e6), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3a38ea5b75e022e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f916b7b1bd116d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a07c61d9599607c8), [Орсен](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=82eee2c770608bd0)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4460394e8c2685be)
   </details>
@@ -1075,7 +1075,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Комуксио](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31d9c1f50d5c5556), [Пеликсия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d43de91b3f60d979), [Нахаксио](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10788477e3019245), [Моне](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5aaaef0e6fa20375), [Виктор](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f82f5e3ca61efb3)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия)
     <br>
     Предметы: [Записи интенданта](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=71b587a353fe7628) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=71b587a353fe7628))
     <br>
@@ -1142,7 +1142,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Баскаррон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3722426041a0ce79)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=48c112e753aa45c9), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f327a02175b1a19c), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7d965c909bfcbb19), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=480761a0c2f0ab1a), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8e236c7413920971)
   </details>
@@ -1153,7 +1153,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Баскаррон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3722426041a0ce79), [Лаурентис](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=44d3b049bd5fffd), [Лаурентис](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3158c1e99d9a5c7b), [Лаурентис](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2653e35063d6165e)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c9825621a4f24b95), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bfab81f66b40bebf)
   </details>
@@ -1178,7 +1178,7 @@ title: Основной сюжет — A Realm Reborn
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Комуксио](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31d9c1f50d5c5556), [(без названия)](), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=50e1260aaf1b34cd), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f6c83bec8da0c4), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=19a5f014a19b73d1), [Ворсель Хелокс](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68)
+    NPC: [Комуксио](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=31d9c1f50d5c5556), (без названия), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=50e1260aaf1b34cd), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9f6c83bec8da0c4), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=19a5f014a19b73d1), [Ворсель Хелокс](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb796c9f86e22d68)
     <br>
     Предметы: [Letter from the Elder](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5c5b9c6106f1a9cd) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5c5b9c6106f1a9cd))
     <br>
@@ -1215,7 +1215,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Hihibaru](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9ab3286031c7dae3)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Smoldering Coal](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c27e05ddca956753) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c27e05ddca956753)), [Ward of the Destroyer](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c73e0e6393080ff0) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c73e0e6393080ff0))
     <br>
@@ -1276,7 +1276,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Meffrid](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dbdb3f9e964a0636), [Albreda](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f03ef27b7878941), [Gallien](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=980d9974e8f8f2f8)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
   </details>
 * Come Highly Recommended --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=556e5c785361d7b2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa703_00776/)
   <details>
@@ -1301,7 +1301,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Хремфинг](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8d2fc4f379fc4aca), [Вилред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4cf79c57207a707), [Gundobald](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2755b9c937677270)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
   </details>
 * Big Trouble in Little Ala Mhigo --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d109e8a31fe63999) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-007-gaiusa709_00782/)
   <details>
@@ -1355,7 +1355,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Аваро](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5d111eba330d18)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4af3c3c69be181d3)
   </details>
@@ -1366,7 +1366,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Медрод](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10d659a09b05c67e), [mangled corpse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f521c45f32ad94e7), [Ахельмайер](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e8dc9e5cb076868)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Изуродованное тело](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=50b9fe9a400411a6) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=50b9fe9a400411a6))
     <br>
@@ -1407,7 +1407,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Trachtoum](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=972741015f3cef6d)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [rats' nest](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=92e57cabcf69f9dc)
   </details>
@@ -1418,7 +1418,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Trachtoum](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=972741015f3cef6d)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fc235e1c418ab186), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=59ad8da46e2d5ed6), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=46c4bbb1397107fb), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dad5f62908fc1c56), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=d76feedebf4af1a8), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f4dc0de4064da8b1)
   </details>
@@ -1438,7 +1438,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Wheiskaet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2c0f6905376bb934)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Fattened Herring](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=96295ae4f1fc51c2) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=96295ae4f1fc51c2)), [Nix Leg](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=27134edb71322d89) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=27134edb71322d89))
     <br>
@@ -1458,7 +1458,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Landenel](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=137350e6f09c49fe), [U'odh Nunh](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15c289b82af64001)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Giant Adamantoise Egg](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=984e811a50c2ac68) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=984e811a50c2ac68))
     <br>
@@ -1471,7 +1471,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [U'odh Nunh](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15c289b82af64001)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Bloody Guisarme](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5a080d08b7fc3374) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5a080d08b7fc3374)), [Crude Necklace](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=4a7c98ed0f181135) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=4a7c98ed0f181135))
     <br>
@@ -1484,7 +1484,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [U'odh Nunh](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=15c289b82af64001), [angler carcass](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=754125539e272272)
     <br>
-    Вражеские NPC: [Мшистый гоббуль](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=318fc5c40b136f3a), [(без названия)]()
+    Вражеские NPC: [Мшистый гоббуль](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=318fc5c40b136f3a), (без названия)
     <br>
     Предметы: [Rotting Angler](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f918268244e59e4e) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f918268244e59e4e)), [Wellwick Worm Meat](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7a1ed86e5e5afa7c) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7a1ed86e5e5afa7c))
     <br>
@@ -1567,7 +1567,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Shamani Lohmani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1062379c0245982), [Drest](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a8746e5599a0ac26), [Wheiskaet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2c0f6905376bb934)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Bacchus Grape Leaf](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=d2cce554de845181) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=d2cce554de845181)), [Bacchus Grape Vine](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=cee54af3f67ea929) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=cee54af3f67ea929)), [Bacchus Wine](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2761d689a344666) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2761d689a344666))
     <br>
@@ -1644,7 +1644,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Маркус](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e8fbdcf6b9c93eb), [Iliud](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e2342b2cbb7bee7)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [Imperial Shortsword](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e6ad3736b6990c83) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e6ad3736b6990c83))
     <br>
@@ -1671,7 +1671,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Ludovoix](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7b0339b1efb12d88), [keeled-over knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b9d0185cd7754337), [Edmelle](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5aa3189d6ca328b8), [Forlemort](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6de19b73d07d5c76)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a4aba4e4362767f2)
   </details>
@@ -1689,7 +1689,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Portelaine](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=148be97d7df99898)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [Stolen Wares](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2ccf3735ac83f4ee) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2ccf3735ac83f4ee)), [Stolen Wares](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ee12efd82f67efab) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ee12efd82f67efab)), [Stolen Wares](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c089cd83da34e4ee) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c089cd83da34e4ee))
     <br>
@@ -1718,7 +1718,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Оршефан](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0a16cdf0ef3d2e5), [Франсель](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1460c5e4052e50f), [unsettled knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=64cf58e2885da4b6), [unnerved knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4c224958f129cb70), [unfit knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2363e9440b650a2f)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
   </details>
 * Following the Evidence --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3d9347a1392e80e5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-009-gaiusb802_00911/)
   <details>
@@ -1765,7 +1765,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Haustefort](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e92fbc02a150affd), [Ombeline](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9988a8b230c7d8e2), [Theophilain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=43cae642e506b165), [Ignemortel](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7e22f90a8f65cf82), [Cenota](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab78cf400c8f5873)
     <br>
-    Вражеские NPC: [(без названия)](), [charmed captain](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=403d9e376f2bb603)
+    Вражеские NPC: (без названия), [charmed captain](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=403d9e376f2bb603)
     <br>
     Предметы: [Dark Cider Vinegar](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ecc040336b04af92) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ecc040336b04af92)), [Mudpuppy Tail Meat](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=25494074c3f25605) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=25494074c3f25605)), [Mudpuppy Steak](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=7404774745837d09) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=7404774745837d09)), [Mudpuppy Steak](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ad71c5d367107cc7) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ad71c5d367107cc7))
     <br>
@@ -1796,7 +1796,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2045ff93d626b774), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=79347d7b823fad10)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [Bloody Encyclical](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f4f4f859577e7557) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f4f4f859577e7557))
     <br>
@@ -1917,7 +1917,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Ceana](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=17b55eef1d6b8717), [Hedyn](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7635d784806d07dd)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Предметы: [True Heart](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c7f11260191c0784) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c7f11260191c0784)), [Corrupted Crystal](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c40a556043cae6a1) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c40a556043cae6a1))
     <br>
@@ -1981,7 +1981,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Ведж](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dce9fbfdd129df99), [Abelie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36ec4e2ec7100827)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=20e755d188a84f48)
   </details>
@@ -2008,7 +2008,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Glaumunt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=928f9b580437d0d1), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6745a68bde8f7e3e), [Сид](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb0ed47cc209d147)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [drainage pipe](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=7d8ff0c78329bfc1), [drainage pipe](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=abd3977b92795fd8)
   </details>
@@ -2019,7 +2019,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Сид](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=eb0ed47cc209d147)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия)
     <br>
     Предметы: [Electromagnetic Reader](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8c89267d0d51c0ef) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8c89267d0d51c0ef))
     <br>
@@ -2032,7 +2032,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Glaumunt](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=928f9b580437d0d1)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8bdecb643150c0e3), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e74050f51543db82)
   </details>
@@ -2115,14 +2115,14 @@ title: Основной сюжет — A Realm Reborn
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Edelstein](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0860b9110df6901), [Робанн](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73ebe62de582baeb), [(без названия)](), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=490a6db553eaa154), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e098cd998c7e1a0), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ba48c2e2d85a2cf), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=df13667cedd0a36), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fbb3ab9dc650e65), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b25b6b66455c92e7), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa4a0acb100fd76e)
+    NPC: [Edelstein](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0860b9110df6901), [Робанн](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73ebe62de582baeb), (без названия), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=490a6db553eaa154), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1e098cd998c7e1a0), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ba48c2e2d85a2cf), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=df13667cedd0a36), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fbb3ab9dc650e65), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b25b6b66455c92e7), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa4a0acb100fd76e)
   </details>
 * The Ultimate Weapon --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=90938c3f20cd88f9) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-045-xxcfst503_04522/) / [Кат-сцена 1](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) - 800780--800790 / [Кат-сцена 2](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) - 900800--900900 / [Кат-сцена 3](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) - 901060--901060 / [Кат-сцена 4](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst600_00525/) - 10--100450 / [Кат-сцена 5](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst600_00525/) - 500460--500550 / [Кат-сцена 6](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst600_00525/) - 600560--600610 / [Кат-сцена 7](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) - 300260--300260 / [Кат-сцена 8](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) - 600610--600710 / [Кат-сцена 9](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) - 600720--600720 / [Кат-сцена 10](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manfst503_00524/) - 700730--700770
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Робанн](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73ebe62de582baeb), [Сид](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85c72a16031c3f8), [Биггс](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c4a5adea99bfbee), [Ведж](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=132a8f49f0cea76d), [(без названия)](), [Лахабреа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=89ff9d699b412bc9), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce0a096015795b36)
+    NPC: [Робанн](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=73ebe62de582baeb), [Сид](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=85c72a16031c3f8), [Биггс](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c4a5adea99bfbee), [Ведж](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=132a8f49f0cea76d), (без названия), [Лахабреа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=89ff9d699b412bc9), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ce0a096015795b36)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6bdcc179fc3b1103), [passage to the Praetorium](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2e45295ca1b2708e)
   </details>
@@ -2143,7 +2143,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dab28c287c1135f), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ed5ee3a3e39395eb), [Gegeruju](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b016ac2a75ee3b2), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3dcaafdf3e8ff412), [Junghbhar](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=88cbac1e5f51c20a), [Byrglaent](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0a0daea05731114), [Shamani Lohmani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1062379c0245982), [Ф'ламинн](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b146ca9cc4972861), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a3fb343a87ca774), [Ф'ламинн](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de8d995eee3f7d87)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3f1887fbaccf2447)
   </details>
@@ -2184,7 +2184,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e744b16d9cbfc), [Купло Копп](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b7c2b5a8c723ada), [Купло Копп](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d74ad10d5ccf603a), [Kupli Kipp](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=674deb73267e6998), [Kupta Kapa](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=53722cf9027fe1ed), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a28e426c01ce80b6), [Купло Копп](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a50df709e511547e), [Купло Копп](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b5a564b1cb1b0bf), [Pukni Pakk](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a00f226c1712c435)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [barrier threshold](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=adc0338c197811a5), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=135ecf2e9c78ea0d), [barrier threshold](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a9efc26409533e3)
   </details>
@@ -2202,7 +2202,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dab28c287c1135f), [Урианже](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=94f5454c76aee0c3), [white-robed Ascian](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e39de3dd4addceae), [Татару](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=505a5a51556f79e8), [white-robed Ascian](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=36f2c08b3865b397)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e6a4f7a0488fe4e2), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=67f43fe9b3479bb4), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fb148ed6af30402c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=953174a87940b6a1)
   </details>
@@ -2234,7 +2234,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84cc72253be5c802), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e658535e44ddb79), [Фафалапа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2925df8b716c39a6), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0be4e8c0f7d2db0), [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=447c38ce9b8c114f)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ba7c8ea5708961e3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=df4bb8c9a394296)
   </details>
@@ -2268,7 +2268,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Hozan](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4a017ee29837ceb4), [Homei](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5e04a5e04d2a6f0b), [Hyuran coachman](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7d9efb89b2f7b4e4), [Hozan](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d46f06c4528e478), [Homei](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a98f5ef6d0f4da87), [Yozan](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5feff04b60cdcfdc), [Koharu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f9dfa7ae810e3f31), [Hyuran coachman](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=77550ede1238a0b6), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7389ce282dd54476), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e31855d56f3e3732), [Hozan](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20bca855692b980d), [Homei](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=583f6080964591f5), [Yozan](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8adf35937836096), [Koharu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9374cbc4f05a9fd2), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7ce978275f3e7ac), [Hyuran coachman](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9e6aa5d45ecd02e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4b0ec063f624a6ff), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=18ac5bf28eb5dda8), [Hozan](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7b524b5587c41a09), [Homei](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=76898cd48c657901), [Yozan](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd5f5c850a061f84), [Koharu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d35d89c689b48267), [Югири](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=76aed81f27ca09cb), [Kasasagi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d646f2e7141976d), [Kikyo](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a2481d7033d49418)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8ff20dd2b5bbef68), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cafe11b94963be1e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c548f52efbd1d61e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c6187b5432c15c9b)
   </details>
@@ -2293,7 +2293,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Falkbryda](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=69e55661fbf77da0), [storm private](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ea3d10b97ef9372e), [soldier's corpse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25aedac533bedd7c), [soldier's corpse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e47bbfa877d93e8)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
     Предметы: [Maelstrom Restorative](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b0837fcaddae799) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b0837fcaddae799)), [Soldier's Corpse](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=4043ca8fbedeadfd) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=4043ca8fbedeadfd))
     <br>
@@ -2306,7 +2306,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Falkbryda](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=69e55661fbf77da0), [storm sergeant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d073dc1d7585f4bd), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b03e19603a397a89), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2ac3acd1b1871bf9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21dd33a26937d859), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7db758792ba2b314), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0deb8c8150d4ba), [Мёлвиб](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=71e03fcf4e275d05)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b11093c61222a55), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fc7e477bcb6191aa), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5f05d974cd459f48), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=b91c218297af9965), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f76e5e993a5c6ed7)
   </details>
@@ -2322,7 +2322,7 @@ title: Основной сюжет — A Realm Reborn
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Eynzahr Slafyrsyn](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8847eaa8c97f169a), [Мёлвиб](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c317e9f27719dfa), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c153fb470325de45), [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ea55cc4e1ff5f03), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d727953a8c6eb3b7), [Югири](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=92c8918ef317e934), [(без названия)](), [Styrnlona](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee9d498398003107), [Мёлвиб](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c04723f6857605f), [Eynzahr Slafyrsyn](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=343ed66d5b3adbf4), [Зантаель](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=763ce81650693e96), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=407ecdc730904c76), [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a461d716a3a82d6), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=447471e0efbb0b8), [Югири](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=95934648fb1b8b22)
+    NPC: [Eynzahr Slafyrsyn](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8847eaa8c97f169a), [Мёлвиб](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c317e9f27719dfa), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c153fb470325de45), [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7ea55cc4e1ff5f03), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d727953a8c6eb3b7), [Югири](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=92c8918ef317e934), (без названия), [Styrnlona](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee9d498398003107), [Мёлвиб](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c04723f6857605f), [Eynzahr Slafyrsyn](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=343ed66d5b3adbf4), [Зантаель](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=763ce81650693e96), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=407ecdc730904c76), [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5a461d716a3a82d6), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=447471e0efbb0b8), [Югири](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=95934648fb1b8b22)
   </details>
 * When Yugiri Met the Fraternity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=410076dcb017d337) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-013-gaiuse218_01362/)
   <details>
@@ -2364,7 +2364,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [terrified refugee](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ff16a996fd4f9d60), [desperate refugee](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=589b016f880361ce), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3eb3f64226874867), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=239fe55d5c542b30), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5733f6059e501c3e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=258372cf4e3a1822)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
   </details>
 * Reap the Whirlwind --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6592dd307659e265) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-014-gaiuse304_01445/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause304_03884/) / [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/quest-014-gaiuse304_01445/) - 60--69
   <details>
@@ -2399,7 +2399,7 @@ title: Основной сюжет — A Realm Reborn
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [serpent lieutenant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e599103f2220b05f), [Maxio](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8eef3c094f54b94), [Maxio](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13ad49f1f546ed37), [Папалимо](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5f0293c7ad52141), [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f4f201da36de367), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9b83cd3edacda52a), [Ида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=421651bd37a8b19f), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1679c013f4a091b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=760ec3d6213dad05), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc03374bacf60810), [(без названия)]()
+    NPC: [serpent lieutenant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e599103f2220b05f), [Maxio](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8eef3c094f54b94), [Maxio](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13ad49f1f546ed37), [Папалимо](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5f0293c7ad52141), [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7f4f201da36de367), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9b83cd3edacda52a), [Ида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=421651bd37a8b19f), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b1679c013f4a091b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=760ec3d6213dad05), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=dc03374bacf60810), (без названия)
   </details>
 * What Little Gods Are Made Of --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=13533852794134eb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-014-gaiuse312_01453/) / [Кат-сцена 1](https://host6450.hnt.ru/projects/ffxiv-translation/cut_scene-023-voiceman_02300/) - A / [Кат-сцена 2](https://host6450.hnt.ru/projects/ffxiv-translation/cut_scene-023-voiceman_02300/) - B
   <details>
@@ -2438,7 +2438,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Оршефан](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0a16cdf0ef3d2e5), [Дриймон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9de063f5c8e871f0), [mistreated merchant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5502512ee3be51f), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2ac40061e878e28), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cba0558b598d38f0), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=653c3147ee56d7c4), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee3d452b3f86bca6), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d98aa44fb0d85fae), [Lancefer](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4e10e5b35e2b7163), [Ourdilic](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=87b6ba7fc31cb719), [House Durendaire knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=99c8d371c0ccc662), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b759b9edbcafdad7), [Slafborn](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0f0caf192d6ec66)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=36ab201876c8218a)
   </details>
@@ -2468,7 +2468,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Ilberd](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b20ec2bc480125a7), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f7272fb29fc4645e), [Алианна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6f6fff18435888ad), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=405cf3a43d5290e2), [4th Unit Brave](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=65dde1701ec3a482), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=17668f6312c4f622), [Ilberd](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f7c719e5a74f5e63), [Rhesh Polaali](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=49ca300ed88c4e44), [Алианна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=995d20a3796893c8), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5f3895faf6466f1), [4th Unit Brave](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=958ea1e975bdd69e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3c8e4200b3815a68), [Rhesh Polaali](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f4fb6b462babcf9a), [Алианна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f23ca475590b409)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=141bd0d18c4347fd), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=53d953a62e819291), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=25dea0db6a11c7c4), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8180b873bf8f8f8c)
   </details>
@@ -2511,7 +2511,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Дриймон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9de063f5c8e871f0), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=89247561bfbcc9f3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6cf0451bf56547d7), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=beb5c076ff2465c9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1efbef8dc69bffc9)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Предметы: [Brittle Parchment](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=ecf671352b01aff2) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=ecf671352b01aff2))
     <br>
@@ -2522,7 +2522,7 @@ title: Основной сюжет — A Realm Reborn
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Дриймон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9de063f5c8e871f0), [Эмерик](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26ff33e1189fe8e), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=74bbf037b86bf570), [taciturn Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97feb55f7bc8a79e), [Yuyuhase](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8e9559341dc0a10), [stalwart Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dcc837eb9d6ef18), [(без названия)]()
+    NPC: [Дриймон](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9de063f5c8e871f0), [Эмерик](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26ff33e1189fe8e), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=74bbf037b86bf570), [taciturn Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97feb55f7bc8a79e), [Yuyuhase](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8e9559341dc0a10), [stalwart Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dcc837eb9d6ef18), (без названия)
   </details>
 * For the Greater Good --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5ec5da98d4cb9606) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-gaiuse409_00077/)
   <details>
@@ -2531,7 +2531,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=74bbf037b86bf570), [Эмерик](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26ff33e1189fe8e), [taciturn Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97feb55f7bc8a79e), [Yuyuhase](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f8e9559341dc0a10), [3rd Unit Brave](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e8007dce2da0b09), [3rd Unit Brave](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=953e6a5bdc6ba247), [Yuyuhase](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d2cbc7faba0d5d8), [suspicious Coerthan](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1beb994f2b7525c0), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84f16955e090c3f4), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e24e5367a0db17c9)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия)
     <br>
     Надписи на земле: [fresh prints](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a39a9040d4a2a8be), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=5a547f2ddadcfd8c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fc90c5ce4b776ec9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=75f58fcf4827db1), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=625910414e906f07)
   </details>
@@ -2570,7 +2570,7 @@ title: Основной сюжет — A Realm Reborn
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd227fb37bfdf535), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=74bbf037b86bf570), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c7b444bf48ab4761), [stalwart Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dcc837eb9d6ef18), [(без названия)]()
+    NPC: [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd227fb37bfdf535), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=74bbf037b86bf570), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c7b444bf48ab4761), [stalwart Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dcc837eb9d6ef18), (без названия)
   </details>
 * The Road Less Traveled --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3baaaee1dc0a699a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-gaiuse416_00086/) / [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/cut_scene-024-voiceman_02400/) - F
   <details>
@@ -2621,7 +2621,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Ilberd](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=efc84c1e49417be), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b493dd1358936a0), [Ilberd](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3d1224d5fa25bd2), [hired thug](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8302a2cc4c51ec4d), [Ilberd](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e0696218b8b47dc3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e29f3ca4e4605fa)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dfbf03ae30512c99), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=63768d5d5ec7dfe2)
   </details>
@@ -2641,7 +2641,7 @@ title: Основной сюжет — A Realm Reborn
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Татару](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96452eab08230c37), [Lucia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c662b149688fe8d8), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2157d4fd8da04a31), [Урианже](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25103fc7d4440968), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd227fb37bfdf535), [Татару](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4213f50d2491e8c3), [Doman watch](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8f46fb12aaa4fe98), [(без названия)](), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13801c253015a6dd), [Урианже](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=826c66e3ce1e8935), [Lucia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c0aada579b801be), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a08bb37fb3e95e9)
+    NPC: [Татару](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=96452eab08230c37), [Lucia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c662b149688fe8d8), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2157d4fd8da04a31), [Урианже](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25103fc7d4440968), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd227fb37bfdf535), [Татару](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4213f50d2491e8c3), [Doman watch](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8f46fb12aaa4fe98), (без названия), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13801c253015a6dd), [Урианже](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=826c66e3ce1e8935), [Lucia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5c0aada579b801be), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a08bb37fb3e95e9)
   </details>
 * Aether on Demand --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3e0541bc125833cb) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-gaiuse505_00367/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause505_03888/) / [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/cut_scene-025-voiceman_02500/) - 4
   <details>
@@ -2657,7 +2657,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Edelstein](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0860b9110df6901), [Алианна](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=608b992b8246c2ad), [Вилред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20964a64edb097a8), [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ead4dd52e3e5e0b), [Папалимо](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d524ab44225e7519), [Ида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aa3104f2e40d7a73), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8bd9eedc1cee380b), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a15567309f93f57), [Yuyuhase](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=10f17db6852c2990), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d94edb4782f505f8), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2b691f1a398c21cb), [Yuyuhase](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=219250d7f5617c63), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=470a469b3abac8a5), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7089936661f924e5)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=598cbe082e31cf4f), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=fd2a089e334d4553)
   </details>
@@ -2666,7 +2666,7 @@ title: Основной сюжет — A Realm Reborn
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Edelstein](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0860b9110df6901), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d825ad285c61e2c), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6db917fad155793f), [(без названия)](), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25ab607a6dc457e2), [wandering minstrel](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a2d1da5c7168701c), [Alys](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54d58cd18738ed4a), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4cc6ff259462465), [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4319ae364b322c48), [Ида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=174437f18d2ac833), [Папалимо](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b80f101b11caacd), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=498954525cf0ffe7)
+    NPC: [Edelstein](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0860b9110df6901), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d825ad285c61e2c), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6db917fad155793f), (без названия), [Мунбрида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=25ab607a6dc457e2), [wandering minstrel](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a2d1da5c7168701c), [Alys](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54d58cd18738ed4a), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c4cc6ff259462465), [Танкред](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4319ae364b322c48), [Ида](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=174437f18d2ac833), [Папалимо](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b80f101b11caacd), [Я'штола](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=498954525cf0ffe7)
   </details>
 * In Memory of Moenbryda --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=841791800c234fa7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-gaiuse508_00429/) / [Кат-сцена](https://host6450.hnt.ru/projects/ffxiv-translation/cut_scene-025-voiceman_02500/) - 9
   <details>
@@ -2724,7 +2724,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Татару](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd3ab0840692f214), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7b475c4ed10e3c0d), [Бартоломей](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7672b1288526909a), [Marcelain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=77777baca046cc5d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2860c44759b7d48e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=adfd75386f4f0f4a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bca3d2f56fab1cfe), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=941d10d2af35785e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=988900db19c20c2), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ae172b170a4a536), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d7e9285f5e5a62ce), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32484846bc644f5c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fd3c5a2012f1a891), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21b295e5dbb7c756), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a5638caea01e1e96), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8bd81500370190da), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d995ccfb8d39c3c3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e47188157ad5ec3d), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c5130b4506b3ace), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=33c5ed28ac3c9008), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3268ff3185546cf)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a0dbd5ada97dae91), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e98109d59f8d302e)
   </details>
@@ -2733,7 +2733,7 @@ title: Основной сюжет — A Realm Reborn
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Marcelain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=77777baca046cc5d), [(без названия)](), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db17dac42f74c28e), [Chaunollet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4837ce45c537b3), [Loanne](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4e047e551c10a45), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=23eeeb60a2cb65ae)
+    NPC: [Marcelain](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=77777baca046cc5d), (без названия), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db17dac42f74c28e), [Chaunollet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b4837ce45c537b3), [Loanne](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a4e047e551c10a45), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=23eeeb60a2cb65ae)
   </details>
 * Administrative Decision --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5d26ee68db81a8de) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-gaiuse608_00420/)
   <details>
@@ -2760,7 +2760,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Татару](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f0bfddec186581d7), [Тубиргейм](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1f6e2aafe1dc78), [Татару](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9ea78a136d4ad47e), [Татару](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2faedc6f1892030a), [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=23eeeb60a2cb65ae)
     <br>
-    Вражеские NPC: [(без названия)]()
+    Вражеские NPC: (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=11e95f6f64dd8db2)
   </details>
@@ -2771,7 +2771,7 @@ title: Основной сюжет — A Realm Reborn
 
     NPC: [Минфилия](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=23eeeb60a2cb65ae), [Hoary Boulder](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=97c16b1d76cc520f), [Coultenet](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d97e3e43934532de), [unsettled scholar](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4d41c828a28d13e9), [unsettled scholar](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2f41320334b5d0ff), [unsettled scholar](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3812089568263c55), [unsettled scholar](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5afbe4e2acb984a9)
     <br>
-    Вражеские NPC: [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)](), [(без названия)]()
+    Вражеские NPC: (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия), (без названия)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8a9082be4cd2d1a7), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=442b925f6cc96ea0), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=119bc4029f35d0c8)
   </details>
