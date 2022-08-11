@@ -1237,19 +1237,26 @@ title: Адепты Битвы — Профессии
 
 ![Изображение заданий тёмного рыцаря - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b797aeaeaf497c8c966be63e12091dda5da849f9.png)
 
+* Ур. 50 --- A Dark Spectacle --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=180653333eac0329) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-021-jobdrk299_02110/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Горожанин Ишгарда](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db75a99dd4f93b59)
+  </details>
 * Ур. 50 --- Our End --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a576d7ffc690f3bb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk300_02053/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Ishgardian citizen](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db75a99dd4f93b59), [punctilious Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=568082b89e763027), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b930d0ab25ef44ac), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=105982229d8d280f), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a182bb949c0b669c)
+    NPC: [Горожанин Ишгарда](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=db75a99dd4f93b59), [Педантичный храмовник](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=568082b89e763027), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b930d0ab25ef44ac), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=105982229d8d280f), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a182bb949c0b669c)
   </details>
 * Ур. 30 --- Ishgardian Justice --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2f1658074e6a5e9e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-jobdrk301_02054/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a182bb949c0b669c), [lowborn crone](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=38c70a95d4bc72b4), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be746ab84be4b761), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f0132c4714cb551e), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e634e83b4f3dc860), [pernicious Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=91c468ca1692a6d2), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d42de626fe70911a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de96a485ec616449), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13fea12c6decc786), [frightened maid](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1dd369c6f15eeb17), [frightened maid](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7b10b858dcb8827), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a9691794663ff9)
+    NPC: [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a182bb949c0b669c), [Бедная старуха](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=38c70a95d4bc72b4), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be746ab84be4b761), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f0132c4714cb551e), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e634e83b4f3dc860), [Злонамеренный храмовник](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=91c468ca1692a6d2), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d42de626fe70911a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de96a485ec616449), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13fea12c6decc786), [Испуганная девушка](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1dd369c6f15eeb17), [Испуганная девушка](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a7b10b858dcb8827), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6a9691794663ff9)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=dc43ca0d98d6eaa2)
   </details>
@@ -1258,11 +1265,11 @@ title: Адепты Битвы — Профессии
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991b9092bbec25b9), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21e90ce05118a008), [Gundobald](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2755b9c937677270), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd54ed4198255640), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=69e055f9b2ffc0dc)
+    NPC: [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991b9092bbec25b9), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21e90ce05118a008), [Гундобальд](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2755b9c937677270), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cd54ed4198255640), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=69e055f9b2ffc0dc)
     <br>
     Вражеские NPC: (без названия)
     <br>
-    Предметы: [Aldgoat Meat](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3f8937d9eb98d858) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3f8937d9eb98d858))
+    Предметы: [Мясо горного козла](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3f8937d9eb98d858) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3f8937d9eb98d858))
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1bb33118aa51c0f5), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=46373ec06643c6d9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f25a42869736267e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cb4766220ff7aba9)
   </details>
@@ -1271,7 +1278,7 @@ title: Адепты Битвы — Профессии
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991b9092bbec25b9), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=340a7ea80f361d6f), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cffa2e11cb718637), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=50f8828284876869), [Айзембард](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3ccc81c5daf8b712), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b3810a3085d5101)
+    NPC: [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991b9092bbec25b9), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=340a7ea80f361d6f), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cffa2e11cb718637), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=50f8828284876869), [Айзембард](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3ccc81c5daf8b712), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b3810a3085d5101)
     <br>
     Вражеские NPC: (без названия), (без названия)
     <br>
@@ -1282,9 +1289,9 @@ title: Адепты Битвы — Профессии
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991b9092bbec25b9), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=61916be00390ef2c), [overbearing trader](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3a180cedddf98d60), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0420eefeabbe5c8), [overbearing trader](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8b4119aaeeed000c), [Styrnlona](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee9d498398003107), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab107660bc31ab48), [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54210fd3b8e99c48)
+    NPC: [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991b9092bbec25b9), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=61916be00390ef2c), [Чванливый торговец](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3a180cedddf98d60), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c0420eefeabbe5c8), [Чванливый торговец](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=8b4119aaeeed000c), [Стирлона](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ee9d498398003107), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ab107660bc31ab48), [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=54210fd3b8e99c48)
     <br>
-    Предметы: [Stolen Merchandise](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e082c4866de4c4ff) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e082c4866de4c4ff))
+    Предметы: [Украденные товары](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e082c4866de4c4ff) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e082c4866de4c4ff))
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3c14dd73c536aefd), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=27da81de3db0fa09), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=722d46332b526968)
   </details>
@@ -1293,7 +1300,7 @@ title: Адепты Битвы — Профессии
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Fray](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991b9092bbec25b9), [unbending knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4bb056b97088f054), [unbending knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=57aa24b724c694c), [untiring knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ac395e3a0999eb6), [untiring knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b74acac6ca66157), [unflinching Temple Knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d811384f10f7fb0)
+    NPC: [Фрэй](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=991b9092bbec25b9), [Непреклонный рыцарь](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4bb056b97088f054), [Непреклонный рыцарь](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=57aa24b724c694c), [Неутомимый рыцарь](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ac395e3a0999eb6), [Неутомимый рыцарь](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1b74acac6ca66157), [Непоколебимый храмовник](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5d811384f10f7fb0)
     <br>
     Вражеские NPC: (без названия), (без названия), (без названия)
     <br>
