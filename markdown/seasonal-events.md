@@ -15,7 +15,7 @@ title: Сезонные события
 
 ## Празднества <<Золотого блюдца>> {#gold-saucer-festivities}
 
-## Фестиваль огненной луны {#moonfire-faire}
+## Фестиваль <<Огненной луны>> {#moonfire-faire}
 
 ### 2022 {#moonfire-faire-2022}
 
@@ -36,7 +36,7 @@ title: Сезонные события
     NPC: [Ру'фхул Тиа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d96a5018c0cce5b8), [Ру'маджа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e10eedf4fc4385ac), [Бодефойн](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=28e2b5fd73bf859f), [Ру'маджа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b25757655d1c72f9), [Ру'фхул Тиа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=350077999afd9ad6), [Хильделана](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a8e2a51877ddb1b9), [Фестивальный приключенец](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9db61bd4a9f2e35f), [По'биано](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c5280987a22b37d6), [Фестивальный приключенец](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d02ed816424504d3), [Ру'фхул Тиа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d847fe7f9566999f), [Хаермага](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ef8ac55ff8625531), [Ру'маджа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ec44823b9cb1838), [Нетерпеливый ученик](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=cbce6bfcefba8530), [Серьёзный ученик](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=59541f495103732e), [Ру'фхул Тиа](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e23379b1718575f)
   </details>
 
-## The Rising {#the-rising}
+## Фестиваль <<Восхождения>> {#the-rising}
 
 ### 2022 {#the-rising-2022}
 
@@ -51,5 +51,7 @@ title: Сезонные события
   </details>
 
 ## All Saints' Wake {#all-saints-wake}
+
+### 2022 {#all-saints-wake-2022}
 
 ## Starlight Celebration {#starlight-celebration}

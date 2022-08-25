@@ -7,7 +7,7 @@ title: Адепты Магии
 
 ![Изображение заданий элементалиста](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png)
 
-* Ур. 1 --- Way of the Conjurer --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9c66f0503ce04603) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clscnj000_00022/)
+* Ур. 1 --- Way of the Conjurer --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b499f3fe35f792e3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clscnj000_00022/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -16,14 +16,14 @@ title: Адепты Магии
     <br>
     Вражеские NPC: [Земляная белка](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89), [Маленькая божья коровка](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38), [Лесная грибница](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b)
   </details>
-* Ур. 1 --- Way of the Conjurer --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c8cd9859d0a53222) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-clscnj998_00133/)
+* Ур. 1 --- Way of the Conjurer --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4ce37ce1f6c72356) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-clscnj998_00133/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Маделль](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d5d447a058068a29), [Э-Суми-Ян](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e744b16d9cbfc)
   </details>
-* Ур. 1 --- My First Cane --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5fea7f16748b6c04) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-clscnj100_00211/)
+* Ур. 1 --- My First Cane --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=863132149556e063) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-clscnj100_00211/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -32,7 +32,7 @@ title: Адепты Магии
     <br>
     Вражеские NPC: [Земляная белка](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=3d0e22173938ea89), [Маленькая божья коровка](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38), [Лесная грибница](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=756b5593dcff2a2b)
   </details>
-* Ур. 5 --- Trial by Earth --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6f6d69ccd02b95a7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clscnj001_00048/)
+* Ур. 5 --- Trial by Earth --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1c9d4134a359683d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clscnj001_00048/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -43,7 +43,7 @@ title: Адепты Магии
     <br>
     Надписи на земле: [corrupted soil](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c688469eb9722e46)
   </details>
-* Ур. 10 --- Trial by Wind --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=df849e6f16b7f7f9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clscnj002_00091/)
+* Ур. 10 --- Trial by Wind --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a0d35ac2a2cbd4c2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clscnj002_00091/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -54,7 +54,7 @@ title: Адепты Магии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e2a75dcb80ace512), [corrupted air](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c27c31a5c0138e93)
   </details>
-* Ур. 10 --- Trial by Wind --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e456feefc3a19908) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-clscnj997_00147/)
+* Ур. 10 --- Trial by Wind --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ca8fc95285424c70) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-clscnj997_00147/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -65,7 +65,7 @@ title: Адепты Магии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f1dee949b5a5b5f0), [corrupted air](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=51d7c7920584f4c1)
   </details>
-* Ур. 15 --- Trial by Water --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5cc9ff8919520be) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clscnj003_00092/)
+* Ур. 15 --- Trial by Water --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=25cf6d008de81c0b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clscnj003_00092/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -78,7 +78,7 @@ title: Адепты Магии
     <br>
     Надписи на земле: [corrupted water](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bc2142ed5cf2fd4b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3eac67748487f9fb)
   </details>
-* Ур. 20 --- Sylphie's Trials --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4f46a7e12414f696) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clscnj004_00093/)
+* Ур. 20 --- Sylphie's Trials --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=85ac9c8beada70d5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clscnj004_00093/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -89,7 +89,7 @@ title: Адепты Магии
     <br>
     Надписи на земле: [corrupted soil](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=27d226851271706e), [corrupted air](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=bbcd6ddc5492cd98), [corrupted water](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=aa94fa97e1cb9037)
   </details>
-* Ур. 25 --- Like Mother, Like Daughter --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b441d59d379a44a6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clscnj005_00440/)
+* Ур. 25 --- Like Mother, Like Daughter --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cd73a6087645055a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clscnj005_00440/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -98,7 +98,7 @@ title: Адепты Магии
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e6518a8bd6416da6), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=58000c18bc20857c), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1bbf5763a59efac2)
   </details>
-* Ур. 30 --- In Nature's Embrace --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=84ce8b37553d6862) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clscnj006_00441/)
+* Ур. 30 --- In Nature's Embrace --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=781f11e1dba73217) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clscnj006_00441/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -114,14 +114,14 @@ title: Адепты Магии
 
 ![Изображение заданий оккультиста](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png)
 
-* Ур. 1 --- Way of the Thaumaturge --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3ad6cbcd5dbedccc) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm011_00344/)
+* Ур. 1 --- Way of the Thaumaturge --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=105abecb920c8ab1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm011_00344/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Яякэ](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de48f00e6fd469c8), [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8a2e8422b5e507e)
   </details>
-* Ур. 1 --- Way of the Thaumaturge --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=41981d7b46483cc0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm020_00345/)
+* Ур. 1 --- Way of the Thaumaturge --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=32202b4bb49a9b6c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm020_00345/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -130,7 +130,7 @@ title: Адепты Магии
     <br>
     Вражеские NPC: [Qiqirn gullroaster](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a74c118e35cabf2a), [trenchclaw Sahagin](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=68b356f6e88b9beb), [mottled eft](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22cc810a03166508)
   </details>
-* Ур. 1 --- My First Scepter --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=fe76daedbb11106c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm021_00346/)
+* Ур. 1 --- My First Scepter --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4b758a957f5a978b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm021_00346/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -139,7 +139,7 @@ title: Адепты Магии
     <br>
     Вражеские NPC: [Qiqirn gullroaster](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=a74c118e35cabf2a), [trenchclaw Sahagin](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=68b356f6e88b9beb), [mottled eft](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=22cc810a03166508)
   </details>
-* Ур. 5 --- The Threat of Intimacy --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c00670e9b51142e0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm050_00347/)
+* Ур. 5 --- The Threat of Intimacy --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b3a0ee50b821f355) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm050_00347/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -152,12 +152,12 @@ title: Адепты Магии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ede3cd981ca0752f), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c11894478b635e73)
   </details>
-* Ур. 10 --- The Threat of Paucity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=69478dc80d9bc165) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm100_00348/)
+* Ур. 10 --- The Threat of Paucity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f08da04364b2cb08) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm100_00348/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Cocobani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e449859d9ec4370), [Cocobusi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d7e79fb8dc60d44), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a)
+    NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Кокобани](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e449859d9ec4370), [Cocobusi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d7e79fb8dc60d44), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a)
     <br>
     Вражеские NPC: [Sylphlands buzzard](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47d254a97cce0a1), (без названия), (без названия)
     <br>
@@ -165,12 +165,12 @@ title: Адепты Магии
     <br>
     Надписи на земле: [armored war transport](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=1b424375dffa031e), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=61b14aae80f10074), [armored war transport](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=8aa7a8a000251b06)
   </details>
-* Ур. 10 --- The Threat of Paucity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d03489f705f758b8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm101_00349/)
+* Ур. 10 --- The Threat of Paucity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=885ba8855e51639a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm101_00349/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Cocobani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e449859d9ec4370), [Cocobusi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d7e79fb8dc60d44), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a)
+    NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Кокобани](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e449859d9ec4370), [Cocobusi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9d7e79fb8dc60d44), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a)
     <br>
     Вражеские NPC: [Sylphlands buzzard](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=47d254a97cce0a1), (без названия), (без названия)
     <br>
@@ -178,43 +178,43 @@ title: Адепты Магии
     <br>
     Надписи на земле: [armored war transport](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=be78e4b18390a745), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=20cffd9221fd4cc4), [armored war transport](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=c48a2592d8ce7bba)
   </details>
-* Ур. 15 --- The Threat of Superiority --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=15ae911d051e5c2b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm150_00350/)
+* Ур. 15 --- The Threat of Superiority --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1801118cda88443d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm150_00350/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Cocobezi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5865bf9e47dd8e6), [raging merchant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30cfe6c2e231e4), [ranting merchant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=893a855c78f5ae79), [raving merchant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=637935d53ba17103), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a)
+    NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Кокобези](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e5865bf9e47dd8e6), [raging merchant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=30cfe6c2e231e4), [ranting merchant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=893a855c78f5ae79), [raving merchant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=637935d53ba17103), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a)
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ecf671352b01aff2)
   </details>
-* Ур. 20 --- The Threat of Perplexity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=545cb75c92a844eb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm200_00351/)
+* Ур. 20 --- The Threat of Perplexity --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c2317fcaca21a538) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm200_00351/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Cocoboha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b01487fd8a369716), [Cocobusi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=597a2f3301a19d40), [stalwart swordsman](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21fc1d3676d68f45), [thaumaturge corpse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fefea1154334cbe), [thaumaturge corpse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5be8717f31234c9c), [thaumaturge corpse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=683f9b8ab5944ff3)
+    NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Кокобоха](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=b01487fd8a369716), [Cocobusi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=597a2f3301a19d40), [stalwart swordsman](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=21fc1d3676d68f45), [thaumaturge corpse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fefea1154334cbe), [thaumaturge corpse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5be8717f31234c9c), [thaumaturge corpse](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=683f9b8ab5944ff3)
     <br>
     Предметы: [Bloody Scepter](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=31c6a5d058eb95cb) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=31c6a5d058eb95cb)), [Shredded Tome](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=6d3becd226262694) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=6d3becd226262694)), [Bloody Bracelet](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=5c7f36de4c6ebef6) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=5c7f36de4c6ebef6))
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a0fdd00c09b32731), [shaded outcropping](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=f8b5b71b3784ea45)
   </details>
-* Ур. 25 --- The Hidden Chapter --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e2f77d6e3892fd2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm250_00352/)
+* Ур. 25 --- The Hidden Chapter --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=350bff7156a014be) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm250_00352/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8a2e8422b5e507e), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [twitching voidmath](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=372d1087d065ff0d), [flustered voidmath](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae74023cebaff997), [smirking voidmath](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a47dfc611b8c9f3), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=419730f8d1c3f16c), [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de9256b6239a7a18), [Cocobani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5177f7fbbb2dc650), [Cocobezi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1fbf2dfd9b7e5c98), [Cocoboha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=43a08c2594785d55)
+    NPC: [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c8a2e8422b5e507e), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [twitching voidmath](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=372d1087d065ff0d), [flustered voidmath](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae74023cebaff997), [smirking voidmath](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a47dfc611b8c9f3), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=419730f8d1c3f16c), [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=de9256b6239a7a18), [Кокобани](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5177f7fbbb2dc650), [Кокобези](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1fbf2dfd9b7e5c98), [Кокобоха](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=43a08c2594785d55)
     <br>
     Предметы: [Book of Mormo](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=3f113f444b42f3ab) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=3f113f444b42f3ab)), [Book of Mormo](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=2bfbcf70ffc63f82) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=2bfbcf70ffc63f82))
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2e3acfe20034a250)
   </details>
-* Ур. 30 --- Facing Your Demons --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=23b27ee811dd715c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm300_00353/)
+* Ур. 30 --- Facing Your Demons --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b79bc8e2ee81af2a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-003-clsthm300_00353/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Gebhard](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=325f45becbd5ffd7), [Folclind](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a9ae329f11eed0b), [Bashful Geyser](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b18edced9d522bf), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd5e5732f8d0f972), [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a1309879016360bc), [Cocobani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3bf086efcd31e493), [Cocobezi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf7f230813af04f3), [Cocoboha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb5d6e17cb47dd26), [maimed marauder](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26467d0767a97077), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2eece72dfb574ff8), [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be09748dbecbd232), [Cocobani](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58bbaabad78f9920), [Cocobezi](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d121cc5aea487513), [Cocoboha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7064f0bf0df13892)
+    NPC: [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a08b7f98bcfbf77a), [Gebhard](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=325f45becbd5ffd7), [Folclind](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2a9ae329f11eed0b), [Bashful Geyser](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6b18edced9d522bf), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bd5e5732f8d0f972), [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a1309879016360bc), [Кокобани](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3bf086efcd31e493), [Кокобези](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bf7f230813af04f3), [Кокобоха](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=bb5d6e17cb47dd26), [maimed marauder](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=26467d0767a97077), [Кокобуки](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2eece72dfb574ff8), [Кокобиго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=be09748dbecbd232), [Кокобани](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=58bbaabad78f9920), [Кокобези](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d121cc5aea487513), [Кокобоха](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7064f0bf0df13892)
     <br>
     Вражеские NPC: (без названия)
     <br>
@@ -227,14 +227,14 @@ title: Адепты Магии
 
 ![Изображение заданий арканиста](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png)
 
-* Ур. 1 --- Way of the Arcanist --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8cf7a36ca332d32f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn011_00452/)
+* Ур. 1 --- Way of the Arcanist --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2d86a08c29c1dd05) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn011_00452/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Муриэ](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ec089c1e66392e38), [Тубиргейм](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1f6e2aafe1dc78)
   </details>
-* Ур. 1 --- Way of the Arcanist --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=38185ffcb890d57d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn020_00453/)
+* Ур. 1 --- Way of the Arcanist --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=900ce5068a3c2202) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn020_00453/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -243,7 +243,7 @@ title: Адепты Магии
     <br>
     Вражеские NPC: [shelfscale Reaver](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6f7b92b58990081c), [fallen wizard](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=907562f0e55aa309), [Маленькая божья коровка](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38)
   </details>
-* Ур. 1 --- My First Grimoire --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=82df15f4ecb483cf) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn021_00454/)
+* Ур. 1 --- My First Grimoire --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4ba7da268a067629) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn021_00454/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -252,7 +252,7 @@ title: Адепты Магии
     <br>
     Вражеские NPC: [shelfscale Reaver](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=6f7b92b58990081c), [fallen wizard](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=907562f0e55aa309), [Маленькая божья коровка](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=afa51a1b6d548e38)
   </details>
-* Ур. 5 --- What's in the Box --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7d088e8feb51aa6d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn050_00455/)
+* Ур. 5 --- What's in the Box --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4407e9abfff50d52) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn050_00455/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -265,36 +265,36 @@ title: Адепты Магии
     <br>
     Надписи на земле: [practice crates](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ec2fc0ca4f75105), [訓練用の木箱](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=4a8a8ff88c1b1b4a), [practice crate](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=6043ab05f2acda3d)
   </details>
-* Ур. 10 --- Tactical Planning --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=516585ddd5d53351) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn100_00456/)
+* Ур. 10 --- Tactical Planning --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ce8eee9ef848c55e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn100_00456/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Тубиргейм](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1f6e2aafe1dc78), [K'lyhia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45e4484bdfc14968), [K'lyhia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=83101593b5cf2b81), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9001e898818c83c7), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3917c362154fba5f), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af13df7598b9ba5e), [K'lyhia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f77bf86c27019ab), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929800030175c24b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf1df935ab62c19), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c21e635b75902f56)
     <br>
-    Вражеские NPC: [roselet](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=536a8e73fe9e9910), [Redbelly jack](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53e4e234d8d432af)
+    Вражеские NPC: [roselet](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=536a8e73fe9e9910), [Дровосек Краснобрюхов](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53e4e234d8d432af)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=91d723ea3291a7c7), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ab075d04250859eb)
   </details>
-* Ур. 10 --- Tactical Planning --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1f818f9b6a0dab1b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn101_00457/)
+* Ур. 10 --- Tactical Planning --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7ed104f878ef89c1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn101_00457/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Тубиргейм](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1f6e2aafe1dc78), [K'lyhia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45e4484bdfc14968), [K'lyhia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=83101593b5cf2b81), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9001e898818c83c7), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3917c362154fba5f), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=af13df7598b9ba5e), [K'lyhia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f77bf86c27019ab), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929800030175c24b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3cf1df935ab62c19), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c21e635b75902f56)
     <br>
-    Вражеские NPC: [roselet](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=536a8e73fe9e9910), [Redbelly jack](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53e4e234d8d432af)
+    Вражеские NPC: [roselet](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=536a8e73fe9e9910), [Дровосек Краснобрюхов](https://host6450.hnt.ru/translate/ffxiv-translation/bnpcname/ru/?checksum=53e4e234d8d432af)
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=243b14ec48cb853b), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=66c248092f6a808)
   </details>
-* Ур. 15 --- Topaz Teachings --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f2863cbb0eff62da) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsacn149_01103/)
+* Ур. 15 --- Topaz Teachings --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e3f7c4d4e2a9bf90) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsacn149_01103/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Тубиргейм](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1f6e2aafe1dc78), [K'lyhia](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=45e4484bdfc14968)
   </details>
-* Ур. 15 --- Over the Rails --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=991cf75c1d23e539) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn150_00458/)
+* Ур. 15 --- Over the Rails --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f8013692b3273506) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn150_00458/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -305,7 +305,7 @@ title: Адепты Магии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=cf1d357507528459), [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=3a5d6ba03dcda6cb)
   </details>
-* Ур. 20 --- Pincer Maneuver --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5da9bf3729b77259) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn200_00459/)
+* Ур. 20 --- Pincer Maneuver --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9e712b33d4781bfe) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn200_00459/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -314,7 +314,7 @@ title: Адепты Магии
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=da64a6cb1b6dfa82), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ae490f4a526579ac)
   </details>
-* Ур. 25 --- Grimoire Fandango --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=eb0afdf0699300c9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn250_00460/)
+* Ур. 25 --- Grimoire Fandango --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a180f1906339049a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn250_00460/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -327,7 +327,7 @@ title: Адепты Магии
     <br>
     Надписи на земле: [hidden parchment](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=359584c9f8d65b1), [hidden parchment](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=26722ad49848c144), [hidden parchment](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=752d4370f860247a), [old wooden box](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=469ba4828a9b1179), [old wooden box](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=54ed981194e561b9)
   </details>
-* Ур. 30 --- Sinking Doesmaga --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ce8b6f6fc7ada8b5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn300_00461/)
+* Ур. 30 --- Sinking Doesmaga --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ccd3f4061f412b36) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-004-clsacn300_00461/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>

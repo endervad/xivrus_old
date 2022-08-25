@@ -7,84 +7,84 @@ title: Адепты Сбора
 
 ![Изображение заданий горняка - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d2daa71ae34e6e43ecd000c6145c9dbad41984b6.png)
 
-* Ур. 1 --- Way of the Miner --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b164827596113d67) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-clsmin011_00597/)
+* Ур. 1 --- Way of the Miner --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d8e76f5a5e2343b3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-clsmin011_00597/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Linette](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46a34e3f24c1e5d9), [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb)
+    NPC: [Линетт](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46a34e3f24c1e5d9), [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb)
   </details>
-* Ур. 1 --- My First Pickaxe --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=94c39f6089db63f5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-clsmin021_00599/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
-
-    NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb)
-  </details>
-* Ур. 5 --- Know Thy Land --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=df2621c4915b5a93) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin050_00600/)
+* Ур. 1 --- My First Pickaxe --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=871925b80ce9e47d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-clsmin021_00599/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb)
   </details>
-* Ур. 10 --- The Cutting Edge --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=24875f596224f012) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin101_00602/)
+* Ур. 5 --- Know Thy Land --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b0a90a4faa783019) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin050_00600/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb)
   </details>
-* Ур. 15 --- Getting in Deep --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cfb4014ddffd29a0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin150_00603/)
+* Ур. 10 --- The Cutting Edge --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=98e516c249b670a6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin101_00602/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb)
+  </details>
+* Ур. 15 --- Getting in Deep --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a15ffe69add24e0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin150_00603/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb), [Deep Canyon](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6cef5d45864a79e8)
   </details>
-* Ур. 20 --- Old Wisdom, New Ways --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6254df5d7492c5d7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin200_00604/)
+* Ур. 20 --- Old Wisdom, New Ways --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a6ac3b957697b2ac) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin200_00604/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb)
   </details>
-* Ур. 25 --- Water from Stone --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=70e217d8bd5473d2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin250_00605/)
+* Ур. 25 --- Water from Stone --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6635e91c60bc8697) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin250_00605/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb)
   </details>
-* Ур. 30 --- Obsidian Race --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=83bfa5deb1fb9051) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin300_00606/)
+* Ур. 30 --- Obsidian Race --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b8ec5efb9fb90326) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin300_00606/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb), [Wide Gulley](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55de09d55ca4b05a), [Hrodger](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e1aced3a395d9ed2)
   </details>
-* Ур. 35 --- Amethysts Are Forever --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ab9a4101f6907d2e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin350_00643/)
+* Ур. 35 --- Amethysts Are Forever --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cc8f57eef7874284) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin350_00643/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb), [Wide Gulley](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55de09d55ca4b05a)
   </details>
-* Ур. 40 --- To Die For --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=257e8dd642ece749) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin400_00644/)
+* Ур. 40 --- To Die For --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3ab6c3a761f46793) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin400_00644/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb), [Wide Gulley](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55de09d55ca4b05a)
   </details>
-* Ур. 45 --- Gulley of Woes --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f8d4bd37109be096) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin450_00645/)
+* Ур. 45 --- Gulley of Woes --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e80d5e4602baede1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin450_00645/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb), [Wide Gulley](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=55de09d55ca4b05a)
   </details>
-* Ур. 50 --- Canyon of Regret --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7fe201d499d7301b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin500_00646/)
+* Ур. 50 --- Canyon of Regret --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=31422f1fd5e16d0e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-006-clsmin500_00646/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -94,23 +94,23 @@ title: Адепты Сбора
 
 ![Изображение заданий горняка - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/898f3d460a53179eae043367a7478ee5b134fc22.png)
 
-* Ур. 50 --- Breaking New Ground --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7d82dc6ad1116d3f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsmin502_02080/)
+* Ур. 50 --- Breaking New Ground --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a1f7f953beea0d1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsmin502_02080/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb), [Linette](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46a34e3f24c1e5d9), [House Fortemps knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=82c387476c40a37d), [Haimirich](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fc822203ea29307), [Hatchling](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f398cd883e85de3)
+    NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb), [Линетт](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46a34e3f24c1e5d9), [House Fortemps knight](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=82c387476c40a37d), [Haimirich](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fc822203ea29307), [Hatchling](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f398cd883e85de3)
     <br>
     Предметы: [Sooty Envelope](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=e1cdf0879610a4c9) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=e1cdf0879610a4c9))
   </details>
-* Ур. 53 --- Sellspade --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f9757531384e12c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsmin530_02081/)
+* Ур. 53 --- Sellspade --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8dd3be23c071318c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsmin530_02081/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Haimirich](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9fc822203ea29307), [Haimirich](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7dfc788a2f558661), [Hatchling](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba27d5bec9dea4a9), [Muscles](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a8a46d77792dbb02), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ae99cb386f68fef5), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=edec3455635dd3ab), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcd546126709c644), [Muscles](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f8d874be7804e51), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6fe31f6cc6a959a9), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6e143b0086af247a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=38103427af61ba06)
   </details>
-* Ур. 55 --- The Same Vein --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ca0fd9184024ae3e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsmin550_02082/)
+* Ур. 55 --- The Same Vein --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=448d02800a8341a1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsmin550_02082/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -119,7 +119,7 @@ title: Адепты Сбора
     <br>
     Предметы: [Titanium Ore Sample](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=68731e5b2d133f67) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=68731e5b2d133f67))
   </details>
-* Ур. 58 --- Digging Deeper --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=477e13497a4370d5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsmin580_02083/)
+* Ур. 58 --- Digging Deeper --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7523b1b1f9bfcf11) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsmin580_02083/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -130,7 +130,7 @@ title: Адепты Сбора
     <br>
     Надписи на земле: [mining point](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=16da572ebf1d53d2), [mining point](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=ea5cb25a336f9b2), [mining point](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2a374ae257a4a0e4)
   </details>
-* Ур. 60 --- The Hole Truth --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a5e2ef2aa9fd70d4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsmin600_02084/)
+* Ур. 60 --- The Hole Truth --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=eea7d4c4a963fe41) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsmin600_02084/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -142,30 +142,30 @@ title: Адепты Сбора
 
 ![Изображение заданий горняка - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/4470326284096a0181a9f7f2367ce70f3dbec11f.png)
 
-* Ур. 60 --- Gift of the Gob --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c98bff79991fa66f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-clsmin601_02554/)
+* Ур. 60 --- Gift of the Gob --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=eb5a566f892a307b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-clsmin601_02554/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb), [Linette](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46a34e3f24c1e5d9), [Nonowato](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7aeac830f481de3c), [Stickqix](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2faf86e83b824a), [Nonowato](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a2a72e04eefd5fe), [Krystrymm](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1c5d20a74dfb291), [Zansei](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc0281a7dee6b365), [Fohcwyda](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e4ca2985018a4eb), [Stackblox](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84a7a369d51d365d)
+    NPC: [Адальберта](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=929b7f0bf10706bb), [Линетт](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46a34e3f24c1e5d9), [Nonowato](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7aeac830f481de3c), [Stickqix](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2faf86e83b824a), [Nonowato](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a2a72e04eefd5fe), [Krystrymm](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1c5d20a74dfb291), [Zansei](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc0281a7dee6b365), [Fohcwyda](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e4ca2985018a4eb), [Stackblox](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84a7a369d51d365d)
     <br>
     Предметы: [Guild Identification Papers](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=739a27360387ea9a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=739a27360387ea9a))
   </details>
-* Ур. 63 --- Thick Skin --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3697db0f7a5612a9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-clsmin630_02555/)
+* Ур. 63 --- Thick Skin --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=299d7a5e1c0ff85c) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-clsmin630_02555/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Nonowato](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7aeac830f481de3c), [Stickqix](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2faf86e83b824a), [Nonowato](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a2a72e04eefd5fe), [Krystrymm](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1c5d20a74dfb291), [Zansei](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc0281a7dee6b365), [Fohcwyda](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e4ca2985018a4eb), [Stackblox](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84a7a369d51d365d)
   </details>
-* Ур. 65 --- Pedal to the Metal --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3baa20353f4fafc0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-clsmin650_02556/)
+* Ур. 65 --- Pedal to the Metal --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=20f81c813c187f26) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-clsmin650_02556/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Nonowato](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7aeac830f481de3c), [Stickqix](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d2faf86e83b824a), [Nonowato](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9a2a72e04eefd5fe), [Stackblox](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=84a7a369d51d365d), [Krystrymm](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f1c5d20a74dfb291), [Zansei](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fc0281a7dee6b365), [Fohcwyda](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=3e4ca2985018a4eb), [goblin merchant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=849ba708f453b969)
   </details>
-* Ур. 68 --- Where the Money Takes You --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=370aa60186c31a36) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-clsmin680_02557/)
+* Ур. 68 --- Where the Money Takes You --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1c724efea9dd5be0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-clsmin680_02557/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -174,7 +174,7 @@ title: Адепты Сбора
     <br>
     Предметы: [Research Materials](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=b263690fca1fbe60) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=b263690fca1fbe60))
   </details>
-* Ур. 70 --- A Miner Success --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c64ce50f136fd0f2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-clsmin700_02558/)
+* Ур. 70 --- A Miner Success --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d61b3fb4a284a856) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-025-clsmin700_02558/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -186,70 +186,70 @@ title: Адепты Сбора
 
 ![Изображение заданий ботаника - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3d/3ddda29bc2571f2784aef8badfb6f8ac7dcd1e7d.png)
 
-* Ур. 1 --- Way of the Botanist --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d942fab2ddead23f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv001_00003/)
+* Ур. 1 --- Way of the Botanist --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a12067c2479b7c7b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv001_00003/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Leonceault](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f97dfc8718bbe18), [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0)
+    NPC: [Леонсо](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f97dfc8718bbe18), [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0)
   </details>
-* Ур. 1 --- My First Hatchet --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1b8bb15f8ca57a38) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-clshrv100_00208/)
+* Ур. 1 --- My First Hatchet --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=50c018af8f756163) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-002-clshrv100_00208/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0)
   </details>
-* Ур. 5 --- Sap for Smiles --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7d357986662d4a33) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv002_00004/)
+* Ур. 5 --- Sap for Smiles --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1ff978655145fed7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv002_00004/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Cicely](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a06e670dec0eb748)
   </details>
-* Ур. 10 --- Weapons of a Feather --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=999db4683ea09349) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv003_00005/)
+* Ур. 10 --- Weapons of a Feather --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=43ffb7fed26f91b4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv003_00005/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Cicely](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a06e670dec0eb748)
   </details>
-* Ур. 15 --- Haste Makes Waste --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=41276a496c8f3d34) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv004_00006/)
+* Ур. 15 --- Haste Makes Waste --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6f6f522493354c35) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv004_00006/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Albgast](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7071e198d9d614c1)
+    NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Альбгаст](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7071e198d9d614c1)
   </details>
-* Ур. 20 --- Dressed to Harvest --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bbbfd4a8fa1ff13b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv005_00007/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
-
-    NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Sandre](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d19f28e464a340e8)
-  </details>
-* Ур. 25 --- Aromatic Aspirations --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=43da02e63c992ba9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv006_00008/)
+* Ур. 20 --- Dressed to Harvest --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e3f1b45961a83264) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv005_00007/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Sandre](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d19f28e464a340e8)
   </details>
-* Ур. 30 --- What Nature Giveth --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=12509a8c5239d2eb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv007_00009/)
+* Ур. 25 --- Aromatic Aspirations --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7810fcee733135e7) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv006_00008/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Sandre](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d19f28e464a340e8)
+  </details>
+* Ур. 30 --- What Nature Giveth --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=939b27dbc2fd8f51) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv007_00009/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Solyeux](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a0d853a0481920ce)
   </details>
-* Ур. 35 --- A Feast to Say the Least --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5eff692e6abe4d56) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv008_00010/)
+* Ур. 35 --- A Feast to Say the Least --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=59059fd2ca3bb62d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv008_00010/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Yannie](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ba89343b16c6c890)
   </details>
-* Ур. 40 --- Crisis of Faith --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=79848d1fd6a2fbcb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv009_00011/)
+* Ур. 40 --- Crisis of Faith --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d408c50c28238520) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv009_00011/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -258,14 +258,14 @@ title: Адепты Сбора
     <br>
     Предметы: [Special Ratatouille](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f409e095aef6884a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f409e095aef6884a))
   </details>
-* Ур. 45 --- Botanist in a Bind --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48e0a602e33f1174) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv010_00012/)
+* Ур. 45 --- Botanist in a Bind --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ef8e8a6a358b61b1) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv010_00012/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Gavin](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6ef1894b351d55a1)
   </details>
-* Ур. 50 --- Seeds of Hope --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c68612d6d6adf4b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv011_00013/)
+* Ур. 50 --- Seeds of Hope --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1adf7c392a11e6b4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-clshrv011_00013/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -277,7 +277,7 @@ title: Адепты Сбора
 
 ![Изображение заданий ботаника - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/9361088ea06fdb105434941fd4c659fcd2b6ea85.png)
 
-* Ур. 50 --- Call from the Clouds --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d881c888b327cc22) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clshrv502_02048/)
+* Ур. 50 --- Call from the Clouds --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=eeca284bd46fcd25) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clshrv502_02048/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -286,14 +286,14 @@ title: Адепты Сбора
     <br>
     Предметы: [Fufucha's Letter of Introduction](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=48484a88f711fc84) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=48484a88f711fc84))
   </details>
-* Ур. 53 --- Onions of Life Bestowing --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ac2112a3f919cc4b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clshrv530_02049/)
+* Ур. 53 --- Onions of Life Bestowing --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d088b212280b1c16) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clshrv530_02049/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Муджи Мьюрила](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13600c485a6dd421), [Basyle](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16722163a6d9d172), [Муджи Мьюрила](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1a72c84ba417b89e)
   </details>
-* Ур. 55 --- Two Nations, One Seed --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2e8520b3209e7569) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clshrv550_02050/)
+* Ур. 55 --- Two Nations, One Seed --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c26e7ec5eb4ec2fa) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clshrv550_02050/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -302,14 +302,14 @@ title: Адепты Сбора
     <br>
     Предметы: [Shroud Vetch](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=80712f3e1f13bb48) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=80712f3e1f13bb48))
   </details>
-* Ур. 58 --- Love for Harmony --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9b397c84de4bcf92) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clshrv580_02051/)
+* Ур. 58 --- Love for Harmony --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6ad93a2462d6857d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clshrv580_02051/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Муджи Мьюрила](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=13600c485a6dd421), [Basyle](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=16722163a6d9d172), [Martineau](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4efd9b5f89a5e7ab)
   </details>
-* Ур. 60 --- Seeds Know No Borders --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f13e266afb042aea) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clshrv600_02052/)
+* Ур. 60 --- Seeds Know No Borders --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=c7fd17a4a4660617) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clshrv600_02052/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -321,28 +321,28 @@ title: Адепты Сбора
 
 ![Изображение заданий ботаника - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16f136b0d496e9a177db67d996c7dcf64b63418c.png)
 
-* Ур. 60 --- Never Meet Your Heroes --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=23e30508f42b3ed2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-026-clshrv601_02620/)
+* Ур. 60 --- Never Meet Your Heroes --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2e5b41964a41b9fc) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-026-clshrv601_02620/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Edgyth](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1805cc5e1abcb0b8)
   </details>
-* Ур. 63 --- You Say Popoto, I Say... --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=38d33f308148d916) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-026-clshrv630_02621/)
+* Ур. 63 --- You Say Popoto, I Say... --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5146ea83d9b71ff8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-026-clshrv630_02621/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Edgyth](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1805cc5e1abcb0b8), [Edgyth](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1ad6e08ebc5c0c5a), [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Edgyth](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f81a367b6f3e432), [Edgyth](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=46be62038c45d9dc)
   </details>
-* Ур. 65 --- Walking for Walker's --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a1749d467c027bfb) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-026-clshrv650_02622/)
+* Ур. 65 --- Walking for Walker's --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8d58a679be38387d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-026-clshrv650_02622/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Edgyth](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1805cc5e1abcb0b8), [Fufucha](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fcceee404edab1c0), [Edgyth](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1f81a367b6f3e432), [Moegramm](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4dc090a883b9009d), [Arenlona](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=69a251d33b6047cb), [Edgyth](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=86d9bacc750be1f8), [Ibara](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d41a26e60c80b3cb), [Yamabuki](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d35717a143265585), [Hikinami](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f54c6b247dde0025)
   </details>
-* Ур. 68 --- The White Death --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=217bb8327b33c098) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-026-clshrv680_02623/)
+* Ур. 68 --- The White Death --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f5d2e25878b4e8c9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-026-clshrv680_02623/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -353,7 +353,7 @@ title: Адепты Сбора
     <br>
     Надписи на земле: [Mudplots field](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=11bfb8f509c22f3d)
   </details>
-* Ур. 70 --- Edgyth's Winning Streak --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d32d09338ac8716d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-026-clshrv700_02624/)
+* Ур. 70 --- Edgyth's Winning Streak --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7ae5493b8074b658) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-026-clshrv700_02624/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -365,84 +365,84 @@ title: Адепты Сбора
 
 ![Изображение заданий рыбака - ARR](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a0e740343cf22d49d1aa459235e53811dad55403.png)
 
-* Ур. 1 --- Way of the Fisher --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=d4197835fb707de6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh011_01107/)
+* Ур. 1 --- Way of the Fisher --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a471ea0b8e8f6417) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh011_01107/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
-    NPC: [N'nmulika](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ec67d45db72918f), [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043)
+    NPC: [Ну'нмулика](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5ec67d45db72918f), [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043)
   </details>
-* Ур. 1 --- My First Fishing Rod --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=bdea0d68e191221f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh021_01108/)
-  <details>
-    <summary>NPC, предметы и т.д.
-    </summary>
-
-    NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043)
-  </details>
-* Ур. 5 --- Bigger Fish to Fry --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=be87c59e2dcab150) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh051_01109/)
+* Ур. 1 --- My First Fishing Rod --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=176a804fd00a9b5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh021_01108/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043)
   </details>
-* Ур. 10 --- The Princess and the Fish --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5a62cd77bf0af592) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh101_01110/)
+* Ур. 5 --- Bigger Fish to Fry --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=92346b23789bfac6) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh051_01109/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043)
   </details>
-* Ур. 15 --- Every Fish Has a Silver Lining --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=979e01e782782c9d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh151_01111/)
+* Ур. 10 --- The Princess and the Fish --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7a03087f12f36e3d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh101_01110/)
+  <details>
+    <summary>NPC, предметы и т.д.
+    </summary>
+
+    NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043)
+  </details>
+* Ур. 15 --- Every Fish Has a Silver Lining --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3dae2672bb56afd2) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh151_01111/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043), [Chuchuroon](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20cd50c63dd83571), [Вавалаго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6)
   </details>
-* Ур. 20 --- A Fish in Hot Water --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f842608987991561) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh201_01112/)
+* Ур. 20 --- A Fish in Hot Water --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2af8a7467bd76e74) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh201_01112/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043), [Chuchuroon](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=20cd50c63dd83571)
   </details>
-* Ур. 25 --- A Game of Cat and Fish --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f81278e64b865b6e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh251_01113/)
+* Ур. 25 --- A Game of Cat and Fish --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9ae8e0d392fa1f22) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh251_01113/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043)
   </details>
-* Ур. 30 ---Like Fish Passing in the Night --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=45123b39e6d43934) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh301_01114/)
+* Ур. 30 --- Like Fish Passing in the Night --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=7fe6521ce49a149f) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh301_01114/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043), [Tocktix](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ad42fcb6bff379c), [Вавалаго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6)
   </details>
-* Ур. 35 --- A Fish out of Water --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=994ad20ee09fa17e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh351_01115/)
+* Ур. 35 --- A Fish out of Water --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=28392251e1f3ea0) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh351_01115/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043), [U'goromuli](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e3e6e11856ddb377), [Tocktix](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4ad42fcb6bff379c)
   </details>
-* Ур. 40 --- Fishing in the Rain --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ced8200068c09d1a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh401_01116/)
+* Ур. 40 --- Fishing in the Rain --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f3e4b26712329a09) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh401_01116/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043), [Sybell](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5412b3dbe0932993)
   </details>
-* Ур. 45 --- I Believe Fish Can Fly --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=8181db0bdd679418) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh451_01117/)
+* Ур. 45 --- I Believe Fish Can Fly --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9afada00404e4892) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh451_01117/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043), [Sybell](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=5412b3dbe0932993), [Firminnant](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=2760a48614718e81)
   </details>
-* Ур. 50 --- So Long, and Thanks for All the Fish --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=f11e070d9a446a3) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh501_01118/)
+* Ур. 50 --- So Long, and Thanks for All the Fish --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2a79be913c6b3b3b) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-clsfsh501_01118/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -452,7 +452,7 @@ title: Адепты Сбора
 
 ![Изображение заданий рыбака - HW](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/ddba074e4a20a0746365df4c5d25e1854c1244c2.png?n6.18)
 
-* Ур. 50 --- Plenty More Fish in the Sea --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=14fcf1f2f970fbff) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsfsh502_02085/)
+* Ур. 50 --- Plenty More Fish in the Sea --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=14db465590cfd1e8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsfsh502_02085/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -461,7 +461,7 @@ title: Адепты Сбора
     <br>
     Предметы: [Forgotten Rod](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=8366669621d3a66d) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=8366669621d3a66d))
   </details>
-* Ур. 53 --- The Icepick Challenge --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5aa03a49125b190a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsfsh530_02086/)
+* Ур. 53 --- The Icepick Challenge --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=e46ffc4809acb309) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsfsh530_02086/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -470,21 +470,21 @@ title: Адепты Сбора
     <br>
     Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=29c136bdb975991a)
   </details>
-* Ур. 55 --- Invasion of the Supper Snatchers --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=90cc1ca63ac6d420) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsfsh550_02087/)
+* Ур. 55 --- Invasion of the Supper Snatchers --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=1c6ec625c5f5d326) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsfsh550_02087/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Ansaulme](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a56172abd59c23bc), [Reyna](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=fa13dbf9b4701add), [Sten](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7fab635064d9010), [Tailfeather hunter](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=aca1458c0810f6a), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=32a4b7417100aeb3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=ac14f6dc2d3dc460), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e91fb6e0f3bf95b3), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=9c4265cbcdfae087)
   </details>
-* Ур. 58 --- One Man's Fish Is Another Man's Poison --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=a508570b4687e338) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsfsh580_02088/)
+* Ур. 58 --- One Man's Fish Is Another Man's Poison --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=72a864f14db0daf4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsfsh580_02088/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Ansaulme](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a56172abd59c23bc), [Sisipu](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7a55838044a52043), [elderly Elezen](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4fe7737f2e07c1ca), [Mogtoe](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=f01f926a163e3cc1), [Mogukk](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=665bc060ff6474fe)
   </details>
-* Ур. 60 --- Carpe Diem --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2df3b2676a9aa946) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsfsh600_02089/)
+* Ур. 60 --- Carpe Diem --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cc95f73b709f892e) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-020-clsfsh600_02089/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -496,7 +496,7 @@ title: Адепты Сбора
 
 ![Изображение заданий рыбака - SB](https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/44f99b3792a7b924f557887ead4ad81d1517575c.png)
 
-* Ур. 60 --- Whither Wawalago Wanders --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6b53484f3347f997) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-clsfsh601_02895/)
+* Ур. 60 --- Whither Wawalago Wanders --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9565bb144030acf4) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-clsfsh601_02895/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -505,20 +505,21 @@ title: Адепты Сбора
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=2df0b40ddd758e72)
   </details>
-* Ур. 63 --- A Rousing Reunion --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ef6e655a142b7843) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-clsfsh630_02896/)
+* Ур. 63 --- A Rousing Reunion --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=cf6f8403149f1dd9) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-clsfsh630_02896/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
 
     NPC: [Вавалаго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6), [Reyna](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=7d95de2295e79c43), [Govv](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=4f9b4a79951d339f)
   </details>
-* Ур. 65 --- Search for the Spawning Grounds --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=53dfea90ac8178a5) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-clsfsh650_02897/)
+* Ур. 65 --- Search for the Spawning Grounds --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=48cd98dcb8ca3f87) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-clsfsh650_02897/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
+
     NPC: [Вавалаго](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=e007d35ca69c8dc6), [Reyna](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=1d7bb5407b76b422), [Ukimono](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=6cebcd9565850dda), [Govv](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=212c6f5b52c92258), [Reyna](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=709f444f82efa421), [Reyna](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=c35f0dcad2f1b14d)
   </details>
-* Ур. 68 --- Always a Bigger Fish --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=2c86b27789481785) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-clsfsh680_02898/)
+* Ур. 68 --- Always a Bigger Fish --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=79ed74d6ee609b9a) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-clsfsh680_02898/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
@@ -529,7 +530,7 @@ title: Адепты Сбора
     <br>
     Надписи на земле: [Цель](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=24182d6d05b1cafc)
   </details>
-* Ур. 70 --- Farewell, and Thanks for the Fish --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=5b64341013129cdf) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-clsfsh700_02899/)
+* Ур. 70 --- Farewell, and Thanks for the Fish --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=572fe5eea6eae1fd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-028-clsfsh700_02899/)
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
