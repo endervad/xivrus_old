@@ -297,7 +297,7 @@ title: Основной сюжет — A Realm Reborn
       Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a85ce46173ed3de2), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=39826d1004ab5970)
     </details>
     * \+ [Квест класса 1-го ур.](/markdown/job-quests/dow#marauder)
-  * Арканист --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b2a04461f02cb97) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-mansea002_00108/)
+  * Арканист --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b2a04461f02cb97) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-mansea003_00109/)
     <details>
       <summary>NPC, предметы и т.д.
       </summary>
