@@ -16,11 +16,11 @@ title: Удаление перевода
 
 В окне TexTools перейдите в Mods > Mod List > Manage Mod List.
 
-![Удаление перевода - 1](/xivrus/assets/images/uninstall-guide-01.png)
+![Удаление перевода - 1](/assets/images/uninstall-guide-01.png)
 
 В появившемся окне раскройте список <<ModPacks>>, выберите название мода --- <<Русский перевод>> (RUS) или <<Русский перевод (EN)>> (RUEN) --- и нажмите справа-внизу <<Delete>>.
 
-![Удаление перевода - 2](/xivrus/assets/images/uninstall-guide-02.png)
+![Удаление перевода - 2](/assets/images/uninstall-guide-02.png)
 
 >Если у вас каким-то образом оказались в списке и RUS, и RUEN, то удаляйте их оба.
 
@@ -30,10 +30,10 @@ title: Удаление перевода
 
 В окне TexTools перейдите в Help > Start Over.
 
-![Удаление перевода - 3](/xivrus/assets/images/uninstall-guide-03.png)
+![Удаление перевода - 3](/assets/images/uninstall-guide-03.png)
 
 Программа предупредит вас о том, игровые файлы будут восстановлены в их оригинальный вид и что все моды будут удалены, --- соглашаемся, нажав на <<Yes>>.
 
-![Удаление перевода - 4](/xivrus/assets/images/uninstall-guide-04.png)
+![Удаление перевода - 4](/assets/images/uninstall-guide-04.png)
 
 Спустя недолгое время операция будет завершена и игра будет снова на английском.

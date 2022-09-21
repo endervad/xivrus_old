@@ -192,4 +192,4 @@ title: Основной сюжет — Shadowbringers
 * On Official Business
 * Death Unto Dawn
 
-_Продолжение следует в [Endwalker](/xivrus/markdown/msq/ew)..._
+_Продолжение следует в [Endwalker](/markdown/msq/ew)..._

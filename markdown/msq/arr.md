@@ -32,7 +32,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=c4de3eb2e00736d2) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=c4de3eb2e00736d2))
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dow#lancer)
+    * \+ [Квест класса 1-го ур.](/markdown/job-quests/dow#lancer)
   * Лучник --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=6f1e8ba42b234971) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-manfst003_00123/)
     <details>
       <summary>NPC, предметы и т.д.
@@ -42,7 +42,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=f0527ccaab28019b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=f0527ccaab28019b))
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dow#archer)
+    * \+ [Квест класса 1-го ур.](/markdown/job-quests/dow#archer)
   * Элементалист --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=ca40a372ae05a9b8) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-manfst004_00124/)
     <details>
       <summary>NPC, предметы и т.д.
@@ -52,7 +52,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Предметы: [Пирог с угрём](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=530ef6f448a231fa) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=530ef6f448a231fa))
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dom#conjurer)
+    * \+ [Квест класса 1-го ур.](/markdown/job-quests/dom#conjurer)
   * A Good Adventurer Is Hard to Find --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=9614371437e6f570) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-000-subfst010_00001/)
     <details>
       <summary>NPC, предметы и т.д.
@@ -296,7 +296,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Надписи на земле: [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a85ce46173ed3de2), [(без названия)](https://host6450.hnt.ru/translate/ffxiv-translation/eobjname/ru/?checksum=39826d1004ab5970)
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dow#marauder)
+    * \+ [Квест класса 1-го ур.](/markdown/job-quests/dow#marauder)
   * Арканист --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b2a04461f02cb97) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-mansea002_00108/)
     <details>
       <summary>NPC, предметы и т.д.
@@ -306,7 +306,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Предметы: [Ржавый октант](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=92cddad5dc1fb9e7) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=92cddad5dc1fb9e7))
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dom#arcanist)
+    * \+ [Квест класса 1-го ур.](/markdown/job-quests/dom#arcanist)
   * Making a Name --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=3d7f6a1d77769f92) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-001-subsea001_00111/)
     <details>
       <summary>NPC, предметы и т.д.
@@ -554,7 +554,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Предметы: [Рекомендательное письмо](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=fdf739d88ba5a459) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=fdf739d88ba5a459))
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dow#gladiator)
+    * \+ [Квест класса 1-го ур.](/markdown/job-quests/dow#gladiator)
   * Борец --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=b4b3ade6c72949cd) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil003_00569/)
     <details>
       <summary>NPC, предметы и т.д.
@@ -564,7 +564,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Предметы: [Рекомендательное письмо](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=639fc0063058343a) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=639fc0063058343a))
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dow#pugilist)
+    * \+ [Квест класса 1-го ур.](/markdown/job-quests/dow#pugilist)
   * Оккультист --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=af20ff3646f44f0d) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-manwil004_00570/)
     <details>
       <summary>NPC, предметы и т.д.
@@ -574,7 +574,7 @@ title: Основной сюжет — A Realm Reborn
       <br>
       Предметы: [Рекомендательное письмо](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=9df914b7831f227b) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=9df914b7831f227b))
     </details>
-    * \+ [Квест класса 1-го ур.](/xivrus/markdown/job-quests/dom#thaumaturge)
+    * \+ [Квест класса 1-го ур.](/markdown/job-quests/dom#thaumaturge)
 * We Must Rebuild --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=534be0f990cd0564) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-005-subwil027_00595/)
   <details>
     <summary>NPC, предметы и т.д.
@@ -2220,7 +2220,7 @@ title: Основной сюжет — A Realm Reborn
     Предметы: [Warburton's Journal](https://host6450.hnt.ru/translate/ffxiv-translation/eventitem/ru/?checksum=291587bbdfbd6e21) ([Описание](https://host6450.hnt.ru/translate/ffxiv-translation/eventitemhelp/ru/?checksum=291587bbdfbd6e21))
   </details>
 
-*Для продолжения игроку требуется сначала пройти серию [заданий Кристальной башни](/xivrus/markdown/chronicles#crystal-tower).*
+*Для продолжения игроку требуется сначала пройти серию [заданий Кристальной башни](/markdown/chronicles#crystal-tower).*
 
 ## 2.2 --- Through the Maelstrom {#arr-2-2}
 
@@ -2823,4 +2823,4 @@ title: Основной сюжет — A Realm Reborn
     NPC: [Оршефан](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=d0a16cdf0ef3d2e5), [Альфино](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=199ef080466fbc2b), [House Fortemps guard](https://host6450.hnt.ru/translate/ffxiv-translation/enpcresident/ru/?checksum=a1a1ef8253e03cdd)
   </details>
 
-_Продолжение следует в [Heavensward](/xivrus/markdown/msq/hw)..._
+_Продолжение следует в [Heavensward](/markdown/msq/hw)..._

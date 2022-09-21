@@ -307,7 +307,7 @@ title: Основной сюжет (MSQ)
 * The Gifted --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=dc902fc6ba3c0410) / [Квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse118_01192/) / [Кат-сцена 1](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse118_01192/) - 20--22 / [Кат-сцена 2](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse118_01192/) - 30--64 / [Кат-сцена 3](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse118_01192/) - 70--79 / [Кат-сцена 4](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse118_01192/) - 120--130
 * Build on the Stone --- [Название](https://host6450.hnt.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4ab905f716f9a983) / [Старый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse119_01193/) / [Новый квест](https://host6450.hnt.ru/projects/ffxiv-translation/quest-038-xxause119_03878/) / [Кат-сцена 1](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse119_01193/) - 40--71 / [Кат-сцена 2](https://host6450.hnt.ru/projects/ffxiv-translation/quest-011-gaiuse119_01193/) - 80--87
 
-*Для продолжения игроку требуется сначала пройти серию [заданий Кристальной башни](/xivrus/markdown/chronicles#crystal-tower).*
+*Для продолжения игроку требуется сначала пройти серию [заданий Кристальной башни](/markdown/chronicles#crystal-tower).*
 
 ## 2.2 --- Through the Maelstrom {#arr-2-2}
 

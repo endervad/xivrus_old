@@ -197,4 +197,4 @@ title: Основной сюжет — Stormblood
 * A Brief Reprieve
 * A Requiem for Heroes
 
-_Продолжение следует в [Shadowbringers](/xivrus/markdown/msq/shb)..._
+_Продолжение следует в [Shadowbringers](/markdown/msq/shb)..._
