@@ -12,5 +12,5 @@ kramdown:
   parse_block_html: true
 
 github:
-  rus_url: https://github.com/endervad/ffxiv_translation/releases/download/v0.5.1/RUS-0.5.1-2022-07-27.ttmp2
-  ruen_url: https://github.com/endervad/ffxiv_translation/releases/download/v0.5.1/RUEN-0.5.1-2022-07-27.ttmp2
+  rus_url: https://github.com/endervad/ffxiv_translation/releases/download/v0.5.4/RUS-0.5.4-2022-09-14.ttmp2
+  ruen_url: https://github.com/endervad/ffxiv_translation/releases/download/v0.5.4/RUEN-0.5.4-2022-09-14.ttmp2
