@@ -2732,7 +2732,7 @@ title: Основной сюжет — A Realm Reborn
     <br>
     Надписи на земле: [(без названия)](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=a0dbd5ada97dae91), [(без названия)](https://translate.xivrus.ru/translate/ffxiv-translation/eobjname/ru/?checksum=e98109d59f8d302e)
   </details>
-* The Steps of Faith --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4615cbe544d4a1df) / [Старый квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiuse607_00419/) / [Новый квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiuse607_00419/) - 20--24
+* The Steps of Faith --- [Название](https://translate.xivrus.ru/translate/ffxiv-translation/completejournal/ru/?checksum=4615cbe544d4a1df) / [Старый квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiuse607_00419/) / [Новый квест](https://translate.xivrus.ru/projects/ffxiv-translation/quest-045-xxcuse607_04591/) / [Кат-сцена](https://translate.xivrus.ru/projects/ffxiv-translation/quest-004-gaiuse607_00419/) - 20--24
   <details>
     <summary>NPC, предметы и т.д.
     </summary>
